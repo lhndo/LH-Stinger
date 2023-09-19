@@ -8,6 +8,9 @@ Status: *Beta Testing*
 
 ## Features
 -
+
+![Resonance Test X](Images/X.png)
+![Resonance Test Y](Images/Y.png)
 ## Credits
 
 _Inspired by the [Annex Engineering](https://github.com/Annex-Engineering) team and [Community](https://discord.com/invite/MzTR3zE), alongside the crazy [Klipper](https://discord.klipper3d.org) people that continue to push bed slingers to the limits. :purple_heart:_
