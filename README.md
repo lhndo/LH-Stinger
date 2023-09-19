@@ -54,7 +54,7 @@ Status: **Beta Testing**
 
 _Inspired by the [Annex Engineering](https://github.com/Annex-Engineering) team and [community](https://discord.com/invite/MzTR3zE), alongside the  [Klipper community](https://discord.klipper3d.org) and all the crazy people that continue to push bed slingers to the limits. :purple_heart:_
 
-_-Toolhead evolved from an original design by [Dalegaard](https://github.com/dalegaard)<br>
+_-Toolhead evolved from an amazing design by [Dalegaard](https://github.com/dalegaard)<br>
 -Silicon sock mold based on [Renátó Kulman](https://www.printables.com/@RenatoKulman)<br>
 -Wago 221 mounts by [fns720](https://www.printables.com/@fns720)<br>
 -SSR protection cover based on [Technoturk](https://www.printables.com/@Technoturk_377911)<br>
