@@ -1,0 +1,188 @@
+/* .
+This is a dark-mode theme for mainsail
+including the Annex Engineering logo and accent colors
+*/
+
+
+:root {
+    --Primary:        #159BA5;    
+    --Secondary:      #0696a0;   
+    --Green:          #159BA5;    
+    --Red:            #c9300a;   
+    --Warnings:       #ffb86c;    
+    --Text:           #f8f8f2;    
+    --DarkerText:     #f5f5f2;   
+    --Background:       #44475a;    
+    --DarkBackground: #282a36;    
+    --Toolbars:       #44475a;    
+    --Sheets:         #282a36;   
+}
+
+
+/* Change Colors of toolbar & warning */
+
+#nav-header .v-toolbar__title {
+    font-size: 24px;
+    vertical-align: middle;
+    color: white;
+    font-family: monospace;
+}
+
+.v-application .warning {
+    background-color: #8ec84d !important;
+    border-color: #8ec84d ;
+}
+
+.v-application .primary {
+    background-color: black !important;
+}
+
+.v-application .text-body-2, .v-application .text-button {
+    font-size: .875rem!important;
+    font-family: Roboto,sans-serif!important;
+    color: black;
+}
+
+/* Change Color of text */
+.v-btn__content .v-toolbar__title {
+    color: var(--Text) !important;
+}
+.text--darken-2 {
+    color: var(--Text) !important;
+}
+.subheading {
+    color: var(--Text) !important;
+}
+.theme--dark.v-icon, .v-btn__content, .v-text-field__suffix {
+    color: var(--Text) !important;
+}
+.theme--dark.v-input, .theme--dark.v-input input, .theme--dark.v-input textarea {
+    color: var(--Text) !important;
+}
+.v-application .blue--text {
+    color: var(--Text) !important;
+}
+
+/* Change color of primary */ 
+
+.v-application .primary--text {
+    color: white!important;
+    caret-color: white !important;
+}
+.v-application .blue--text {
+    color: white!important;
+    caret-color: white !important;
+}
+
+/* application changes */
+
+.v-application .info {
+    background-color: black!important;
+    border-color: black!important;
+}
+.v-text-field.v-text-field--solo:not(.v-text-field--solo-flat)>.v-input__control>.v-input__slot:focus-within {
+    border: thin solid var(--Primary) !important;
+}
+.v-text-field.v-text-field--solo .v-input__control input {
+    caret-color: var(--Primary);
+}
+.theme--dark.v-color-picker .v-color-picker__input input {
+    border: thin solid var(--Primary);
+    color: var(--Text);
+}
+
+/*Change color of print circle & pause/cancel/resume button*/
+
+.v-application .orange {
+    background-color: #ff5252 !important;
+    border color: #ff5252 !important;
+}
+
+.v-progress-circular__overlay {
+    stroke: #ff5252 !important;
+}
+
+/* Change Background and Toolbars */
+body {
+    background-color: var(--Background);
+}
+.v-sheet {
+    border-color: var(--Background);
+}
+
+/*
+    CHANGE content of icons 
+    Material Desgin Icons can be found on https://pictogrammers.github.io/@mdi/font/5.2.45/
+*/
+
+/* "Cog"/Gearwheel to Wrench */
+.mdi-cog:before {
+    content: "\F05B7";
+}
+
+/* Heatbed to Campfire */
+.mdi-radiator-disabled:before {
+    content: "\F0EDD";
+}
+
+/* Heatbed to Campfire */
+.mdi-radiator:before {
+    content: "\F0EDD";
+}
+
+/* Thermometer to Temp Chart */
+.mdi-thermometer-lines:before {
+    content: "\F0FA7";
+}
+
+/* Controls to Camera Control Slider */
+.mdi-gamepad:before {
+    content: "\F0B69";
+}
+
+/* Code-Tags to Keyboard */
+.mdi-code-tags:before {
+    content: "\F0313";
+}
+
+/* Dipswitch to Tune */
+.mdi-dip-switch:before {
+    content: "\F062E";
+}
+
+/* Home to Home Group */
+.mdi-home:before {
+    content: "\F0DD4";
+}
+
+/* Arrow-collapse vertical to single bar collapse */
+.mdi-arrow-collapse-vertical:before {
+    content: "\F0622"
+}
+
+}
+
+/* console to boxed console */
+.mdi-console-line:before {
+    content: "\F018D"
+}
+
+/* "Cog"/Gearwheel to Wrench */
+.mdi-wrench:before {
+    content: "\F0493";
+}
+
+/* Dashboard Monitor to Dashboard window */
+.mdi-monitor-dashboard:before {
+    content: "\F0A1D";
+}
+
+/* History to Profile History */
+.mdi-history:before {
+    content: "\F0B56";
+}
+
+/* Question-mark to Information/About */
+.mdi-help-circle-outline:before {
+    content: "\F02FD";
+}
