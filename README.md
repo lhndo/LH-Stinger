@@ -1,7 +1,13 @@
 ﻿# LH Stinger
-   *A no compromise cartesian 3D Printer designed for speed and precision.*
+Status: **Beta Testing** 
 
-Status: **Beta Testing**
+ ![Image of Stinger Front](Images/LHS_banner.png)
+   >  *A no compromise cartesian 3D Printer designed for speed and precision.*
+<br>
+[**BOM / Sourcing Guide**](https://docs.google.com/spreadsheets/d/1s8ulLfThmbuy1G_40MvkXXL2oVx9PZhvpAY9hMxqYbg/edit?usp=drive_link)
+<br>
+<br>
+<br>
 
 ![Image of Stinger Front](Images/New_Frame_v1023.png)
 ![Image of Stinger Back](Images/New_Frame_v1023b.png)
@@ -27,6 +33,7 @@ Status: **Beta Testing**
 - Independent Z stepper motors with Z Tilt capability for the X-axis
 - Lightweight dual plate carbon fiber bed carriage with integrated tensioner and compatible with different bed sizes
 - Rigid bed mount
+- Bearing supported stepper shafts in double shear mounts on the Y-axis 
 - High torque LDO-42STH48-2504AC stepper motors running on 36V for the X and Y-axis
 - Dual power supply supporting 24V and 36V power standards (easily configurable for 48V)
 - Driven by the Octopus Pro 1.1 board with TMC2240 drivers
