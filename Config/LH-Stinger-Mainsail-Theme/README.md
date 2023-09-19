@@ -2,4 +2,4 @@
 
 ![Screenshot](screenshot.png)
    
-Place these files in a ".theme" folder located inside your main config folder.  
+Place these files inside a ".theme" folder located in your main /config folder.  
