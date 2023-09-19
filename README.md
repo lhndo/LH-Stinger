@@ -2,15 +2,14 @@
 Status: **Beta Testing** 
 
  ![Image of Stinger Front](Images/LHS_banner.png)
-   >  *A no compromise cartesian 3D Printer designed for speed and precision.*
-<br>
-[**BOM / Sourcing Guide**](https://docs.google.com/spreadsheets/d/1s8ulLfThmbuy1G_40MvkXXL2oVx9PZhvpAY9hMxqYbg/edit?usp=drive_link)
-<br>
-<br>
+   > *A no compromise cartesian 3D Printer designed for speed and precision.*
+
 <br>
 
 ![Image of Stinger Front](Images/New_Frame_v1023.png)
 ![Image of Stinger Back](Images/New_Frame_v1023b.png)
+
+</br>[BOM / Sourcing Guide](https://docs.google.com/spreadsheets/d/1s8ulLfThmbuy1G_40MvkXXL2oVx9PZhvpAY9hMxqYbg/edit?usp=drive_link)
 
 ## Features
 
