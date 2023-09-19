@@ -6,8 +6,8 @@ including the Annex Engineering logo and accent colors
 
 :root {
     --Primary:        #d0dd1d;    
-    --Secondary:      #0696a0;   
-    --Green:          #159BA5;    
+    --Secondary:      #11c3cf;   
+    --Green:          #11c3cf;    
     --Red:            #c9300a;   
     --Warnings:       #ffb86c;    
     --Text:           #f8f8f2;    
@@ -29,18 +29,18 @@ including the Annex Engineering logo and accent colors
 }
 
 .v-application .warning {
-    background-color: #11b6d3 !important;
-    border-color: #11b6d3 ;
+    background-color: #cca805 !important;
+    border-color: #cca805 ;
 }
 
 .v-application .primary {
-    background-color: black !important;
+    background-color: #0ab1bd !important;
 }
 
 .v-application .text-body-2, .v-application .text-button {
     font-size: .875rem!important;
     font-family: Roboto,sans-serif!important;
-    color: black;
+    color: rgb(98, 180, 176);
 }
 
 /* Change Color of text */
@@ -94,8 +94,8 @@ including the Annex Engineering logo and accent colors
 /*Change color of print circle & pause/cancel/resume button*/
 
 .v-application .orange {
-    background-color: #ff5252 !important;
-    border color: #ff5252 !important;
+    background-color: #db5a33 !important;
+    border color: #db5a33 !important;
 }
 
 .v-progress-circular__overlay {
