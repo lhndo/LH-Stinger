@@ -5,14 +5,14 @@ including the Annex Engineering logo and accent colors
 
 
 :root {
-    --Primary:        #159BA5;    
+    --Primary:        #d0dd1d;    
     --Secondary:      #0696a0;   
     --Green:          #159BA5;    
     --Red:            #c9300a;   
     --Warnings:       #ffb86c;    
     --Text:           #f8f8f2;    
     --DarkerText:     #f5f5f2;   
-    --Background:       #44475a;    
+    --Background:     #44475a;    
     --DarkBackground: #282a36;    
     --Toolbars:       #44475a;    
     --Sheets:         #282a36;   
@@ -29,8 +29,8 @@ including the Annex Engineering logo and accent colors
 }
 
 .v-application .warning {
-    background-color: #8ec84d !important;
-    border-color: #8ec84d ;
+    background-color: #11b6d3 !important;
+    border-color: #11b6d3 ;
 }
 
 .v-application .primary {
