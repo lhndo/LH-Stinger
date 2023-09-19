@@ -52,7 +52,7 @@ Status: **Beta Testing**
 <br>
  
 
-**Resonance Tests**<br>
+**Resonance Tests:**<br>
 ![Resonance Test X](Images/X.png)<br>
 ![Resonance Test Y](Images/Y.png)<br>
 
