@@ -9,39 +9,39 @@ Status: **Beta Testing**
 ## Features
 
 - Lightweight bed carriage assembly with carbon fiber components
-- Cross frame design focused on stifness and stability
+- Cross Frame design focused on stiffness and stability
 - Low center of gravity
-- AWD stepper configuration for the Y axis 
+- AWD stepper configuration for the Y-axis
 - 235 mm^2 x 200mm maximum build volume (easily expandable to other sizes)
-    - 200 mm^2 carbon fiber bed for high speed setup
-- Optimised for daily print speeds of 400-600 mm/s with 20.000 mm/s^2 acceleration
+    - 200 mm^2 carbon fiber bed for high-speed setup
+- Optimized for daily print speeds of 400-600 mm/s with 20.000 mm/s^2 acceleration
 - Motion system capable of 1.000 mm/s speed with 100.000 mm/s^2 acceleration
-- Maximum volumetric flow rate ~49 mm^3/s
+- Maximum volumetric flow rate: ~ 49 mm^3/s
 - Build using 30 series T-slot extrusion with parts up to 3090
 - All bracket assembly
-- Geinune high quality motion system components
-- All based on MGN12H Rails with high preload
-- Fully belt driven with minimal belt paths
-- 9mm 2GT belt in symmetrical configuration for Y axis
+- Genuine high-quality motion system components
+- All motion based on MGN12H Rails with high preload
+- Fully belt-driven with minimal belt paths
+- 9mm 2GT belt in symmetrical configuration for Y-axis
 - 6mm 2GT belts for the rest of the axis
-- Independent Z stepper motors with Z Tilt capability for the X axis
+- Independent Z stepper motors with Z Tilt capability for the X-axis
 - Lightweight dual plate carbon fiber bed carriage with integrated tensioner and compatible with different bed sizes
 - Rigid bed mount
-- High torque LDO-42STH48-2504AC stepper motors running on 36V for the X and Y axis
+- High torque LDO-42STH48-2504AC stepper motors running on 36V for the X and Y-axis
 - Dual power supply supporting 24V and 36V power standards (easily configurable for 48V)
 - Driven by the Octopus Pro 1.1 board with TMC2240 drivers
-- Running Klipper firmware
-- Highly serviceble external electronic box with good air flow, supporting multiple power supplies and configurations.
+- Running [Klipper](https://github.com/Klipper3d/klipper) firmware
+- Easily serviceable external electronic box with good airflow, and support for multiple power supplies and configurations.
 - Good cable management
 - Toolhead based on the Dragon HF and HF extender
   - Custom silicon sock mold available for RTV casting
 - LDO Orbiter 2.0 direct drive extruder
 - Dual 5015 fan setup for part cooling
 - Adopts the [Annex Engineering Quickdraw Probe](https://github.com/Annex-Engineering/Quickdraw_Probe)
-- Minimalistic part design focused on strength and easy printabilty
+- Minimalistic part design focused on strength and easy printability
 - Printed in ASA
 - Easily enclosed, with the main electronic components outside of the build chamber.
-    - In the 200 mm^2 bed configuration it is possible to fully enclose it up to the frame bounding box, with no extra space needed for the bed.
+    - The 200 mm^2 bed configuration ca be fully enclose up to the frame bounding box, with no extra space needed for the bed.
   
 <br>
  
