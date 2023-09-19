@@ -1,7 +1,7 @@
 ﻿# LH-Stinger
-Designed to be a fast, no compromise, cartesian 3D Printer. 
+***Designed to be a fast, no compromise, cartesian 3D Printer.****
 
-Status: **Beta Testing**
+Status: *Beta Testing*
 
 ![Image of Stinger Front](Images/New_Frame_v1023.png)
 ![Image of Stinger Back](Images/New_Frame_v1023b.png)
