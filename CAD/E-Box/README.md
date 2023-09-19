@@ -1,1 +1,1 @@
-![Preview](/../../Images/prev_ebox.png)
+![Preview](/Images/prev_ebox.png)
