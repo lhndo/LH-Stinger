@@ -27,10 +27,10 @@ Status: **Beta Testing**
 - Genuine high-quality motion system components
 - Entire motion system based on high preload MGN12H linear guide rails
 - Fully belt-driven with minimal belt paths
-- 9mm 2GT belt in symmetrical configuration for Y-axis
+- 9mm 2GT belt in symmetrical configuration for the Y-axis
 - 6mm 2GT belts for the rest of the axis
 - Independent Z stepper motors with Z Tilt capability for the X-axis
-- Lightweight dual plate carbon fiber bed carriage with integrated tensioner and compatible with different bed sizes
+- Lightweight dual plate carbon fiber bed carriage with integrated tensioner and compatible with different bed sizes and carriage configurations
 - Rigid bed mount
 - Bearing supported Y-axis stepper motor shafts in double shear mounts
 - High torque LDO-42STH48-2504AC stepper motors supplied with 36V for the X and Y-axis
@@ -38,9 +38,9 @@ Status: **Beta Testing**
 - Driven by the Octopus Pro 1.1 board with TMC2240 drivers
 - Running [Klipper](https://github.com/Klipper3d/klipper) firmware
 - Easily serviceable external electronic box with good airflow, and support for multiple power supplies, SSRs, RPi and large controller boards.
-- Good cable management
+- Good cable management with a quick disconnect system between the printer and ebox
 - Toolhead based on the Dragon HF hotend and HF extender
-  - Custom silicon sock mold available for RTV casting
+  - Custom thick silicon sock mold available for RTV casting
 - LDO Orbiter 2.0 direct drive extruder
 - Dual 5015 fan setup for part cooling
 - Adopts the [Annex Engineering Quickdraw Probe](https://github.com/Annex-Engineering/Quickdraw_Probe)
