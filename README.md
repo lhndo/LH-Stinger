@@ -22,32 +22,32 @@ Status: **Beta Testing**
 - Optimized for daily print speeds of 400-600 mm/s with 20.000 mm/s^2 acceleration
 - Motion system capable of 1.000 mm/s speed with 100.000 mm/s^2 acceleration
 - Maximum volumetric flow rate: ~ 49 mm^3/s
-- Build using 30 series T-slot extrusion with parts up to 3090
+- Built using 30 series T-slotted extrusions with parts up to 3090
 - All bracket assembly
 - Genuine high-quality motion system components
-- All motion based on MGN12H Rails with high preload
+- Entire motion system based on high preload MGN12H linear guide rails
 - Fully belt-driven with minimal belt paths
 - 9mm 2GT belt in symmetrical configuration for Y-axis
 - 6mm 2GT belts for the rest of the axis
 - Independent Z stepper motors with Z Tilt capability for the X-axis
 - Lightweight dual plate carbon fiber bed carriage with integrated tensioner and compatible with different bed sizes
 - Rigid bed mount
-- Bearing supported stepper shafts in double shear mounts on the Y-axis 
-- High torque LDO-42STH48-2504AC stepper motors running on 36V for the X and Y-axis
+- Bearing supported Y-axis stepper motor shafts in double shear mounts
+- High torque LDO-42STH48-2504AC stepper motors supplied with 36V for the X and Y-axis
 - Dual power supply supporting 24V and 36V power standards (easily configurable for 48V)
 - Driven by the Octopus Pro 1.1 board with TMC2240 drivers
 - Running [Klipper](https://github.com/Klipper3d/klipper) firmware
-- Easily serviceable external electronic box with good airflow, and support for multiple power supplies and configurations.
+- Easily serviceable external electronic box with good airflow, and support for multiple power supplies, SSRs, RPi and large controller boards.
 - Good cable management
-- Toolhead based on the Dragon HF and HF extender
+- Toolhead based on the Dragon HF hotend and HF extender
   - Custom silicon sock mold available for RTV casting
 - LDO Orbiter 2.0 direct drive extruder
 - Dual 5015 fan setup for part cooling
 - Adopts the [Annex Engineering Quickdraw Probe](https://github.com/Annex-Engineering/Quickdraw_Probe)
-- Minimalistic part design focused on strength and easy printability
-- Printed in ASA
+- Minimalistic printed parts design focused on strength and easy printability
+- Printed in ASA, providing high temperature resistance
 - Easily enclosed, with the main electronic components outside of the build chamber.
-    - The 200 mm^2 bed configuration ca be fully enclose up to the frame bounding box, with no extra space needed for the bed.
+    - The 200 mm^2 bed configuration ca be fully enclose up to the frame bounding box. No extra space is needed for the bed movement.
   
 <br>
  
