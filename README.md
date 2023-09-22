@@ -47,7 +47,7 @@ Status: **Beta Testing**
 - Minimalistic printed parts design focused on strength and easy printability
 - Printed in ASA, providing high temperature resistance
 - Easily enclosed, with the main electronic components outside of the build chamber.
-    - The 200 mm^2 bed configuration ca be fully enclose up to the frame bounding box. No extra space is needed for the bed movement.
+    - The 200 mm^2 bed configuration can be fully enclose up to the frame bounding box. No extra space is needed for the bed movement.
   
 <br>
  
