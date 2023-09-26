@@ -11,15 +11,17 @@ Status: **Beta Testing**
 ![Image of Stinger Front](Images/New_Frame_v1023.png)
 ![Image of Stinger Back](Images/New_Frame_v1023b.png)
 
-## Resources <br><br>
+## Resources
+<br>
 
 > [BOM / Sourcing Guide](https://docs.google.com/spreadsheets/d/1s8ulLfThmbuy1G_40MvkXXL2oVx9PZhvpAY9hMxqYbg/edit?usp=drive_link)  
-> [STL Files and Printing Instructions](https://docs.google.com/spreadsheets/d/1s8ulLfThmbuy1G_40MvkXXL2oVx9PZhvpAY9hMxqYbg/edit?usp=drive_link)  
-> [CAD Source Files ](https://docs.google.com/spreadsheets/d/1s8ulLfThmbuy1G_40MvkXXL2oVx9PZhvpAY9hMxqYbg/edit?usp=drive_link)
+> [STL Files and Printing Instructions](https://github.com/lhndo/LH-Stinger/tree/main/STL)  
+> [CAD Source Files ](https://github.com/lhndo/LH-Stinger/tree/main/CAD)
 
 <br>
 
-## Features<br><br>
+## Features
+<br>
 
 - Lightweight bed carriage assembly with carbon fiber components
 - Cross Frame design focused on stiffness and stability
@@ -66,20 +68,22 @@ Status: **Beta Testing**
 
 <br>
 
-## To Do <br>
+## To Do 
 
 - Cable strain relief for the 200mm² CF bed
 - Build log
 - Klipper configuration files
 - Documentation and asembly instructions
 
-<br>
 
-## Assambly Instructions <br>
+## Assembly Instructions 
 
 Please consult the CAD files for the assembly instructions, and contact me for support until the documentation will be made available.
 
-<br>
+## Contact
+
+@LH on ANNEX Engineering and Klipper Discord <br>
+lemurshaze @ gmail.com
 
 ## Credits
 
@@ -92,11 +96,7 @@ _-Toolhead evolved from an amazing design by [Dalegaard](https://github.com/dale
 -3030 extrusion Cable clip based on [Arthur_C](https://www.printables.com/@Arthur_C_428094)<br>
 -3030 t-nut clip based on [John_S](https://www.printables.com/@JohnS)<br>_
 
-## Contact
-
-@LH on ANNEX Engineering and Klipper Discord <br>
-lemurshaze @ gmail.com
-
 ## Support
 
 <a href='https://ko-fi.com/lh_eng' target='_blank'><img height='46' style='border:0px;height:36px;' src='https://az743702.vo.msecnd.net/cdn/kofi3.png?v=0' border='0' alt='Buy Me a Coffee at ko-fi.com' />
+
