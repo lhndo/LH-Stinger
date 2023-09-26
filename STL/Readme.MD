@@ -1,4 +1,4 @@
-## Naming Conventions<br><br>
+## Naming Conventions
 
 Filename: **AC** Y Stepper Mount A **SUP x2**.stl
 
@@ -6,9 +6,9 @@ Filename: **AC** Y Stepper Mount A **SUP x2**.stl
 > **SUP** - Supports required  
 > **x2** - Number of part copies required
 
-<br>
 
-## Print Settings <br><br>
+
+## Print Settings
 
 **Filament**: ASA  
 **Nozzle Size**: 0.4 or 0.5  
@@ -19,9 +19,9 @@ Filename: **AC** Y Stepper Mount A **SUP x2**.stl
 **Infill Density**: 40% minimum  
 **Infill Type**: Gyroid, Cubic
 
-<br>
 
-## Assemblies<br><br>
+
+## Assemblies
 
 Files containing all the parts organised by plates are available in the .3mf format for [Orca Slicer](https://github.com/SoftFever/OrcaSlicer)
 
@@ -34,9 +34,9 @@ Other Parts
 Ebox Parts  
 ![Preview](/Images/prev_o_ebox.png)
 
-<br>
 
-## Quickdraw<br><br>
+
+## Quickdraw
 
 Details about the Quickdraw probe can be found on the [Annex Engineering Git](https://github.com/Annex-Engineering/Quickdraw_Probe/tree/main)
 
