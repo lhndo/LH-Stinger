@@ -2,7 +2,7 @@
 
 Filename Example: **AC** Y Stepper Mount A **SUP x2**.stl
 
-> **AC** - Accent colored piece  
+> **AC** - Accent color part  
 > **SUP** - Supports required  
 > **x2** - Number of part copies required
 
@@ -25,15 +25,15 @@ Filename Example: **AC** Y Stepper Mount A **SUP x2**.stl
 
 Files containing all the parts organised by plates are available in the .3mf format for [Orca Slicer](https://github.com/SoftFever/OrcaSlicer)
 
-*Printer Parts*  <br>
+*Printer Parts:*  <br>
 
 ![Preview](/Images/prev_o_printer.png)  
 <br>
-*Other Parts*  <br>
+*Other Parts:*  <br>
 
 ![Preview](/Images/prev_o_other.png)  
 <br>
-*Ebox Parts*  <br>
+*Ebox Parts:*  <br>
 
 ![Preview](/Images/prev_o_ebox.png)
 
