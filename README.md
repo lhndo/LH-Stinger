@@ -1,24 +1,32 @@
 ﻿# LH Stinger
-Status: **Beta Testing** 
 
- ![Image of Stinger Front](Images/LHS_banner.png)
-   > *A no compromise cartesian 3D Printer designed for speed and precision.*
+Status: **Beta Testing**
+
+![Image of Stinger Front](Images/LHS_banner.png)
+
+> _A no compromise cartesian 3D Printer designed for speed and precision._
 
 <br>
 
 ![Image of Stinger Front](Images/New_Frame_v1023.png)
 ![Image of Stinger Back](Images/New_Frame_v1023b.png)
 
-</br>[BOM / Sourcing Guide](https://docs.google.com/spreadsheets/d/1s8ulLfThmbuy1G_40MvkXXL2oVx9PZhvpAY9hMxqYbg/edit?usp=drive_link)
+## Resources <br><br>
 
-## Features
+> [BOM / Sourcing Guide](https://docs.google.com/spreadsheets/d/1s8ulLfThmbuy1G_40MvkXXL2oVx9PZhvpAY9hMxqYbg/edit?usp=drive_link)  
+> [STL Files and Printing Instructions](https://docs.google.com/spreadsheets/d/1s8ulLfThmbuy1G_40MvkXXL2oVx9PZhvpAY9hMxqYbg/edit?usp=drive_link)  
+> [CAD Source Files ](https://docs.google.com/spreadsheets/d/1s8ulLfThmbuy1G_40MvkXXL2oVx9PZhvpAY9hMxqYbg/edit?usp=drive_link)
+
+<br>
+
+## Features<br><br>
 
 - Lightweight bed carriage assembly with carbon fiber components
 - Cross Frame design focused on stiffness and stability
 - Low center of gravity
 - AWD stepper configuration for the Y-axis
 - 235 mm^2 x 200mm maximum build volume (easily expandable to other sizes)
-    - 200 mm^2 carbon fiber bed for high-speed setup
+  - 200 mm^2 carbon fiber bed for high-speed setup
 - Optimized for daily print speeds of 400-600 mm/s with 20.000 mm/s^2 acceleration
 - Motion system capable of 1.000 mm/s speed with 100.000 mm/s^2 acceleration
 - Maximum volumetric flow rate: ~ 49 mm^3/s
@@ -47,18 +55,35 @@ Status: **Beta Testing**
 - Minimalistic printed parts design focused on strength and easy printability
 - Printed in ASA, providing high temperature resistance
 - Easily enclosed, with the main electronic components outside of the build chamber.
-    - The 200 mm^2 bed configuration can be fully enclose up to the frame bounding box. No extra space is needed for the bed movement.
-  
+  - The 200 mm^2 bed configuration can be fully enclose up to the frame bounding box. No extra space is needed for the bed movement.
+
 <br>
- 
+
 
 **Resonance Tests:**<br>
 ![Resonance Test X](Images/X.png)<br>
 ![Resonance Test Y](Images/Y.png)<br>
 
+<br>
+
+## To Do <br>
+
+- Cable strain relief for the 200mm² CF bed
+- Build log
+- Klipper configuration files
+- Documentation and asembly instructions
+
+<br>
+
+## Assambly Instructions <br>
+
+Please consult the CAD files for the assembly instructions, and contact me for support until the documentation will be made available.
+
+<br>
+
 ## Credits
 
-_Inspired by the [Annex Engineering](https://github.com/Annex-Engineering) team and [community](https://discord.com/invite/MzTR3zE), along with the  [Klipper community](https://discord.klipper3d.org), [RatRig](https://ratrig.com/) and all the crazy people that continue to push bed slingers to the limits. :purple_heart:_
+_Inspired by the [Annex Engineering](https://github.com/Annex-Engineering) team and [community](https://discord.com/invite/MzTR3zE), along with the [Klipper community](https://discord.klipper3d.org), [RatRig](https://ratrig.com/) and all the crazy people that continue to push bed slingers to the limits. :purple_heart:_
 
 _-Toolhead evolved from an amazing design by [Dalegaard](https://github.com/dalegaard)<br>
 -Silicon sock mold based on [Renátó Kulman](https://www.printables.com/@RenatoKulman)<br>
@@ -68,8 +93,10 @@ _-Toolhead evolved from an amazing design by [Dalegaard](https://github.com/dale
 -3030 t-nut clip based on [John_S](https://www.printables.com/@JohnS)<br>_
 
 ## Contact
+
 @LH on ANNEX Engineering and Klipper Discord <br>
 lemurshaze @ gmail.com
 
 ## Support
+
 <a href='https://ko-fi.com/lh_eng' target='_blank'><img height='46' style='border:0px;height:36px;' src='https://az743702.vo.msecnd.net/cdn/kofi3.png?v=0' border='0' alt='Buy Me a Coffee at ko-fi.com' />
