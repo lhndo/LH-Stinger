@@ -31,7 +31,7 @@ Status: **Beta Testing**
   - 200 mm^2 carbon fiber bed for high-speed setup
 - Optimized for daily print speeds of 400-600 mm/s with 20.000 mm/s^2 acceleration
 - Motion system capable of 1.000 mm/s speed with 100.000 mm/s^2 acceleration
-- Maximum volumetric flow rate: ~ 49 mm^3/s
+- Maximum volumetric flow rate: 50+ mm^3/s (TBD)
 - Built using 30 series T-slotted extrusions with parts up to 3090
 - All bracket assembly
 - Genuine high-quality motion system components
