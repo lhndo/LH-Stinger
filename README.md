@@ -29,6 +29,7 @@ Status: **Beta Testing**
 - AWD stepper configuration for the Y-axis
 - 235 mm^2 x 200mm maximum build volume (easily expandable to other sizes)
   - 200 mm^2 carbon fiber bed for high-speed setup
+  - 235 mm^2 aluminium bed for a larger volume
 - Optimized for daily print speeds of 400-600 mm/s with 20.000 mm/s^2 acceleration ([Test](https://www.youtube.com/watch?v=bxNQv3xVFXA&))
 - Motion system capable of 1.000 mm/s speed with 100.000 mm/s^2 acceleration ([Test](https://www.youtube.com/watch?v=Xajs2mky6ZU))
 - Maximum volumetric flow rate: ~60 mm^3/s (TBD) ([Test](https://www.youtube.com/watch?v=K3M1EXKJzKs))
