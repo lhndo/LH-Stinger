@@ -10,7 +10,11 @@ Filename Example: **AC** Y Stepper Mount A **SUP x2**.stl
 
 ## Print Settings
 
-**Filament**: ASA  
+**Filament**:  
+
+&nbsp;&nbsp;&nbsp;&nbsp; Printer: ASA  
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ebox: ASA, ABS, PETG  
+
 **Nozzle Size**: 0.4 or 0.5 mm 
 **Layer Height**: 0.2  
 **Perimeters**: 4  
