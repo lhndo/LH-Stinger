@@ -27,6 +27,7 @@ Status: **Beta Testing**
 - Cross Frame design focused on stiffness and stability
 - Low center of gravity
 - AWD stepper configuration for the Y-axis
+  - Optional conversion for X AWD setup
 - 235 mm^2 x 200mm maximum build volume (easily expandable to other sizes)
   - 200 mm^2 carbon fiber bed for high-speed setup
   - 235 mm^2 aluminium bed for a larger volume
@@ -73,7 +74,8 @@ Status: **Beta Testing**
 
 - Build log
 - Klipper configuration files
-- Documentation and asembly instructions
+- Documentation and asembly instructions  
+- Lightweight Toolhead based on 2510 and 3515 Delta axials 
 
 
 ## Assembly Instructions 
