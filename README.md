@@ -71,7 +71,6 @@ Status: **Beta Testing**
 
 ## To Do 
 
-- Cable strain relief for the 200mm² CF bed
 - Build log
 - Klipper configuration files
 - Documentation and asembly instructions
