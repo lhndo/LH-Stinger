@@ -27,7 +27,7 @@ Status: **Beta Testing**
 - Cross Frame design focused on stiffness and stability
 - Low center of gravity
 - AWD stepper configuration for the Y-axis
-  - Optional conversion for X AWD setup
+  - Optional conversion for X-axis AWD setup
 - 235 mm^2 x 200mm maximum build volume (easily expandable to other sizes)
   - 200 mm^2 carbon fiber bed for high-speed setup
   - 235 mm^2 aluminium bed for a larger volume
