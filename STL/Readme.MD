@@ -41,6 +41,12 @@ Files containing all the parts organised by plates are available in the .3mf for
 
 <br>
 
+## Extras
+
+Extras folder contain alternative parts to accomodate different setups.
+
+<br>
+
 ## Quickdraw
 
 Details about the Quickdraw probe can be found on the [Annex Engineering Git](https://github.com/Annex-Engineering/Quickdraw_Probe/tree/main)
