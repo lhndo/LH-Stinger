@@ -1,6 +1,6 @@
 ﻿# LH Stinger
 
-Status: **Beta Testing**
+Status: **Feature Complete - Beta Testing**
 
 ![Image of Stinger Front](Images/LHS_banner.png)
 
