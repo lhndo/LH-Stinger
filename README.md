@@ -14,7 +14,7 @@ Status: **Beta Testing**
 ## Resources
 <br>
 
-> [BOM / Sourcing Guide](https://docs.google.com/spreadsheets/d/1s8ulLfThmbuy1G_40MvkXXL2oVx9PZhvpAY9hMxqYbg/edit?usp=drive_link)  
+> [BOM / Parts List / Sourcing Guide](https://docs.google.com/spreadsheets/d/1s8ulLfThmbuy1G_40MvkXXL2oVx9PZhvpAY9hMxqYbg/edit?usp=drive_link)  
 > [STL Files and Printing Instructions](https://github.com/lhndo/LH-Stinger/tree/main/STL)  
 > [CAD Source Files ](https://github.com/lhndo/LH-Stinger/tree/main/CAD)  
 
