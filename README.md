@@ -91,14 +91,20 @@ lemurshaze @ gmail.com
 
 _Inspired by the [Annex Engineering](https://github.com/Annex-Engineering) team and [community](https://discord.com/invite/MzTR3zE), along with the [Klipper community](https://discord.klipper3d.org), [RatRig](https://ratrig.com/) and all the crazy people that continue to push bed slingers to the limits. :purple_heart:_
 
-_-Toolhead evolved from an amazing design by [Dalegaard](https://github.com/dalegaard)<br>
+-Toolhead evolved from an amazing design by [Dalegaard](https://github.com/dalegaard)<br>
 -Silicon sock mold based on [Renátó Kulman](https://www.printables.com/@RenatoKulman)<br>
 -Wago 221 mounts by [fns720](https://www.printables.com/@fns720)<br>
 -SSR protection cover based on [Technoturk](https://www.printables.com/@Technoturk_377911)<br>
 -3030 extrusion Cable clip based on [Arthur_C](https://www.printables.com/@Arthur_C_428094)<br>
--3030 t-nut clip based on [John_S](https://www.printables.com/@JohnS)<br>_
+-3030 t-nut clip based on [John_S](https://www.printables.com/@JohnS)<br>
 
 ## Support
 
-<a href='https://ko-fi.com/lh_eng' target='_blank'><img height='46' style='border:0px;height:36px;' src='https://az743702.vo.msecnd.net/cdn/kofi3.png?v=0' border='0' alt='Buy Me a Coffee at ko-fi.com' />
+<a href='https://ko-fi.com/lh_eng' target='_blank'><img height='46' style='border:0px;height:36px;' src='https://az743702.vo.msecnd.net/cdn/kofi3.png?v=0' border='0' alt='Buy Me a Coffee at ko-fi.com' /> <br>
 
+## License
+
+This work is licensed under a [Creative Commons (4.0 International License)  ](https://creativecommons.org/licenses/by-nc-sa/4.0/)  
+[**Attribution—Noncommercial—Share Alike**](LICENSE.md)  
+<br>
+<img src="Images/CC.jpg" width="100">  
