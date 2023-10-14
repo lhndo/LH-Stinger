@@ -57,7 +57,7 @@ https://github.com/kyleisah/Klipper-Adaptive-Meshing-Purging/tree/main
 
 * Copy the files from this folder to: **/home/biqu/printer_data/config**
 
-* Open printer.cfg and comment/uncomment the lines in the header according to the instructions. 
+* Open printer.cfg and comment/uncomment the lines in the header according to the instructions if needed. 
 <br>
 <br>
 
