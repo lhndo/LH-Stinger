@@ -7,9 +7,10 @@ Status: **Feature Complete - Beta Testing**
 > _A no compromise cartesian 3D Printer designed for speed and precision._
 
 <br>
+<br>
 
 ![Image of Stinger Front](Images/New_Frame_v1023.png)
-![Image of Stinger Back](Images/New_Frame_v1023b.png)
+<br>
 
 ## Resources
 <br>
