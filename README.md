@@ -37,7 +37,8 @@ Status: **Feature Complete - Beta Testing**
 - [CAD Source Files ](CAD/)
 - [Klipper Configuration ](Config/Klipper_Config) 
 - [Wiki / Assembly Tips](https://github.com/lhndo/LH-Stinger/wiki/Assembly-Tips)  
-- [Build Log / Media](https://github.com/lhndo/LH-Stinger/wiki/Build-Log)  
+- [Build Log / Media](https://github.com/lhndo/LH-Stinger/wiki/Build-Log)
+- [Videos](https://www.youtube.com/channel/UCPD2Ai4b49gVoCFSGFWoSdw) 
 
 <br>
 
