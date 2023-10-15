@@ -8,6 +8,11 @@ Status: **Feature Complete - Beta Testing**
 
 <br>
 
+
+![Image of Stinger Front](Images/New_Frame_v1023.png)  
+
+<br>
+
 **Contents:**
 <!--ts-->
 
@@ -21,10 +26,7 @@ Status: **Feature Complete - Beta Testing**
   - [Support](#support)
   - [License](#license)
 
-<br>
 
-![Image of Stinger Front](Images/New_Frame_v1023.png)  
-<br>
 <br>
 
 ## Resources
