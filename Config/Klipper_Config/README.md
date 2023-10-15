@@ -33,7 +33,8 @@ OS image: https://github.com/bigtreetech/CB1/releases (Same as CB1)
 
 ### KIAUH
 
-https://github.com/dw-0/kiauh/tree/master
+https://github.com/dw-0/kiauh/tree/master  
+From Kiauh install **Klipper** and **Moonraker**
 
 ### Octopus PRO Firmware
 https://github.com/bigtreetech/BIGTREETECH-OCTOPUS-V1.0/tree/master/Firmware/Klipper#build-firmware-image
