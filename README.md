@@ -34,7 +34,8 @@ Status: **Feature Complete - Beta Testing**
 
 - [BOM / Parts List / Sourcing Guide](https://docs.google.com/spreadsheets/d/1s8ulLfThmbuy1G_40MvkXXL2oVx9PZhvpAY9hMxqYbg/edit?usp=drive_link)  
 - [STL Files and Printing Instructions](STL/)  
-- [CAD Source Files ](CAD/)  
+- [CAD Source Files ](CAD/)
+- [Klipper Configuration ](Config/Klipper_Config) 
 - [Wiki / Assembly Tips](https://github.com/lhndo/LH-Stinger/wiki/Assembly-Tips)  
 - [Build Log / Media](https://github.com/lhndo/LH-Stinger/wiki/Build-Log)  
 
