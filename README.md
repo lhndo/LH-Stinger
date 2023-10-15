@@ -15,8 +15,10 @@ Status: **Feature Complete - Beta Testing**
 <br>
 
 > [BOM / Parts List / Sourcing Guide](https://docs.google.com/spreadsheets/d/1s8ulLfThmbuy1G_40MvkXXL2oVx9PZhvpAY9hMxqYbg/edit?usp=drive_link)  
-> [STL Files and Printing Instructions](https://github.com/lhndo/LH-Stinger/tree/main/STL)  
-> [CAD Source Files ](https://github.com/lhndo/LH-Stinger/tree/main/CAD)  
+> [STL Files and Printing Instructions](STL/)  
+> [CAD Source Files ](CAD/)  
+> [Wiki / Assembly Tips](wiki/Assembly-Tips))
+> [Build Log / Media](wiki/Build-Log))
 
 <br>
 
@@ -72,9 +74,8 @@ Status: **Feature Complete - Beta Testing**
 
 ## To Do 
 
-- Build log
-- Klipper configuration files
-- Documentation and asembly instructions  
+- Build log (In progress)
+- Documentation and asembly instructions (In progress)
 - Lightweight Toolhead based on 2510 and 3515 Delta axials 
 
 
