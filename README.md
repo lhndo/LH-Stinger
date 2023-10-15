@@ -132,7 +132,7 @@ _Inspired by the [Annex Engineering](https://github.com/Annex-Engineering) team 
 ## Support
 
 <a href='https://ko-fi.com/lh_eng' target='_blank'><img height='46' style='border:0px;height:36px;' src='https://az743702.vo.msecnd.net/cdn/kofi3.png?v=0' border='0' alt='Buy Me a Coffee at ko-fi.com' /> <br>
-<br>
+
 
 ## License
 
@@ -140,3 +140,4 @@ This work is licensed under a [Creative Commons (4.0 International License)  ](h
 [**Attribution—Noncommercial—Share Alike**](LICENSE.md)  
 <br>
 <img src="Images/CC.jpg" width="100">  
+<br>
