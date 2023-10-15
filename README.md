@@ -7,9 +7,24 @@ Status: **Feature Complete - Beta Testing**
 > _A no compromise cartesian 3D Printer designed for speed and precision._
 
 <br>
+
+**Contents:**
+<!--ts-->
+
+- [LH Stinger](#lh-stinger)
+  - [Resources](#resources)
+  - [Features](#features)
+  - [Assembly Instructions](#assembly-instructions)
+  - [Contact](#contact)
+  - [To Do](#to-do)
+  - [Credits](#credits)
+  - [Support](#support)
+  - [License](#license)
+
 <br>
 
-![Image of Stinger Front](Images/New_Frame_v1023.png)
+![Image of Stinger Front](Images/New_Frame_v1023.png)  
+<br>
 <br>
 
 ## Resources
@@ -73,21 +88,32 @@ Status: **Feature Complete - Beta Testing**
 
 <br>
 
+
+## Assembly Instructions 
+
+Please consult the [CAD Source Files ](CAD/)  for assembly instructions, and the following [Wiki](https://github.com/lhndo/LH-Stinger/wiki) pages:  
+> [Wiki / Assembly Tips](https://github.com/lhndo/LH-Stinger/wiki/Assembly-Tips)  
+> [Build Log](https://github.com/lhndo/LH-Stinger/wiki/Build-Log)  
+
+ Please contact me for support until the documentation will be made available.  
+<br>
+
+## Contact
+
+@LH on ANNEX Engineering and Klipper Discord <br>
+lemurshaze @ gmail.com
+
+<br>
+
+
 ## To Do 
 
 - Build log (In progress)
 - Documentation and asembly instructions (In progress)
 - Lightweight Toolhead based on 2510 and 3515 Delta axials 
 
+<br>
 
-## Assembly Instructions 
-
-Please consult the CAD files for the assembly instructions, and contact me for support until the documentation will be made available.
-
-## Contact
-
-@LH on ANNEX Engineering and Klipper Discord <br>
-lemurshaze @ gmail.com
 
 ## Credits
 
@@ -99,10 +125,12 @@ _Inspired by the [Annex Engineering](https://github.com/Annex-Engineering) team 
 -SSR protection cover based on [Technoturk](https://www.printables.com/@Technoturk_377911)<br>
 -3030 extrusion Cable clip based on [Arthur_C](https://www.printables.com/@Arthur_C_428094)<br>
 -3030 t-nut clip based on [John_S](https://www.printables.com/@JohnS)<br>
+<br>
 
 ## Support
 
 <a href='https://ko-fi.com/lh_eng' target='_blank'><img height='46' style='border:0px;height:36px;' src='https://az743702.vo.msecnd.net/cdn/kofi3.png?v=0' border='0' alt='Buy Me a Coffee at ko-fi.com' /> <br>
+<br>
 
 ## License
 
