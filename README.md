@@ -36,7 +36,7 @@ Status: **Feature Complete - Beta Testing**
 - [STL Files and Printing Instructions](STL/)  
 - [CAD Source Files ](CAD/)
 - [Klipper Configuration ](Config/Klipper_Config) 
-- [Wiki / Assembly Tips](https://github.com/lhndo/LH-Stinger/wiki/Assembly-Tips)  
+- [Wiki / Assembly Tips](https://github.com/lhndo/LH-Stinger/wiki/Assembly-Tips) (In Progress)
 - [Build Log / Media](https://github.com/lhndo/LH-Stinger/wiki/Build-Log)
 - [Videos](https://www.youtube.com/channel/UCPD2Ai4b49gVoCFSGFWoSdw) 
 
@@ -96,7 +96,7 @@ Status: **Feature Complete - Beta Testing**
 ## Assembly Instructions 
 
 Please consult the [CAD Source Files ](CAD/)  for assembly instructions, and the following [Wiki](https://github.com/lhndo/LH-Stinger/wiki) pages:  
-> [Wiki / Assembly Tips](https://github.com/lhndo/LH-Stinger/wiki/Assembly-Tips)  
+> [Wiki / Assembly Tips](https://github.com/lhndo/LH-Stinger/wiki/Assembly-Tips)  (In Progress)
 > [Build Log](https://github.com/lhndo/LH-Stinger/wiki/Build-Log)  
 
  Please contact me for support until the documentation will be made available.  
