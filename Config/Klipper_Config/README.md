@@ -72,14 +72,17 @@ For support please join the Klipper Discord: https://discord.klipper3d.org/
 # Moonraker Power Relay
 Add the following section to your **moonraker.conf** if using a Power Relay to control the AC supply to the Ebox.
 
-![Relay](Images/relay.png)
+![Relay](/Images/relay.png)
 
-`[power Printer]  
-type: gpio  
-pin: gpiochip0/gpio262  
-off_when_shutdown: True  
-initial_state: off  
-restart_klipper_when_powered: True`  
+<pre><code>[power Printer]
+type: gpio
+pin: gpiochip0/gpio262
+off_when_shutdown: True
+initial_state: off
+restart_klipper_when_powered: True
+</code></pre>
+
+For more information on the **BTT Pi GPIO** pinout please consult this table: https://github.com/bigtreetech/CB1#40-pin-gpio
 
 # Bed Origin
 
