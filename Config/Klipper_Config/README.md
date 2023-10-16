@@ -69,6 +69,18 @@ For support please join the Klipper Discord: https://discord.klipper3d.org/
 
 <br>
 
+# Moonraker Power Relay
+Add the following section to your **moonraker.conf** if using a Power Relay to control the AC supply to the Ebox.
+
+![Relay](Images/relay.png)
+
+`[power Printer]  
+type: gpio  
+pin: gpiochip0/gpio262  
+off_when_shutdown: True  
+initial_state: off  
+restart_klipper_when_powered: True`  
+
 # Bed Origin
 
 The printer supports multiple bed sizes. For ease of use, the bed position is defined in the slicer by changing the Origin Offsets, and not in Klipper's printer.cfg. 
