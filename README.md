@@ -96,8 +96,8 @@ Status: **Feature Complete - Beta Testing**
 ## Assembly Instructions 
 
 Please consult the [CAD Source Files ](CAD/)  for assembly instructions, and the following [Wiki](https://github.com/lhndo/LH-Stinger/wiki) pages:  
-> [Wiki / Assembly Tips](https://github.com/lhndo/LH-Stinger/wiki/Assembly-Tips)  (In Progress)  
 > [Build Log](https://github.com/lhndo/LH-Stinger/wiki/Build-Log)  
+> [Wiki / Assembly Tips](https://github.com/lhndo/LH-Stinger/wiki/Assembly-Tips)  (In Progress)  
 
  Please contact me for support until the documentation will be made available.  
 <br>
