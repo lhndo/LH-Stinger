@@ -8,15 +8,37 @@ Status: **Feature Complete - Beta Testing**
 
 <br>
 
-![Image of Stinger Front](Images/New_Frame_v1023.png)
-![Image of Stinger Back](Images/New_Frame_v1023b.png)
+
+![Image of Stinger Front](Images/New_Frame_v1023.png)  
+
+<br>
+
+**Contents:**
+<!--ts-->
+
+- [LH Stinger](#lh-stinger)
+  - [Resources](#resources)
+  - [Features](#features)
+  - [Assembly Instructions](#assembly-instructions)
+  - [Contact](#contact)
+  - [To Do](#to-do)
+  - [Credits](#credits)
+  - [Support](#support)
+  - [License](#license)
+
+
+<br>
 
 ## Resources
 <br>
 
-> [BOM / Parts List / Sourcing Guide](https://docs.google.com/spreadsheets/d/1s8ulLfThmbuy1G_40MvkXXL2oVx9PZhvpAY9hMxqYbg/edit?usp=drive_link)  
-> [STL Files and Printing Instructions](https://github.com/lhndo/LH-Stinger/tree/main/STL)  
-> [CAD Source Files ](https://github.com/lhndo/LH-Stinger/tree/main/CAD)  
+- [BOM / Parts List / Sourcing Guide](https://docs.google.com/spreadsheets/d/1s8ulLfThmbuy1G_40MvkXXL2oVx9PZhvpAY9hMxqYbg/edit?usp=drive_link)  
+- [STL Files and Printing Instructions](STL/)  
+- [CAD Source Files ](CAD/)
+- [Klipper Configuration ](Config/Klipper_Config) 
+- [Wiki / Assembly Tips](https://github.com/lhndo/LH-Stinger/wiki/Assembly-Tips) (In Progress)
+- [Build Log / Media](https://github.com/lhndo/LH-Stinger/wiki/Build-Log)
+- [Videos](https://www.youtube.com/channel/UCPD2Ai4b49gVoCFSGFWoSdw) 
 
 <br>
 
@@ -70,22 +92,32 @@ Status: **Feature Complete - Beta Testing**
 
 <br>
 
-## To Do 
-
-- Build log
-- Klipper configuration files
-- Documentation and asembly instructions  
-- Lightweight Toolhead based on 2510 and 3515 Delta axials 
-
 
 ## Assembly Instructions 
 
-Please consult the CAD files for the assembly instructions, and contact me for support until the documentation will be made available.
+Please consult the [CAD Source Files ](CAD/)  for assembly instructions, and the following [Wiki](https://github.com/lhndo/LH-Stinger/wiki) pages:  
+> [Build Log](https://github.com/lhndo/LH-Stinger/wiki/Build-Log)  
+> [Wiki / Assembly Tips](https://github.com/lhndo/LH-Stinger/wiki/Assembly-Tips)  (In Progress)  
+
+ Please contact me for support until the documentation will be made available.  
+<br>
 
 ## Contact
 
 @LH on ANNEX Engineering and Klipper Discord <br>
 lemurshaze @ gmail.com
+
+<br>
+
+
+## To Do 
+
+- Build log (In progress)
+- Documentation and asembly instructions (In progress)
+- Lightweight Toolhead based on 2510 and 3515 Delta axials 
+
+<br>
+
 
 ## Credits
 
@@ -97,10 +129,12 @@ _Inspired by the [Annex Engineering](https://github.com/Annex-Engineering) team 
 -SSR protection cover based on [Technoturk](https://www.printables.com/@Technoturk_377911)<br>
 -3030 extrusion Cable clip based on [Arthur_C](https://www.printables.com/@Arthur_C_428094)<br>
 -3030 t-nut clip based on [John_S](https://www.printables.com/@JohnS)<br>
+<br>
 
 ## Support
 
 <a href='https://ko-fi.com/lh_eng' target='_blank'><img height='46' style='border:0px;height:36px;' src='https://az743702.vo.msecnd.net/cdn/kofi3.png?v=0' border='0' alt='Buy Me a Coffee at ko-fi.com' /> <br>
+
 
 ## License
 
@@ -108,3 +142,4 @@ This work is licensed under a [Creative Commons (4.0 International License)  ](h
 [**Attribution—Noncommercial—Share Alike**](LICENSE.md)  
 <br>
 <img src="Images/CC.jpg" width="100">  
+<br>
