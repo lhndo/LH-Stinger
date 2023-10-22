@@ -112,7 +112,8 @@ lemurshaze @ gmail.com
 
 ## To Do 
 
-- Build log (In progress)
+- Custom Polyimide Heater Flex PCB (In progress)
+- Breakout PCB and Wire Harness  
 - Documentation and asembly instructions (In progress)
 - Lightweight Toolhead based on 2510 and 3515 Delta axials 
 
