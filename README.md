@@ -37,7 +37,7 @@ Status: **Feature Complete - Beta Testing**
 - [STL Files and Printing Instructions](STL/)  
 - [CAD Source Files ](CAD/)
 - [Klipper Configuration ](Config/Klipper_Config) 
-- [Wiki / Assembly Tips](https://github.com/lhndo/LH-Stinger/wiki/Assembly-Tips) (In Progress)
+- [Wiki / Assembly Guide](https://github.com/lhndo/LH-Stinger/wiki/Assembly-Guide) (In Progress)
 - [Build Log / Media](https://github.com/lhndo/LH-Stinger/wiki/Build-Log)
 - [Videos](https://www.youtube.com/channel/UCPD2Ai4b49gVoCFSGFWoSdw) 
 
@@ -98,7 +98,7 @@ Status: **Feature Complete - Beta Testing**
 
 Please consult the [CAD Source Files ](CAD/)  for assembly instructions, and the following [Wiki](https://github.com/lhndo/LH-Stinger/wiki) pages:  
 > [Build Log](https://github.com/lhndo/LH-Stinger/wiki/Build-Log)  
-> [Wiki / Assembly Tips](https://github.com/lhndo/LH-Stinger/wiki/Assembly-Tips)  (In Progress)  
+> [Wiki / Assembly Guide](https://github.com/lhndo/LH-Stinger/wiki/Assembly-Guide)  (In Progress)  
 
  Please contact me for support until the documentation will be made available.  
 <br>
@@ -113,9 +113,9 @@ lemurshaze @ gmail.com
 
 ## To Do 
 
-- Custom Polyimide Heater Flex PCB (In progress)
+- Custom [Polyimide Heater Flex PCB](PCB/PI%20Bed%20Heater%20-%20200mm) (In progress)
 - Breakout PCB and Wire Harness  
-- Documentation and asembly instructions (In progress)
+- Documentation and [Assembly Guide](https://github.com/lhndo/LH-Stinger/wiki/Assembly-Guide) (In progress)
 - Lightweight Toolhead based on 2510 and 3515 Delta axials 
 
 <br>
