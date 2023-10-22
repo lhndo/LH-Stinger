@@ -5,7 +5,7 @@ Status: **Feature Complete - Beta Testing**
 ![Image of Stinger Front](Images/LHS_banner.png)
 
 > _LH Stinger is a no compromise cartesian 3D Printer designed for speed and precision,_  
->  _with the desire of becoming a community project, and not a brand._  
+>  _with the desire to become a community project, and not a brand._  
 
 <br>
 
