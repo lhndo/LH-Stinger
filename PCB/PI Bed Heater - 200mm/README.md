@@ -5,7 +5,7 @@
 
 - Flex Polyimide Base - as lightweight as possible
 - Copper Thickness: 1oz (35 µm)
-- 3M9077 (preferred) or 3M468MP backside adhesive
+- 3M468MP or 3M9077 (to be tested) backside adhesive
 - Silkscreen: White
 
  
