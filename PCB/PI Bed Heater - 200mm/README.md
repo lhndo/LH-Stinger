@@ -43,3 +43,10 @@
 ![](Images/Heater_kicad.png)
 ![](Images/Heater_Fusion.png)
 ![](Images/PI%20SilkScreen.png)
+
+
+**JLCPCB**
+
+- Upload HeatedBedFoil_FS_GBR.zip and set the following specifications
+
+![](Images/jlcpcb.png)
