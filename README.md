@@ -111,7 +111,7 @@ Please consult the [CAD Source Files ](CAD/)  for assembly instructions, and the
 
 lemurshaze @ gmail.com  
 
-@LH on [LH Stinger Discord](https://discord.gg/rMXefNcx)) <br>
+@LH on [LH Stinger Discord](https://discord.gg/rMXefNcx) <br>
 
 <br>
 
