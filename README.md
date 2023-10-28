@@ -1,3 +1,5 @@
+[![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
+
 ﻿# LH Stinger
 
 Status: **Feature Complete - Beta Testing - V1.0 Beta 2 In Progress**
