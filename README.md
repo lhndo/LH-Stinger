@@ -6,7 +6,8 @@
 
 # LH Stinger
 
-Status: **Feature Complete - Beta Testing - V1.0 Beta 2 In Progress**
+Status: **Feature Complete - Beta Testing**  
+Upcoming: **V1.0 Beta 2**
 
 [![Join us on Discord](Images/disc.png)](https://discord.gg/rMXefNcx)
 
@@ -127,6 +128,7 @@ lemurshaze @ gmail.com
 - Custom [Polyimide Heater Flex PCB](PCB/PI%20Bed%20Heater%20-%20200mm) (In progress)
 - Breakout PCB and Wire Harness  
 - Documentation and [Assembly Guide](https://github.com/lhndo/LH-Stinger/wiki/Assembly-Guide) (In progress)
+- Polycarbonate EBox design
 - Lightweight Toolhead based on 2510 and 3515 Delta axials 
 
 <br>
@@ -146,7 +148,7 @@ _Inspired by the [Annex Engineering](https://github.com/Annex-Engineering) team 
 
 ## Support
 
-<a href='https://ko-fi.com/lh_eng' target='_blank'><img height='46' style='border:0px;height:36px;' src='https://az743702.vo.msecnd.net/cdn/kofi3.png?v=0' border='0' alt='Buy Me a Coffee at ko-fi.com' /> <br>
+<a href='https://ko-fi.com/lh_eng' target='_blank'><img height='46' style='border:0px;height:36px;' src='https://az743702.vo.msecnd.net/cdn/kofi3.png?v=0' border='0' alt='Buy Me a Coffee at ko-fi.com' /> <br> 
 
 
 ## License
