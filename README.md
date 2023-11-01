@@ -6,7 +6,8 @@
 
 # LH Stinger
 
-Status: **Feature Complete - Beta Testing - V1.0 Beta 2 In Progress**
+Status: **Feature Complete - Beta Testing**  
+Upcoming: **V1.0 Beta 2**
 
 [![Join us on Discord](Images/disc.png)](https://discord.gg/rMXefNcx)
 
