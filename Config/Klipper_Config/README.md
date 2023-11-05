@@ -41,8 +41,17 @@ https://github.com/bigtreetech/BIGTREETECH-OCTOPUS-V1.0/tree/master/Firmware/Kli
 
 ### xz_dockable_probe
 
-[Annex-Engineering_User_Mods/Extruders/Sherpa_Mini/Toolheads/Churls-Stiffy_E3
-/QuickDraw_klipper_config.cfg](https://github.com/churls5495/Annex-Engineering_User_Mods/blob/main/Extruders/Sherpa_Mini/Toolheads/Churls-Stiffy_E3/QuickDraw_klipper_config.cfg)
+Download xz dockable probe module to: **~/klipper/klippy/extras/** as **xz_dockable_probe.py** :
+
+<pre><code>cd ~/klipper/klippy/extras/
+wget https://raw.githubusercontent.com/churls5495/Annex-Engineering_User_Mods/main/Extruders/Sherpa_Mini/Toolheads/Churls-Stiffy_E3/xz_dockable_probe.py
+cd ../..
+echo "klippy/extras/xz_dockable_probe.py" >> .git/info/exclude
+systemctl restart klipper
+</code></pre>
+<br>
+
+by [Dalegaard](https://github.com/dalegaard) and [Churls](https://github.com/churls5495/Annex-Engineering_User_Mods/tree/main/Extruders/Sherpa_Mini/Toolheads/Churls-Stiffy_E3)
 
 ### ResHelper
 
