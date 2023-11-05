@@ -49,9 +49,9 @@ cd ../..
 echo "klippy/extras/xz_dockable_probe.py" >> .git/info/exclude
 systemctl restart klipper
 </code></pre>
-<br>
 
 by [Dalegaard](https://github.com/dalegaard) and [Churls](https://github.com/churls5495/Annex-Engineering_User_Mods/tree/main/Extruders/Sherpa_Mini/Toolheads/Churls-Stiffy_E3)
+
 
 ### ResHelper
 
