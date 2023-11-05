@@ -9,7 +9,7 @@
 Status: **Feature Complete - Beta Testing**  
 Upcoming: **V1.0 Beta 2**
 
-[![Join us on Discord](Images/disc.png)](https://discord.gg/rMXefNcx)
+[![Join us on Discord](Images/disc.png)](https://discord.gg/EzssCfnEDS)
 
 > _LH Stinger is a no-compromise cartesian 3D Printer designed for speed and precision._  
 > _It is created as a long-lasting platform for those who like to push quality or speed to the extreme._  
@@ -111,14 +111,14 @@ Please consult the [CAD Source Files ](CAD/)  for assembly instructions, and the
 > [Build Log](https://github.com/lhndo/LH-Stinger/wiki/Build-Log)  
 > [Wiki / Assembly Guide](https://github.com/lhndo/LH-Stinger/wiki/Assembly-Guide)  (In Progress)  
 
- For support please join us on the [LH Stinger Discord](https://discord.gg/rMXefNcx))
+ For support please join us on the [LH Stinger Discord](https://discord.gg/EzssCfnEDS))
 <br>
 
 ## Contact
 
 lemurshaze @ gmail.com  
 
-@LH on [LH Stinger Discord](https://discord.gg/rMXefNcx) <br>
+@LH on [LH Stinger Discord](https://discord.gg/EzssCfnEDS) <br>
 
 <br>
 
