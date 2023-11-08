@@ -32,6 +32,12 @@
 
 - Preferred thin PTFE Wire around ~26 AWG
 - 2 pin JST XH 2.54 female connector  
+<br>
+
+>For optimizing your own heater wattage you can use the following calculator. Start with a Trace Width: 2.4mm, Lenght: 13355mm, Thickness: 1oz,   
+>https://www.allaboutcircuits.com/tools/trace-resistance-calculator/  
+
+<br>
 
 >Designed with the help of [Róbert Lőrincz](https://www.orbiterprojects.com/)  
 >[Story Of The Orbitron Heated Bed Design](https://www.orbiterprojects.com/stories/story-of-the-orbitron-heated-bed-design/) 
