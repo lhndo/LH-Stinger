@@ -1,5 +1,7 @@
-**NOTE: This design hasn't been tested yet.**  
+**NOTE: This design is currently in testing.**  
+If you are interested in a custom bed heater, then please join our Discord server to see if there are any extra ones available, or if there is an upcoming group buy.
   <br>
+
 
 **PCB**
 
