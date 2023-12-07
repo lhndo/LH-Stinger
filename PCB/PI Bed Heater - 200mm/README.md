@@ -1,7 +1,9 @@
 **NOTE: This design is currently in testing.**  
+<br>
 If you are interested in a custom bed heater, then please join our Discord server to see if there are any extra ones available, or if there is an upcoming group buy.
-  <br>
+<br>
 
+## Specifications  
 
 **PCB**
 
@@ -26,14 +28,15 @@ If you are interested in a custom bed heater, then please join our Discord serve
 **Power Cable**
 
  - 16 AWG Multi-strand Soft Electrical Silicone Cable
- - No connector, tinned wires
- - Length: 70cm
+ - XT60 female connector
+ - Length: 70cm  
 
  
 **Thermistor Cable**
 
 - Preferred thin PTFE Wire around ~26 AWG
-- 2 pin JST XH 2.54 female connector  
+- 2 pin JST XH 2.54 female connector
+- Length: 70cm  
 <br>
 
 >For optimizing your own heater wattage you can use the following calculator. Start with a Trace Width: 2.4mm, Lenght: 13355mm, Thickness: 1oz,   
