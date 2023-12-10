@@ -58,6 +58,11 @@ If you are interested in a custom bed heater, then please join our Discord serve
 
 **JLCPCB**
 
+❗ **Note:** Add the following instructions to the remark section on the ordering page:  
+"ATTENTION: Cold pressing is required for 3M 468MP adhesive application! 
+Please consult HeatedBedFoil-B_Stiffener layers for the stiffener locations and specifications."  
+
+<br>
 - Upload HeatedBedFoil_FS_GBR.zip and set the following specifications
 
 ![](Images/jlcpcb.png)
