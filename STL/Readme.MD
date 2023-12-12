@@ -15,8 +15,8 @@ Filename Example: **AC** Y Stepper Mount A **SUP x2**.stl
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ebox: ASA, ABS, PETG  
 **Nozzle Size**: 0.4 or 0.5 mm 
 **Layer Height**: 0.2  
-**Perimeters**: 4  
-**Bottom/Top Layer**: 4/5  
+**Perimeters**: 5  
+**Bottom/Top Layer**: 5/6  
 **Line Width**: 0.4/0.5 (larger for sparse infill)  
 **Infill Density**: 40% minimum  
 **Infill Type**: Gyroid, Cubic
