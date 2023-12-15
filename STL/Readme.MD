@@ -31,13 +31,21 @@ Files containing all the parts organised by plates are available in the .3mf for
 
 ![Preview](/Images/prev_o_printer.png)  
 <br>
+
 *Other Parts:*  <br>
 
 ![Preview](/Images/prev_o_other.png)  
 <br>
+
 *Ebox Parts:*  <br>
 
 ![Preview](/Images/prev_o_ebox.png)
+
+<br>
+
+*Aux Fan Partss:*  <br>
+
+![Preview](/Images/prev_o_auxfan.png)
 
 <br>
 
