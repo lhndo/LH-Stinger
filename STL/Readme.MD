@@ -49,11 +49,6 @@ Files containing all the parts organised by plates are available in the .3mf for
 
 <br>
 
-## Extras
-
-Extras folder contain alternative parts to accomodate different setups.
-
-<br>
 
 ## Quickdraw
 
