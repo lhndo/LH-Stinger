@@ -1,5 +1,9 @@
-**NOTE: This design hasn't been tested yet.**  
-  <br>
+**NOTE: This design is currently in testing.**  
+<br>
+If you are interested in a custom bed heater, then please join our Discord server to see if there are any extra ones available, or if there is an upcoming group buy.
+<br>
+
+## Specifications  
 
 **PCB**
 
@@ -24,14 +28,15 @@
 **Power Cable**
 
  - 16 AWG Multi-strand Soft Electrical Silicone Cable
- - No connector, tinned wires
- - Length: 70cm
+ - XT60 female connector
+ - Length: 70cm  
 
  
 **Thermistor Cable**
 
 - Preferred thin PTFE Wire around ~26 AWG
-- 2 pin JST XH 2.54 female connector  
+- 2 pin JST XH 2.54 female connector
+- Length: 70cm  
 <br>
 
 >For optimizing your own heater wattage you can use the following calculator. Start with a Trace Width: 2.4mm, Lenght: 13355mm, Thickness: 1oz,   
@@ -53,6 +58,11 @@
 
 **JLCPCB**
 
+❗ **Note:** Add the following instructions to the remark section on the ordering page:  
+"ATTENTION: Cold pressing is required for 3M 468MP adhesive application! 
+Please consult HeatedBedFoil-B_Stiffener layers for the stiffener locations and specifications."  
+
+<br>
 - Upload HeatedBedFoil_FS_GBR.zip and set the following specifications
 
 ![](Images/jlcpcb.png)

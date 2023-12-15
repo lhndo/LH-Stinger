@@ -15,8 +15,8 @@ Filename Example: **AC** Y Stepper Mount A **SUP x2**.stl
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ebox: ASA, ABS, PETG  
 **Nozzle Size**: 0.4 or 0.5 mm 
 **Layer Height**: 0.2  
-**Perimeters**: 4  
-**Bottom/Top Layer**: 4/5  
+**Perimeters**: 5  
+**Bottom/Top Layer**: 5/6  
 **Line Width**: 0.4/0.5 (larger for sparse infill)  
 **Infill Density**: 40% minimum  
 **Infill Type**: Gyroid, Cubic
@@ -31,21 +31,24 @@ Files containing all the parts organised by plates are available in the .3mf for
 
 ![Preview](/Images/prev_o_printer.png)  
 <br>
+
 *Other Parts:*  <br>
 
 ![Preview](/Images/prev_o_other.png)  
 <br>
+
 *Ebox Parts:*  <br>
 
 ![Preview](/Images/prev_o_ebox.png)
 
 <br>
 
-## Extras
+*Aux Fan Partss:*  <br>
 
-Extras folder contain alternative parts to accomodate different setups.
+![Preview](/Images/prev_o_auxfan.png)
 
 <br>
+
 
 ## Quickdraw
 
