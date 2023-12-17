@@ -56,3 +56,6 @@ Details about the Quickdraw probe can be found on the [Annex Engineering Git](ht
 
 The file required for building the probe is **omron_d2f-5_microswitch_probe_body_x1_rev3.STL**<br>
 from: https://github.com/Annex-Engineering/Quickdraw_Probe/tree/main/STLs/Release_1
+
+You can consult this video for assembly tips: https://www.youtube.com/watch?v=zLjfP3BHAIw  
+Note: The dock detection feature is not required and not accounted for in the dock stl.
