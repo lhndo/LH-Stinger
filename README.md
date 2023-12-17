@@ -125,11 +125,14 @@ lemurshaze @ gmail.com
 
 ## To Do 
 
-- Custom [Polyimide Heater Flex PCB](PCB/PI%20Bed%20Heater%20-%20200mm) (In progress)
 - Breakout PCB and Wire Harness  
 - Documentation and [Assembly Guide](https://github.com/lhndo/LH-Stinger/wiki/Assembly-Guide) (In progress)
+
+## Future Projects
+- Lightweight Toolhead based on 2510 and 4020 Delta axials 
 - Polycarbonate EBox design
-- Lightweight Toolhead based on 2510 and 3515 Delta axials 
+- Enclosure
+
 
 <br>
 
