@@ -29,19 +29,25 @@ Using the parts listed in the [BOM]( https://docs.google.com/spreadsheets/u/2/d/
 It is recommended to follow the installation in the order listed below
 
 ### BTT PI 1.2
-OS image: https://github.com/bigtreetech/CB1/releases (Same as CB1)   
+Download the OS image: https://github.com/bigtreetech/CB1/releases (Same as CB1)  
+Use [Balena Etcher](https://etcher.balena.io/) to burn the image onto the PI SD Card.  
 
 ### KIAUH
+KIAUH is a rich featured script that makes it extremely easy to perform any Klipper related software installation, setup and firmware flashing starting from a bare OS. 
+This should be the first thing to install after finishing your OS installation. 
 
 https://github.com/dw-0/kiauh/tree/master  
 From Kiauh install **Klipper** and **Moonraker**
 
 ### Octopus PRO Firmware
-https://github.com/bigtreetech/BIGTREETECH-OCTOPUS-V1.0/tree/master/Firmware/Klipper#build-firmware-image
+Follow the steps starting from "Build your own firmware" and make sure to choose the appropriate settings for your own MCU type. 
+https://github.com/bigtreetech/BIGTREETECH-OCTOPUS-V1.0/tree/master/Firmware/Klipper#build-firmware-image  
+<br>
+The firmware setup process can also be easily done directly from KIAUH.  
 
 ### xz_dockable_probe
 
-Download xz dockable probe module to: **~/klipper/klippy/extras/** as **xz_dockable_probe.py** :
+Download xz dockable probe module to: **~/klipper/klippy/extras/** as **xz_dockable_probe.py** by running the following commands:
 
 <pre><code>cd ~/klipper/klippy/extras/
 wget https://raw.githubusercontent.com/churls5495/Annex-Engineering_User_Mods/main/Extruders/Sherpa_Mini/Toolheads/Churls-Stiffy_E3/xz_dockable_probe.py
@@ -55,9 +61,13 @@ by [Dalegaard](https://github.com/dalegaard) and [Churls](https://github.com/chu
 
 ### ResHelper
 
+ResHelper is a script that simplifies and streamlines the resonance testing process. 
+Follow the installation steps from the following link:  
+
 https://github.com/lhndo/ResHelper
 
 ### KAMP
+KAMP is a Klipper addon that provides adaptive bed meshing, which probes only the area occupied by the printed objects.
 
 https://github.com/kyleisah/Klipper-Adaptive-Meshing-Purging/tree/main
 
@@ -79,7 +89,8 @@ For support please join the Klipper Discord: https://discord.klipper3d.org/
 <br>
 
 # Moonraker Power Relay
-Add the following section to your **moonraker.conf** if using a Power Relay to control the AC supply to the Ebox.
+If using a Power Relay to control the AC supply to the Ebox, then add the following section to your **moonraker.conf** .  
+Note: The PI should be on its own independent power supply. 
 
 ![Relay](/Images/relay.png)
 
