@@ -1,9 +1,19 @@
+
+# Table of Contents
+- [Table of Contents](#table-of-contents)
+- [Specifications](#specifications)
+- [Performance](#performance)
+- [Media](#media)
+- [Ordering](#ordering)
+
+<br>
+
 **NOTE: This design is currently in testing.**  
 <br>
 If you are interested in a custom bed heater, then please join our Discord server to see if there are any extra ones available, or if there is an upcoming group buy.
 <br>
 
-## Specifications  
+# Specifications  
 
 **PCB**
 
@@ -44,19 +54,38 @@ If you are interested in a custom bed heater, then please join our Discord serve
 
 <br>
 
+![](Images/Heater_excel.png)  
+
 >Designed with the help of [Róbert Lőrincz](https://www.orbiterprojects.com/)  
 >[Story Of The Orbitron Heated Bed Design](https://www.orbiterprojects.com/stories/story-of-the-orbitron-heated-bed-design/) 
 
 <br><br><br>
 
-![](Images/Heater_excel.png)
+# Performance
+
+<br>
+
+* **Heating time to 110C: 2m 58s**     
+![](Images/heat_time.png)  
+
+<br>
+
+* **Bottom thermistor vs top surface thermistor temperature tracking:**      
+![](Images/heat_dev.png)  
+
+<br>
+
+# Media
+
+
 ![](Images/2023_10_21_3325_pcbnew.png)
 ![](Images/Heater_kicad.png)
 ![](Images/Heater_Fusion.png)
 ![](Images/PI%20SilkScreen.png)
 
+# Ordering
 
-**JLCPCB**
+**[JLCPCB](https://jlcpcb.com)**
 
 ❗ **Note:** Add the following instructions to the remark section on the ordering page:  
 "ATTENTION: Cold pressing is required for 3M 468MP adhesive application! 
