@@ -43,7 +43,7 @@ Files containing all the parts organised by plates are available in the .3mf for
 
 <br>
 
-**Aux Fan Partss:**  <br>
+**Aux Fan Parts:**  <br>
 
 ![Preview](/Images/prev_o_auxfan.png)
 
