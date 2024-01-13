@@ -77,7 +77,7 @@ Upcoming: **V1.0 Beta 2**
 - 6mm 2GT belts for the rest of the axis
 - Independent Z stepper motors with Z Tilt capability for the X-axis
 - Lightweight dual plate carbon fiber bed carriage with integrated tensioner and compatible with different bed sizes and carriage configurations
-- Rigid bed mount
+- Rigid carbon fiber bed mount
 - Bearing supported Y-axis stepper motor shafts in double shear mounts
 - High torque LDO-42STH48-2504AC stepper motors supplied with 36V for the X and Y-axis
 - Dual power supply supporting 24V and 36V power standards (easily configurable for 48V)
@@ -87,8 +87,11 @@ Upcoming: **V1.0 Beta 2**
 - Good cable management with a quick disconnect system between the printer and ebox
 - Toolhead based on the Dragon HF hotend and HF extender
   - Custom thick silicon sock mold available for RTV casting
+  - Alternate hotends supported: Dragon Ace, Mellow NF-Crazy-Volcano HF, Rapido 
 - LDO Orbiter 2.0 direct drive extruder
+  - Sherpa Mini supported  
 - Dual 5015 fan setup for part cooling
+- Dual AUX cooling modules based on 9733 blower fans
 - Adopts the [Annex Engineering Quickdraw Probe](https://github.com/Annex-Engineering/Quickdraw_Probe)
 - Minimalistic printed parts design focused on strength and easy printability
 - Printed in ASA, providing high temperature resistance
