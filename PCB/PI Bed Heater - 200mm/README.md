@@ -3,6 +3,7 @@
 - [Table of Contents](#table-of-contents)
 - [Specifications](#specifications)
 - [Performance](#performance)
+- [Installation](#installation)
 - [Media](#media)
 - [Ordering](#ordering)
 
@@ -72,6 +73,12 @@ If you are interested in a custom bed heater, then please join our Discord serve
 
 * **Bottom thermistor vs top surface thermistor temperature tracking:**      
 ![](Images/heat_dev.png)  
+
+<br>
+
+# Installation
+
+Please follow this guide: https://github.com/lhndo/LH-Stinger/wiki/Bed-Heater
 
 <br>
 
