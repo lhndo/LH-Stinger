@@ -56,7 +56,7 @@
     "top_surface_acceleration": "15000",
     "top_surface_pattern": "monotonicline",
     "top_surface_speed": "300",
-    "travel_acceleration": "20000",
+    "travel_acceleration": "30000",
     "travel_speed": "600",
     "version": "1.9.0.2",
     "wall_loops": "2",
