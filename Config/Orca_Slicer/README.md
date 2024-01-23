@@ -3,7 +3,7 @@
  
  ## Installation 
 
- Copy these profiles to:   
+ Copy these folders to:   
 
     \%appdata%\OrcaSlicer\user\default
 
