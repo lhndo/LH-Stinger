@@ -3,9 +3,10 @@
  
  ## Installation 
 
- Copy these folders to:   
+* Latest version of **Orca Slicer** can be found here: (https://github.com/SoftFever/OrcaSlicer)  
+* Copy the profile folders to:   
 
-    \%appdata%\OrcaSlicer\user\default
+  ```  \%appdata%\OrcaSlicer\user\default\```
 
 
 ### Orca Slicer:
@@ -17,7 +18,7 @@
 <br>
 
 >[!Note]
-> The bed origin offsets are set according to the configuration documentation. This setup might be something that you are not familiar with and will need calibration.
+> The **bed origin** offsets are set according to the configuration documentation. This setup might be something that you are not familiar with and will need calibration.  
 > Please check for [Klipper Config](https://github.com/lhndo/LH-Stinger/tree/main/Config/Klipper_Config#bed-origin) for instructions.
 
 <br>
