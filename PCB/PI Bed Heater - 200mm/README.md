@@ -11,7 +11,7 @@
 
 **NOTE: This design is currently in testing.**  
 <br>
-If you are interested in a custom bed heater, then please join our Discord server to see if there are any extra ones available, or if there is an upcoming group buy.
+_This model is now also available for purchase from [Provok3d](https://provok3d.com/product-category/printers/lh-stinger/?v=0a10a0b3e53b&sld=211)_  
 <br>
 
 # Specifications  
