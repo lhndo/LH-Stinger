@@ -9,6 +9,7 @@
     "detect_thin_wall": "1",
     "elefant_foot_compensation": "0.15",
     "enable_support": "1",
+    "ensure_vertical_shell_thickness": "0",
     "from": "User",
     "gap_infill_speed": "400",
     "infill_wall_overlap": "10%",
