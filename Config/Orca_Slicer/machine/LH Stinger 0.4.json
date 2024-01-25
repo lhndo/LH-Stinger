@@ -2,6 +2,10 @@
     "auxiliary_fan": "1",
     "bed_custom_model": "C:\\\\3DPrint\\\\Bambu\\\\LH Stinger 200 Bed Model.stl",
     "bed_custom_texture": "C:\\\\3DPrint\\\\Bambu\\\\LH Stinger Buildplate.png",
+    "deretraction_speed": [
+        "35"
+    ],
+    "extruder_clearance_radius": "55",
     "from": "User",
     "inherits": "MyKlipper 0.4 nozzle",
     "is_custom_defined": "0",
@@ -60,6 +64,7 @@
     "machine_start_gcode": "PRINT_START_MICRO BED=[bed_temperature_initial_layer_single] HOTEND=[nozzle_temperature_initial_layer] AUTOMESH=1 AUTOPURGE=1\n",
     "name": "LH Stinger 0.4",
     "nozzle_type": "brass",
+    "print_host": "http://192.168.50.186",
     "printable_area": [
         "20x38",
         "220x38",
@@ -68,19 +73,16 @@
     ],
     "printable_height": "190",
     "printer_settings_id": "LH Stinger 0.4",
-    "retract_before_wipe": [
-        "100%"
-    ],
     "retract_lift_enforce": [
         "Top Only"
     ],
     "retraction_length": [
-        "0.35"
+        "0.4"
+    ],
+    "retraction_speed": [
+        "35"
     ],
     "version": "1.9.0.2",
-    "wipe_distance": [
-        "1.5"
-    ],
     "z_hop": [
         "0.2"
     ]

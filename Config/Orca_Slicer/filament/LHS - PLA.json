@@ -36,5 +36,11 @@
     "pressure_advance": [
         "0.017"
     ],
+    "slow_down_layer_time": [
+        "10"
+    ],
+    "slow_down_min_speed": [
+        "15"
+    ],
     "version": "1.9.0.2"
 }
