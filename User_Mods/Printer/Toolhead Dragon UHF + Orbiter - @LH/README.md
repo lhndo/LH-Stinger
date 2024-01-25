@@ -1,4 +1,4 @@
-Supports toolheads like **Dragon UHF**, **Dragon Ace + Extender**, or similar. 
+Supports toolheads like **Dragon UHF**, **Rapido UHF**, **Dragon Ace + Extender**, or similar. 
 
 * Requires the following Z Endstop:
 https://github.com/lhndo/LH-Stinger/blob/main/STL/Printer/Endstops/Z%20Endstop%20Adj%20UHF%20Hotends.stl
