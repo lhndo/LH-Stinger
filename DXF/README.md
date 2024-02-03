@@ -7,3 +7,25 @@
 <br>
 
 ![Deflection Test](/Images/deflection.png)    
+
+<br>
+
+* Deflection comparison against the Ender 3 4mm aluminium carriage.  
+
+<br>
+
+![Deflection Test](/Images/deflection.png)    
+
+<br>
+
+* Bed mesh flatness range at ambient and temp.
+
+<br>
+
+![Deflection Test](/Images/flatness.png)    
+
+<br>
+
+![Deflection Test](/Images/tempflatness.png)    
+
+<br>
