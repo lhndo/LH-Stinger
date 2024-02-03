@@ -14,7 +14,7 @@
 
 <br>
 
-![Deflection Test](/Images/deflection.png)    
+![Deflection Test](/Images/deflection.jpg)    
 
 <br>
 
@@ -26,6 +26,6 @@
 
 <br>
 
-![Deflection Test](/Images/tempflatness.png)    
+![Deflection Test](/Images/flatnesstemp.png)    
 
 <br>
