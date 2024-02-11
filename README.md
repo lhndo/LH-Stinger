@@ -21,7 +21,7 @@ Upcoming: **V1.0 Release Candidate**
 <br>
 
 
-![Image of Stinger Front](Images/New_Frame_v1023.png)  
+![Image of Stinger Front](Images/New_Frame_v1024.png)  
 
 <br>
 
