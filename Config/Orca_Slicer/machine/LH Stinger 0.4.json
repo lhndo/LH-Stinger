@@ -61,7 +61,7 @@
         "100",
         "12"
     ],
-    "machine_start_gcode": "PRINT_START BED=[bed_temperature_initial_layer_single] HOTEND=[nozzle_temperature_initial_layer] AUTOMESH=1 AUTOPURGE=1\n",
+    "machine_start_gcode": "PRINT_START_LHS BED=[bed_temperature_initial_layer_single] HOTEND=[nozzle_temperature_initial_layer] AUTOMESH=1 AUTOPURGE=1\n",
     "name": "LH Stinger 0.4",
     "nozzle_type": "brass",
     "print_host": "http://192.168.50.186",
