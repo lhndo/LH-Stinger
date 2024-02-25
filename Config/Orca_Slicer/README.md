@@ -24,3 +24,28 @@
 <br>
 
 ![orca slicer](/Images/orcaslicer.png)
+
+<br>
+
+### Settings
+
+
+The profiles contain the following Machine Start G-Code:  
+
+`
+PRINT_START_LHS BED=[bed_temperature_initial_layer_single] HOTEND=[nozzle_temperature_initial_layer] AUTOMESH=1 AUTOPURGE=1 QUIETMODE=1
+`
+
+<br>
+
+* **AUTOMESH** - KAMP auto mesh generation
+  * if set to **0**, the "**default**" profile will be loaded instead
+  * if mymacros.cfg **variable_use_multi_bed_mesh_profiles** is set to **True**, then  it will try to load the bed profile closest to the set bed temperature. (Required profiles: "default", "75", "105" )
+
+* **AUTOPURGE** - uses the KAMP purge feature.  Settings available in the KAMP_settings.cfg
+
+* **QUIETMODE** - automatically enables the Qmode macro for quiet printing. Best used with the Quiet profile.   
+
+<br>
+
+*Please consult the mymacros.cfg line comments for more information.*

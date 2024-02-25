@@ -12,7 +12,7 @@
         "60"
     ],
     "filament_flow_ratio": [
-        "0.96"
+        "0.95"
     ],
     "filament_max_volumetric_speed": [
         "50"
@@ -34,13 +34,13 @@
         "280"
     ],
     "pressure_advance": [
-        "0.017"
+        "0.025"
     ],
     "slow_down_layer_time": [
         "10"
     ],
     "slow_down_min_speed": [
-        "15"
+        "12"
     ],
     "version": "1.9.0.2"
 }

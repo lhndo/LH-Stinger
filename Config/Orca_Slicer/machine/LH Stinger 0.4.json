@@ -61,7 +61,7 @@
         "100",
         "12"
     ],
-    "machine_start_gcode": "PRINT_START_LHS BED=[bed_temperature_initial_layer_single] HOTEND=[nozzle_temperature_initial_layer] AUTOMESH=1 AUTOPURGE=1\n",
+    "machine_start_gcode": "PRINT_START_LHS BED=[bed_temperature_initial_layer_single] HOTEND=[nozzle_temperature_initial_layer] AUTOMESH=1 AUTOPURGE=1 QUIETMODE=0\n",
     "name": "LH Stinger 0.4",
     "nozzle_type": "brass",
     "print_host": "http://192.168.50.186",
@@ -74,7 +74,7 @@
     "printable_height": "190",
     "printer_settings_id": "LH Stinger 0.4",
     "retract_lift_enforce": [
-        "Top Only"
+        "Top and Bottom"
     ],
     "retraction_length": [
         "0.4"
@@ -83,6 +83,9 @@
         "35"
     ],
     "version": "1.9.0.2",
+    "wipe_distance": [
+        "0.8"
+    ],
     "z_hop": [
         "0.2"
     ]
