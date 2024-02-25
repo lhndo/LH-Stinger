@@ -125,7 +125,7 @@ If not using the provided LH Stinger profiles, then in Printer > Machine G-Code 
 Machine Start G-Code:  
 
 `
-PRINT_START_LHS BED=[bed_temperature_initial_layer_single] HOTEND=[nozzle_temperature_initial_layer] AUTOMESH=1 AUTOPURGE=1 QUIETMODE=1
+PRINT_START_LHS BED=[bed_temperature_initial_layer_single] HOTEND=[nozzle_temperature_initial_layer] AUTOMESH=1 AUTOPURGE=1 QUIETMODE=0
 `
 
 Machine End G-Code: 
@@ -141,7 +141,7 @@ In Printer Settings > Custom G-Code set:
 Start G-Code:  
 
 `
-PRINT_START_LHS BED=[first_layer_bed_temperature] HOTEND=[first_layer_temperature[initial_extruder]] AUTOMESH=1 AUTOPURGE=1 QUIETMODE=1
+PRINT_START_LHS BED=[first_layer_bed_temperature] HOTEND=[first_layer_temperature[initial_extruder]] AUTOMESH=1 AUTOPURGE=1 QUIETMODE=0
 `
 
 End G-Code: 
