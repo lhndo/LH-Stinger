@@ -17,6 +17,7 @@ Using the parts listed in the [BOM]( https://docs.google.com/spreadsheets/u/2/d/
     - [ResHelper](#reshelper)
     - [KAMP](#kamp)
 - [Klipper Configuration](#klipper-configuration)
+- [Moonraker Power Relay](#moonraker-power-relay)
 - [Bed Origin](#bed-origin)
 - [Slicer Start Gcode](#slicer-start-gcode)
   - [Orca Slicer](#orca-slicer)
@@ -119,11 +120,13 @@ Add those values in the Origin section as negative values.
 
 ## Orca Slicer
 
-In Printer > Machine G-Code set:  
+If not using the provided LH Stinger profiles, then in Printer > Machine G-Code set:  
 
 Machine Start G-Code:  
 
-`PRINT_START BED=[bed_temperature_initial_layer_single] HOTEND=[nozzle_temperature_initial_layer] AUTOMESH=1 AUTOPURGE=1`
+`
+PRINT_START_LHS BED=[bed_temperature_initial_layer_single] HOTEND=[nozzle_temperature_initial_layer] AUTOMESH=1 AUTOPURGE=1 QUIETMODE=1
+`
 
 Machine End G-Code: 
 
@@ -137,7 +140,9 @@ In Printer Settings > Custom G-Code set:
 
 Start G-Code:  
 
-`PRINT_START BED=[first_layer_bed_temperature] HOTEND=[first_layer_temperature[initial_extruder]] AUTOMESH=1 AUTOPURGE=1`
+`
+PRINT_START_LHS BED=[first_layer_bed_temperature] HOTEND=[first_layer_temperature[initial_extruder]] AUTOMESH=1 AUTOPURGE=1 QUIETMODE=1
+`
 
 End G-Code: 
 
