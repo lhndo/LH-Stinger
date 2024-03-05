@@ -1,5 +1,7 @@
 # LHS Breakbeat
 
+Status: Untested
+
 **LHS Breakbeat** is a breakout board built for the LH Stinger, meant to provide an easy interface between the external electronics box and the printer electronics.
 
 This board is meant to be mounted on the printer, and make most of the wiring setup plug and play.
