@@ -27,4 +27,4 @@ This board is meant to be mounted on the printer, and make most of the wiring se
 
 
 ## BOM
-Please see the [Interactive BOM](BOM/ibom.html)
+Please see the [Interactive BOM](https://htmlpreview.github.io/?https://github.com/lhndo/LH-Stinger/blob/main/PCB/LHS%20Breakbeat/BOM/ibom.html)
