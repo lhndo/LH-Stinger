@@ -30,3 +30,9 @@ This board is meant to be mounted on the printer, and make most of the wiring se
 
 ## BOM
 Please see the [Interactive BOM](https://htmlpreview.github.io/?https://github.com/lhndo/LH-Stinger/blob/main/PCB/LHS%20Breakbeat/BOM/ibom.html)
+
+
+## Notes
+
+* The BOM included links to paired connectors and crimps
+* The Molex MiniFit Paired Power Connector (03-04-4052) requires 16AWG 13A crimps (45750-3112)

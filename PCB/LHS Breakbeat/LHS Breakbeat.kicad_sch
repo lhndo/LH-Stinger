@@ -2278,12 +2278,21 @@
     (property "Datasheet" "~" (at 208.28 149.86 0)
       (effects (font (size 1.27 1.27)) hide)
     )
+    (property "MFR" "B4B-XH-A" (at 208.28 149.86 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "PAIR" "https://www.digikey.com/en/products/detail/jst-sales-america-inc/XHP-4/683353" (at 208.28 149.86 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "URL" "https://www.digikey.com/en/products/detail/jst-sales-america-inc/B4B-XH-A/1651047" (at 208.28 149.86 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
     (pin "1" (uuid 1f35792b-ee7a-4c26-995c-6402a0ed356e))
     (pin "2" (uuid 7fa171a9-48be-4cb5-9a5f-085d0a9e08f3))
     (pin "3" (uuid fda3032a-dda4-4259-a026-2afd30a821a2))
     (pin "4" (uuid d687851d-b426-4073-bda0-9a40952fd920))
     (instances
-      (project "breakout"
+      (project "LHS Breakbeat"
         (path "/bba6e55c-03b8-4eb9-ac5d-8eef535ad508"
           (reference "J19") (unit 1)
         )
@@ -2326,7 +2335,7 @@
     )
     (pin "1" (uuid 59ffa264-6c95-4613-9559-5d4e8557160d))
     (instances
-      (project "breakout"
+      (project "LHS Breakbeat"
         (path "/bba6e55c-03b8-4eb9-ac5d-8eef535ad508"
           (reference "TP1") (unit 1)
         )
@@ -2349,12 +2358,21 @@
     (property "Datasheet" "~" (at 182.88 149.86 0)
       (effects (font (size 1.27 1.27)) hide)
     )
+    (property "MFR" "B4B-XH-A" (at 182.88 149.86 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "PAIR" "https://www.digikey.com/en/products/detail/jst-sales-america-inc/XHP-4/683353" (at 182.88 149.86 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "URL" "https://www.digikey.com/en/products/detail/jst-sales-america-inc/B4B-XH-A/1651047" (at 182.88 149.86 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
     (pin "1" (uuid 1c9d1e58-b764-4784-840b-6212c94749c7))
     (pin "2" (uuid b9371a9b-f276-4cbc-a6bf-5b388682cf96))
     (pin "3" (uuid 8ab3997c-93c3-4ee2-b729-10e2e1b106ed))
     (pin "4" (uuid 8f285f7c-1a1b-4bcb-9e13-0e6c8548468f))
     (instances
-      (project "breakout"
+      (project "LHS Breakbeat"
         (path "/bba6e55c-03b8-4eb9-ac5d-8eef535ad508"
           (reference "J22") (unit 1)
         )
@@ -2384,7 +2402,7 @@
           (reference "#PWR0101") (unit 1)
         )
       )
-      (project "breakout"
+      (project "LHS Breakbeat"
         (path "/bba6e55c-03b8-4eb9-ac5d-8eef535ad508"
           (reference "#PWR011") (unit 1)
         )
@@ -2416,7 +2434,7 @@
     (property "CRIMP" "" (at 49.53 49.53 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "PAIR" "https://eu.mouser.com/ProductDetail/Molex/43030-0001-Cut-Strip?qs=LVm7ROZMjqOG%2FpR3agpKGQ%3D%3D" (at 49.53 49.53 0)
+    (property "PAIR" "https://eu.mouser.com/ProductDetail/Molex/43025-2400?qs=MGlPTwjtJ4ZUmEde0XlkUg%3D%3D" (at 49.53 49.53 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "PAIR CRIMP" "https://eu.mouser.com/ProductDetail/Molex/43030-0001-Cut-Strip?qs=LVm7ROZMjqOG%2FpR3agpKGQ%3D%3D" (at 49.53 49.53 0)
@@ -2450,7 +2468,7 @@
     (pin "8" (uuid 7aa6a462-3a56-4c7c-9af2-3a35115624ea))
     (pin "9" (uuid f9e11acd-7174-4c94-85d6-9d3cad9f1fbf))
     (instances
-      (project "breakout"
+      (project "LHS Breakbeat"
         (path "/bba6e55c-03b8-4eb9-ac5d-8eef535ad508"
           (reference "J1") (unit 1)
         )
@@ -2503,7 +2521,7 @@
     (pin "1" (uuid c0bdad19-41d3-461d-9bcd-69b0852d9591))
     (pin "2" (uuid 9611aba3-9a5f-430f-b1c2-7d36111891b1))
     (instances
-      (project "breakout"
+      (project "LHS Breakbeat"
         (path "/bba6e55c-03b8-4eb9-ac5d-8eef535ad508"
           (reference "F1") (unit 1)
         )
@@ -2526,10 +2544,19 @@
     (property "Datasheet" "~" (at 189.23 92.71 0)
       (effects (font (size 1.27 1.27)) hide)
     )
+    (property "MFR" "B2B-XH-A" (at 189.23 92.71 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "PAIR" "https://www.digikey.com/en/products/detail/jst-sales-america-inc/XHP-3/1651017" (at 189.23 92.71 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "URL" "https://www.digikey.com/en/products/detail/jst-sales-america-inc/b2b-xh-a/1651045" (at 189.23 92.71 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
     (pin "1" (uuid b75adb06-670c-4bee-8c16-ec1fbe86fedc))
     (pin "2" (uuid 155d40e7-fd1a-4e18-ad43-7eb4987c962f))
     (instances
-      (project "breakout"
+      (project "LHS Breakbeat"
         (path "/bba6e55c-03b8-4eb9-ac5d-8eef535ad508"
           (reference "J26") (unit 1)
         )
@@ -2559,7 +2586,7 @@
           (reference "#PWR0101") (unit 1)
         )
       )
-      (project "breakout"
+      (project "LHS Breakbeat"
         (path "/bba6e55c-03b8-4eb9-ac5d-8eef535ad508"
           (reference "#PWR010") (unit 1)
         )
@@ -2603,7 +2630,7 @@
     (pin "1" (uuid d62e9e26-d882-45d7-940a-ff226069bf06))
     (pin "2" (uuid 66be972b-860e-4b9f-bff2-675d91d07387))
     (instances
-      (project "breakout"
+      (project "LHS Breakbeat"
         (path "/bba6e55c-03b8-4eb9-ac5d-8eef535ad508"
           (reference "D1") (unit 1)
         )
@@ -2650,7 +2677,7 @@
           (reference "H2") (unit 1)
         )
       )
-      (project "breakout"
+      (project "LHS Breakbeat"
         (path "/bba6e55c-03b8-4eb9-ac5d-8eef535ad508"
           (reference "H2") (unit 1)
         )
@@ -2680,7 +2707,7 @@
           (reference "#PWR0101") (unit 1)
         )
       )
-      (project "breakout"
+      (project "LHS Breakbeat"
         (path "/bba6e55c-03b8-4eb9-ac5d-8eef535ad508"
           (reference "#PWR09") (unit 1)
         )
@@ -2723,7 +2750,7 @@
     )
     (pin "1" (uuid 93ab6398-19e4-4341-8b61-c9d0878d1b66))
     (instances
-      (project "breakout"
+      (project "LHS Breakbeat"
         (path "/bba6e55c-03b8-4eb9-ac5d-8eef535ad508"
           (reference "TP2") (unit 1)
         )
@@ -2753,7 +2780,7 @@
           (reference "#PWR036") (unit 1)
         )
       )
-      (project "breakout"
+      (project "LHS Breakbeat"
         (path "/bba6e55c-03b8-4eb9-ac5d-8eef535ad508"
           (reference "#PWR06") (unit 1)
         )
@@ -2783,7 +2810,7 @@
           (reference "#PWR0101") (unit 1)
         )
       )
-      (project "breakout"
+      (project "LHS Breakbeat"
         (path "/bba6e55c-03b8-4eb9-ac5d-8eef535ad508"
           (reference "#PWR07") (unit 1)
         )
@@ -2813,7 +2840,7 @@
           (reference "#PWR0101") (unit 1)
         )
       )
-      (project "breakout"
+      (project "LHS Breakbeat"
         (path "/bba6e55c-03b8-4eb9-ac5d-8eef535ad508"
           (reference "#PWR08") (unit 1)
         )
@@ -2856,7 +2883,7 @@
     )
     (pin "1" (uuid 32d8216f-97ce-44d5-8cd0-6879bb95ca58))
     (instances
-      (project "breakout"
+      (project "LHS Breakbeat"
         (path "/bba6e55c-03b8-4eb9-ac5d-8eef535ad508"
           (reference "TP3") (unit 1)
         )
@@ -2888,7 +2915,7 @@
     (property "CRIMP" "" (at 105.41 48.26 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "PAIR" "https://eu.mouser.com/ProductDetail/Molex/43030-0001-Cut-Strip?qs=LVm7ROZMjqOG%2FpR3agpKGQ%3D%3D" (at 105.41 48.26 0)
+    (property "PAIR" "https://eu.mouser.com/ProductDetail/Molex/43025-2200?qs=KC2ywxza1kqS68d5UsryIw%3D%3D" (at 105.41 48.26 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "PAIR CRIMP" "https://eu.mouser.com/ProductDetail/Molex/43030-0001-Cut-Strip?qs=LVm7ROZMjqOG%2FpR3agpKGQ%3D%3D" (at 105.41 48.26 0)
@@ -2920,7 +2947,7 @@
     (pin "8" (uuid 24007d1c-35f7-4fae-b420-ff7d141aa7af))
     (pin "9" (uuid a613dad0-be4e-4a75-9133-ff4b6c686032))
     (instances
-      (project "breakout"
+      (project "LHS Breakbeat"
         (path "/bba6e55c-03b8-4eb9-ac5d-8eef535ad508"
           (reference "J2") (unit 1)
         )
@@ -2963,7 +2990,7 @@
     )
     (pin "1" (uuid c3de3696-0b70-4934-b313-b8dddab1b189))
     (instances
-      (project "breakout"
+      (project "LHS Breakbeat"
         (path "/bba6e55c-03b8-4eb9-ac5d-8eef535ad508"
           (reference "TP6") (unit 1)
         )
@@ -2993,7 +3020,7 @@
           (reference "#PWR0101") (unit 1)
         )
       )
-      (project "breakout"
+      (project "LHS Breakbeat"
         (path "/bba6e55c-03b8-4eb9-ac5d-8eef535ad508"
           (reference "#PWR012") (unit 1)
         )
@@ -3016,12 +3043,21 @@
     (property "Datasheet" "~" (at 260.35 137.16 0)
       (effects (font (size 1.27 1.27)) hide)
     )
+    (property "MFR" "B4B-XH-A" (at 260.35 137.16 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "PAIR" "https://www.digikey.com/en/products/detail/jst-sales-america-inc/XHP-4/683353" (at 260.35 137.16 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "URL" "https://www.digikey.com/en/products/detail/jst-sales-america-inc/B4B-XH-A/1651047" (at 260.35 137.16 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
     (pin "1" (uuid 492af7d3-dde8-4bc1-b60c-619dc1b5b199))
     (pin "2" (uuid 0987cb1c-709d-4ff2-9e41-8c8fb07c4896))
     (pin "3" (uuid e108825d-965e-4101-b62a-d4a6befe722b))
     (pin "4" (uuid 0c1fad0d-ecfe-44e8-9c24-d07795105de1))
     (instances
-      (project "breakout"
+      (project "LHS Breakbeat"
         (path "/bba6e55c-03b8-4eb9-ac5d-8eef535ad508"
           (reference "J24") (unit 1)
         )
@@ -3068,7 +3104,7 @@
           (reference "H4") (unit 1)
         )
       )
-      (project "breakout"
+      (project "LHS Breakbeat"
         (path "/bba6e55c-03b8-4eb9-ac5d-8eef535ad508"
           (reference "H4") (unit 1)
         )
@@ -3092,7 +3128,7 @@
       (effects (font (size 1.27 1.27)) hide)
     )
     (instances
-      (project "breakout"
+      (project "LHS Breakbeat"
         (path "/bba6e55c-03b8-4eb9-ac5d-8eef535ad508"
           (reference "FID2") (unit 1)
         )
@@ -3127,7 +3163,7 @@
           (reference "#PWR0101") (unit 1)
         )
       )
-      (project "breakout"
+      (project "LHS Breakbeat"
         (path "/bba6e55c-03b8-4eb9-ac5d-8eef535ad508"
           (reference "#PWR04") (unit 1)
         )
@@ -3174,7 +3210,7 @@
     (pin "1" (uuid 14fd384c-8e5e-4b37-9ffa-b1ddc90fea62))
     (pin "2" (uuid 2ca67e64-e2f2-4011-aa9f-7922d440990e))
     (instances
-      (project "breakout"
+      (project "LHS Breakbeat"
         (path "/bba6e55c-03b8-4eb9-ac5d-8eef535ad508"
           (reference "D2") (unit 1)
         )
@@ -3204,7 +3240,7 @@
           (reference "#PWR036") (unit 1)
         )
       )
-      (project "breakout"
+      (project "LHS Breakbeat"
         (path "/bba6e55c-03b8-4eb9-ac5d-8eef535ad508"
           (reference "#PWR05") (unit 1)
         )
@@ -3251,7 +3287,7 @@
           (reference "H3") (unit 1)
         )
       )
-      (project "breakout"
+      (project "LHS Breakbeat"
         (path "/bba6e55c-03b8-4eb9-ac5d-8eef535ad508"
           (reference "H3") (unit 1)
         )
@@ -3274,12 +3310,21 @@
     (property "Datasheet" "~" (at 208.28 137.16 0)
       (effects (font (size 1.27 1.27)) hide)
     )
+    (property "MFR" "B4B-XH-A" (at 208.28 137.16 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "PAIR" "https://www.digikey.com/en/products/detail/jst-sales-america-inc/XHP-4/683353" (at 208.28 137.16 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "URL" "https://www.digikey.com/en/products/detail/jst-sales-america-inc/B4B-XH-A/1651047" (at 208.28 137.16 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
     (pin "1" (uuid 65f14618-069c-4d5e-9827-6fcc4fd2cee5))
     (pin "2" (uuid d7424724-9608-4056-9326-401c724057d2))
     (pin "3" (uuid 7a7eecdf-35c1-476f-a0c1-43b98c0b47d3))
     (pin "4" (uuid 33035aa9-384c-4f09-8d94-7b7d52cb76f2))
     (instances
-      (project "breakout"
+      (project "LHS Breakbeat"
         (path "/bba6e55c-03b8-4eb9-ac5d-8eef535ad508"
           (reference "J17") (unit 1)
         )
@@ -3302,12 +3347,21 @@
     (property "Datasheet" "~" (at 234.95 137.16 0)
       (effects (font (size 1.27 1.27)) hide)
     )
+    (property "MFR" "B4B-XH-A" (at 234.95 137.16 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "PAIR" "https://www.digikey.com/en/products/detail/jst-sales-america-inc/XHP-4/683353" (at 234.95 137.16 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "URL" "https://www.digikey.com/en/products/detail/jst-sales-america-inc/B4B-XH-A/1651047" (at 234.95 137.16 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
     (pin "1" (uuid ed51f3c3-87ca-4a77-9367-3e1c482e13b0))
     (pin "2" (uuid 80e2160b-deff-4ada-8212-c5e2e95ae361))
     (pin "3" (uuid 051a6a50-e512-4765-bde8-5859a7c695c4))
     (pin "4" (uuid 66e50061-fd4c-4426-8981-d98ae13bcc82))
     (instances
-      (project "breakout"
+      (project "LHS Breakbeat"
         (path "/bba6e55c-03b8-4eb9-ac5d-8eef535ad508"
           (reference "J20") (unit 1)
         )
@@ -3339,10 +3393,10 @@
     (property "CRIMP" "" (at 54.61 92.71 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "PAIR" "https://eu.mouser.com/ProductDetail/Molex/39-00-0208?qs=GEJyObWCoZj7QKYRLTltiQ%3D%3D" (at 54.61 92.71 0)
+    (property "PAIR" "https://eu.mouser.com/ProductDetail/Molex/03-04-4052?qs=Zl06UZ%2F9ocAmzQZByR07ow%3D%3D" (at 54.61 92.71 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "PAIR CRIMP" "https://eu.mouser.com/ProductDetail/Molex/39-00-0078?qs=53in8j6h7oRa9E5SrAL1Ew%3D%3D" (at 54.61 92.71 0)
+    (property "PAIR CRIMP" "https://eu.mouser.com/ProductDetail/Molex/45750-3112?qs=c7kbnNtxOmhyR5kVrGXrUg%3D%3D" (at 54.61 92.71 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "WIRE" "16AWG" (at 54.61 92.71 0)
@@ -3354,7 +3408,7 @@
     (pin "4" (uuid 42f7760e-bb89-490a-a7a7-e796efc24292))
     (pin "5" (uuid 74ab6ae9-77df-4867-a8ae-09017cd1ac93))
     (instances
-      (project "breakout"
+      (project "LHS Breakbeat"
         (path "/bba6e55c-03b8-4eb9-ac5d-8eef535ad508"
           (reference "J3") (unit 1)
         )
@@ -3398,7 +3452,7 @@
     (pin "1" (uuid a1abefa1-260c-4e5b-b009-9d50332ac640))
     (pin "2" (uuid 59386a90-35d6-4754-99ce-f6e60911ee91))
     (instances
-      (project "breakout"
+      (project "LHS Breakbeat"
         (path "/bba6e55c-03b8-4eb9-ac5d-8eef535ad508"
           (reference "D3") (unit 1)
         )
@@ -3440,7 +3494,7 @@
       (effects (font (size 1.27 1.27)) hide)
     )
     (instances
-      (project "breakout"
+      (project "LHS Breakbeat"
         (path "/bba6e55c-03b8-4eb9-ac5d-8eef535ad508"
           (reference "FID1") (unit 1)
         )
@@ -3491,7 +3545,7 @@
     (pin "3" (uuid ad5823d9-c57e-4d50-bf47-15f0edee4fed))
     (pin "4" (uuid 2a3435e3-c673-424b-83f9-4eb48ac2fa95))
     (instances
-      (project "breakout"
+      (project "LHS Breakbeat"
         (path "/bba6e55c-03b8-4eb9-ac5d-8eef535ad508"
           (reference "J4") (unit 1)
         )
@@ -3515,7 +3569,7 @@
       (effects (font (size 1.27 1.27)) hide)
     )
     (instances
-      (project "breakout"
+      (project "LHS Breakbeat"
         (path "/bba6e55c-03b8-4eb9-ac5d-8eef535ad508"
           (reference "FID3") (unit 1)
         )
@@ -3543,12 +3597,21 @@
     (property "Datasheet" "~" (at 234.95 149.86 0)
       (effects (font (size 1.27 1.27)) hide)
     )
+    (property "MFR" "B4B-XH-A" (at 234.95 149.86 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "PAIR" "https://www.digikey.com/en/products/detail/jst-sales-america-inc/XHP-4/683353" (at 234.95 149.86 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "URL" "https://www.digikey.com/en/products/detail/jst-sales-america-inc/B4B-XH-A/1651047" (at 234.95 149.86 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
     (pin "1" (uuid 434d1d77-e0cf-49a7-bf51-af8bd6065a1e))
     (pin "2" (uuid 6be44ada-1b84-43f7-9872-eaa21a9ff453))
     (pin "3" (uuid a4de415d-230e-4dd6-813d-093175c0682b))
     (pin "4" (uuid 3d24dbe4-7cc7-4dc1-8c81-52af880a9f96))
     (instances
-      (project "breakout"
+      (project "LHS Breakbeat"
         (path "/bba6e55c-03b8-4eb9-ac5d-8eef535ad508"
           (reference "J21") (unit 1)
         )
@@ -3592,7 +3655,7 @@
     (pin "1" (uuid 87f4c4c7-65dd-4399-b14a-6883602828da))
     (pin "2" (uuid 51c368c3-9091-4d77-911d-bdbe0e22c539))
     (instances
-      (project "breakout"
+      (project "LHS Breakbeat"
         (path "/bba6e55c-03b8-4eb9-ac5d-8eef535ad508"
           (reference "J5") (unit 1)
         )
@@ -3636,7 +3699,7 @@
     (pin "1" (uuid 6874d415-fecc-4a8e-aa28-26ccf33bde43))
     (pin "2" (uuid b5d218ca-3486-4e0d-9afe-2ff4244d09d8))
     (instances
-      (project "breakout"
+      (project "LHS Breakbeat"
         (path "/bba6e55c-03b8-4eb9-ac5d-8eef535ad508"
           (reference "R2") (unit 1)
         )
@@ -3659,10 +3722,19 @@
     (property "Datasheet" "~" (at 243.84 77.47 0)
       (effects (font (size 1.27 1.27)) hide)
     )
+    (property "MFR" "B2B-XH-A" (at 243.84 77.47 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "PAIR" "https://www.digikey.com/en/products/detail/jst-sales-america-inc/XHP-3/1651017" (at 243.84 77.47 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "URL" "https://www.digikey.com/en/products/detail/jst-sales-america-inc/b2b-xh-a/1651045" (at 243.84 77.47 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
     (pin "1" (uuid 0ee12a6a-e913-43e7-9a5a-7afa924e1257))
     (pin "2" (uuid 4f718a55-8b06-4723-b526-fce92705b7a5))
     (instances
-      (project "breakout"
+      (project "LHS Breakbeat"
         (path "/bba6e55c-03b8-4eb9-ac5d-8eef535ad508"
           (reference "J16") (unit 1)
         )
@@ -3685,10 +3757,28 @@
     (property "Datasheet" "~" (at 189.23 100.33 0)
       (effects (font (size 1.27 1.27)) hide)
     )
+    (property "PAIR" "https://www.digikey.com/en/products/detail/jst-sales-america-inc/XHP-3/1651017" (at 189.23 100.33 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "URL" "https://www.digikey.com/en/products/detail/jst-sales-america-inc/b2b-xh-a/1651045" (at 189.23 100.33 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "MFR" "B2B-XH-A" (at 199.39 97.79 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "CRIMP" "" (at 189.23 100.33 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "PAIR CRIMP" "" (at 189.23 100.33 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "WIRE" "" (at 189.23 100.33 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
     (pin "1" (uuid 175cd20a-9984-4ac0-9f12-fc2c67c2c8c7))
     (pin "2" (uuid 817a3709-41e9-46f1-b6b1-45e4af42af45))
     (instances
-      (project "breakout"
+      (project "LHS Breakbeat"
         (path "/bba6e55c-03b8-4eb9-ac5d-8eef535ad508"
           (reference "J25") (unit 1)
         )
@@ -3731,7 +3821,7 @@
     )
     (pin "1" (uuid 44aeb0b3-a70d-4d18-b778-0fed95c87c44))
     (instances
-      (project "breakout"
+      (project "LHS Breakbeat"
         (path "/bba6e55c-03b8-4eb9-ac5d-8eef535ad508"
           (reference "TP4") (unit 1)
         )
@@ -3754,10 +3844,28 @@
     (property "Datasheet" "~" (at 189.23 77.47 0)
       (effects (font (size 1.27 1.27)) hide)
     )
+    (property "PAIR" "https://www.digikey.com/en/products/detail/jst-sales-america-inc/XHP-3/1651017" (at 189.23 77.47 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "URL" "https://www.digikey.com/en/products/detail/jst-sales-america-inc/b2b-xh-a/1651045" (at 189.23 77.47 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "MFR" "B2B-XH-A" (at 189.23 77.47 0)
+      (effects (font (size 1.27 1.27)))
+    )
+    (property "CRIMP" "" (at 189.23 77.47 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "PAIR CRIMP" "" (at 189.23 77.47 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "WIRE" "" (at 189.23 77.47 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
     (pin "1" (uuid cc70fcf0-f6e2-42a4-aba9-2858aab71be6))
     (pin "2" (uuid 0184c982-a86a-4725-bef4-759745352b76))
     (instances
-      (project "breakout"
+      (project "LHS Breakbeat"
         (path "/bba6e55c-03b8-4eb9-ac5d-8eef535ad508"
           (reference "J12") (unit 1)
         )
@@ -3810,7 +3918,7 @@
     (pin "1" (uuid fbf258bc-2449-4687-9d1e-b6b0750adc9e))
     (pin "2" (uuid 2556c713-61ca-4ecd-965e-8f9056cb2c48))
     (instances
-      (project "breakout"
+      (project "LHS Breakbeat"
         (path "/bba6e55c-03b8-4eb9-ac5d-8eef535ad508"
           (reference "F2") (unit 1)
         )
@@ -3840,7 +3948,7 @@
           (reference "#PWR0101") (unit 1)
         )
       )
-      (project "breakout"
+      (project "LHS Breakbeat"
         (path "/bba6e55c-03b8-4eb9-ac5d-8eef535ad508"
           (reference "#PWR016") (unit 1)
         )
@@ -3863,10 +3971,28 @@
     (property "Datasheet" "~" (at 180.34 38.1 0)
       (effects (font (size 1.27 1.27)) hide)
     )
+    (property "PAIR" "https://www.digikey.com/en/products/detail/jst-sales-america-inc/XHP-3/1651017" (at 180.34 38.1 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "URL" "https://www.digikey.com/en/products/detail/jst-sales-america-inc/b2b-xh-a/1651045" (at 180.34 38.1 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "MFR" "B2B-XH-A" (at 180.34 38.1 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "CRIMP" "" (at 180.34 38.1 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "PAIR CRIMP" "" (at 180.34 38.1 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "WIRE" "" (at 180.34 38.1 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
     (pin "1" (uuid 85bbaba5-7fdd-44aa-8fe4-b53bf40d2fb3))
     (pin "2" (uuid 45aee8f5-ca42-421b-8f60-27a9ba4c57d7))
     (instances
-      (project "breakout"
+      (project "LHS Breakbeat"
         (path "/bba6e55c-03b8-4eb9-ac5d-8eef535ad508"
           (reference "J7") (unit 1)
         )
@@ -3889,10 +4015,28 @@
     (property "Datasheet" "~" (at 243.84 87.63 0)
       (effects (font (size 1.27 1.27)) hide)
     )
+    (property "PAIR" "https://www.digikey.com/en/products/detail/jst-sales-america-inc/XHP-3/1651017" (at 243.84 87.63 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "URL" "https://www.digikey.com/en/products/detail/jst-sales-america-inc/b2b-xh-a/1651045" (at 243.84 87.63 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "MFR" "B2B-XH-A" (at 243.84 87.63 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "CRIMP" "" (at 243.84 87.63 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "PAIR CRIMP" "" (at 243.84 87.63 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "WIRE" "" (at 243.84 87.63 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
     (pin "1" (uuid ed361c84-c321-4531-82f4-f80f33591149))
     (pin "2" (uuid 572caac6-8434-46e7-b22e-17ea7a719339))
     (instances
-      (project "breakout"
+      (project "LHS Breakbeat"
         (path "/bba6e55c-03b8-4eb9-ac5d-8eef535ad508"
           (reference "J15") (unit 1)
         )
@@ -3915,10 +4059,19 @@
     (property "Datasheet" "~" (at 189.23 114.3 0)
       (effects (font (size 1.27 1.27)) hide)
     )
+    (property "MFR" "B2B-XH-A" (at 189.23 114.3 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "PAIR" "https://www.digikey.com/en/products/detail/jst-sales-america-inc/XHP-3/1651017" (at 189.23 114.3 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "URL" "https://www.digikey.com/en/products/detail/jst-sales-america-inc/b2b-xh-a/1651045" (at 189.23 114.3 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
     (pin "1" (uuid 5600c6a8-05a6-4aed-a93f-5f7f06e37c1a))
     (pin "2" (uuid 163427e7-2397-4314-9e70-6560c13a57b6))
     (instances
-      (project "breakout"
+      (project "LHS Breakbeat"
         (path "/bba6e55c-03b8-4eb9-ac5d-8eef535ad508"
           (reference "J11") (unit 1)
         )
@@ -3948,7 +4101,7 @@
           (reference "#PWR0101") (unit 1)
         )
       )
-      (project "breakout"
+      (project "LHS Breakbeat"
         (path "/bba6e55c-03b8-4eb9-ac5d-8eef535ad508"
           (reference "#PWR01") (unit 1)
         )
@@ -3978,7 +4131,7 @@
           (reference "#PWR036") (unit 1)
         )
       )
-      (project "breakout"
+      (project "LHS Breakbeat"
         (path "/bba6e55c-03b8-4eb9-ac5d-8eef535ad508"
           (reference "#PWR03") (unit 1)
         )
@@ -4022,7 +4175,7 @@
     (pin "1" (uuid 9df69f21-256b-4773-b598-e3fcb2e1c1da))
     (pin "2" (uuid 96c582da-e3f8-4f22-a0b1-051491561159))
     (instances
-      (project "breakout"
+      (project "LHS Breakbeat"
         (path "/bba6e55c-03b8-4eb9-ac5d-8eef535ad508"
           (reference "R1") (unit 1)
         )
@@ -4045,10 +4198,25 @@
     (property "Datasheet" "~" (at 243.84 99.06 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "MFR" "" (at 243.84 99.06 0)
+    (property "MFR" "B4B-XH-A" (at 243.84 99.06 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Info" "https://www.nicksherlock.com/2022/01/driving-a-4-pin-computer-pwm-fan-on-the-btt-octopus-using-klipper/" (at 243.84 99.06 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "URL" "https://www.digikey.com/en/products/detail/jst-sales-america-inc/B4B-XH-A/1651047" (at 243.84 99.06 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "CRIMP" "" (at 243.84 99.06 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "PAIR" "https://www.digikey.com/en/products/detail/jst-sales-america-inc/XHP-4/683353" (at 243.84 99.06 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "PAIR CRIMP" "" (at 243.84 99.06 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "WIRE" "" (at 243.84 99.06 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (pin "1" (uuid 5a3dd73d-b88a-4229-a5ff-c7827db854c5))
@@ -4056,7 +4224,7 @@
     (pin "3" (uuid 5474d47c-774a-4849-a034-505b55c97c31))
     (pin "4" (uuid 2d1a3d18-9665-4650-bb2f-5273d4e5f1f2))
     (instances
-      (project "breakout"
+      (project "LHS Breakbeat"
         (path "/bba6e55c-03b8-4eb9-ac5d-8eef535ad508"
           (reference "J14") (unit 1)
         )
@@ -4079,12 +4247,21 @@
     (property "Datasheet" "~" (at 182.88 137.16 0)
       (effects (font (size 1.27 1.27)) hide)
     )
+    (property "MFR" "B4B-XH-A" (at 182.88 137.16 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "PAIR" "https://www.digikey.com/en/products/detail/jst-sales-america-inc/XHP-4/683353" (at 182.88 137.16 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "URL" "https://www.digikey.com/en/products/detail/jst-sales-america-inc/B4B-XH-A/1651047" (at 182.88 137.16 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
     (pin "1" (uuid 9a397671-3efd-48fd-a697-59f184b09f6f))
     (pin "2" (uuid 4d4f6406-9799-4a6c-a21b-e2cb70552a63))
     (pin "3" (uuid a3d3ef04-9912-4090-92f0-a1a87868fb36))
     (pin "4" (uuid 16f2321e-eabb-44e7-84da-29c4f0e64298))
     (instances
-      (project "breakout"
+      (project "LHS Breakbeat"
         (path "/bba6e55c-03b8-4eb9-ac5d-8eef535ad508"
           (reference "J23") (unit 1)
         )
@@ -4114,7 +4291,7 @@
           (reference "#PWR036") (unit 1)
         )
       )
-      (project "breakout"
+      (project "LHS Breakbeat"
         (path "/bba6e55c-03b8-4eb9-ac5d-8eef535ad508"
           (reference "#PWR013") (unit 1)
         )
@@ -4157,7 +4334,7 @@
     )
     (pin "1" (uuid f1561975-5257-44dd-88d8-3a7aec461021))
     (instances
-      (project "breakout"
+      (project "LHS Breakbeat"
         (path "/bba6e55c-03b8-4eb9-ac5d-8eef535ad508"
           (reference "TP5") (unit 1)
         )
@@ -4180,10 +4357,28 @@
     (property "Datasheet" "~" (at 180.34 46.99 0)
       (effects (font (size 1.27 1.27)) hide)
     )
+    (property "PAIR" "https://www.digikey.com/en/products/detail/jst-sales-america-inc/XHP-3/1651017" (at 180.34 46.99 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "URL" "https://www.digikey.com/en/products/detail/jst-sales-america-inc/b2b-xh-a/1651045" (at 180.34 46.99 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "MFR" "B2B-XH-A" (at 180.34 46.99 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "CRIMP" "" (at 180.34 46.99 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "PAIR CRIMP" "" (at 180.34 46.99 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "WIRE" "" (at 180.34 46.99 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
     (pin "1" (uuid 5b5159ea-c46a-4548-be7f-bffa89aa7ec3))
     (pin "2" (uuid 41495794-4cdc-47dc-bdc8-e2003afee11c))
     (instances
-      (project "breakout"
+      (project "LHS Breakbeat"
         (path "/bba6e55c-03b8-4eb9-ac5d-8eef535ad508"
           (reference "J9") (unit 1)
         )
@@ -4206,11 +4401,29 @@
     (property "Datasheet" "~" (at 243.84 35.56 0)
       (effects (font (size 1.27 1.27)) hide)
     )
+    (property "MFR" "B3B-XH-A" (at 243.84 35.56 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "URL" "https://www.digikey.com/en/products/detail/jst-sales-america-inc/B3B-XH-A/1651046" (at 243.84 35.56 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "CRIMP" "" (at 243.84 35.56 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "PAIR" "https://www.digikey.com/en/products/detail/jst-sales-america-inc/XHP-3/1651017" (at 243.84 35.56 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "PAIR CRIMP" "" (at 243.84 35.56 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "WIRE" "" (at 243.84 35.56 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
     (pin "1" (uuid da98e2ee-b21e-4b8f-9207-213a2aa649e0))
     (pin "2" (uuid 6615cd01-6c13-4aeb-9fd2-ef8fcee16157))
     (pin "3" (uuid 54c5c742-7011-452e-b5e5-3f19da680796))
     (instances
-      (project "breakout"
+      (project "LHS Breakbeat"
         (path "/bba6e55c-03b8-4eb9-ac5d-8eef535ad508"
           (reference "J10") (unit 1)
         )
@@ -4233,10 +4446,19 @@
     (property "Datasheet" "~" (at 189.23 85.09 0)
       (effects (font (size 1.27 1.27)) hide)
     )
+    (property "MFR" "B2B-XH-A" (at 189.23 85.09 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "PAIR" "https://www.digikey.com/en/products/detail/jst-sales-america-inc/XHP-3/1651017" (at 189.23 85.09 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "URL" "https://www.digikey.com/en/products/detail/jst-sales-america-inc/b2b-xh-a/1651045" (at 189.23 85.09 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
     (pin "1" (uuid 0e5f2c88-065b-48bc-ae63-5c6fc19f0b77))
     (pin "2" (uuid 66734a5e-9c18-45c8-b52f-2f24656338c5))
     (instances
-      (project "breakout"
+      (project "LHS Breakbeat"
         (path "/bba6e55c-03b8-4eb9-ac5d-8eef535ad508"
           (reference "J13") (unit 1)
         )
@@ -4283,7 +4505,7 @@
           (reference "H1") (unit 1)
         )
       )
-      (project "breakout"
+      (project "LHS Breakbeat"
         (path "/bba6e55c-03b8-4eb9-ac5d-8eef535ad508"
           (reference "H1") (unit 1)
         )
@@ -4306,10 +4528,28 @@
     (property "Datasheet" "~" (at 104.14 91.44 0)
       (effects (font (size 1.27 1.27)) hide)
     )
+    (property "MFR" "22-28-5026" (at 104.14 91.44 0)
+      (effects (font (size 1.27 1.27)))
+    )
+    (property "URL" "https://eu.mouser.com/ProductDetail/Molex/22-28-5026?qs=l%252BWx29wYPrxTx4uny9SNSg%3D%3D" (at 104.14 91.44 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "CRIMP" "" (at 104.14 91.44 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "PAIR" "https://eu.mouser.com/ProductDetail/Preci-dip/999-19-310-06?qs=KBM%2FMdeLKej4fv40VCR9qg%3D%3D" (at 104.14 91.44 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "PAIR CRIMP" "" (at 104.14 91.44 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "WIRE" "" (at 104.14 91.44 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
     (pin "1" (uuid ffd70e9a-14d6-4fec-ac88-68050c74637a))
     (pin "2" (uuid 1201f356-cdf5-497b-b4f8-a243a0ff4189))
     (instances
-      (project "breakout"
+      (project "LHS Breakbeat"
         (path "/bba6e55c-03b8-4eb9-ac5d-8eef535ad508"
           (reference "JP1") (unit 1)
         )
@@ -4332,10 +4572,19 @@
     (property "Datasheet" "~" (at 180.34 54.61 0)
       (effects (font (size 1.27 1.27)) hide)
     )
+    (property "MFR" "B2B-XH-A" (at 180.34 54.61 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "PAIR" "https://www.digikey.com/en/products/detail/jst-sales-america-inc/XHP-3/1651017" (at 180.34 54.61 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "URL" "https://www.digikey.com/en/products/detail/jst-sales-america-inc/b2b-xh-a/1651045" (at 180.34 54.61 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
     (pin "1" (uuid fd050c0e-f166-4d6e-96d0-e1d59ed15503))
     (pin "2" (uuid 6d139a19-6c73-4d0d-ba02-efab69eef0bb))
     (instances
-      (project "breakout"
+      (project "LHS Breakbeat"
         (path "/bba6e55c-03b8-4eb9-ac5d-8eef535ad508"
           (reference "J8") (unit 1)
         )
@@ -4365,7 +4614,7 @@
           (reference "#PWR0101") (unit 1)
         )
       )
-      (project "breakout"
+      (project "LHS Breakbeat"
         (path "/bba6e55c-03b8-4eb9-ac5d-8eef535ad508"
           (reference "#PWR02") (unit 1)
         )
@@ -4397,10 +4646,10 @@
     (property "CRIMP" "" (at 243.84 55.88 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "PAIR" "" (at 243.84 55.88 0)
+    (property "PAIR" "https://eu.mouser.com/ProductDetail/Molex/50-57-9303?qs=pAYFZ4D%2FDKvCyELSGqGtow%3D%3D" (at 243.84 55.88 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "PAIR CRIMP" "" (at 243.84 55.88 0)
+    (property "PAIR CRIMP" "https://eu.mouser.com/ProductDetail/Molex/70058-1096?qs=gZXFycFWdAOcJNapPUMfwA%3D%3D" (at 243.84 55.88 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "WIRE" "" (at 243.84 55.88 0)
@@ -4412,7 +4661,7 @@
     (pin "4" (uuid 30cc57d0-6d0e-4448-a3ef-28041020342b))
     (pin "5" (uuid f6898525-e0fd-4f80-9c18-d1b865f400e7))
     (instances
-      (project "breakout"
+      (project "LHS Breakbeat"
         (path "/bba6e55c-03b8-4eb9-ac5d-8eef535ad508"
           (reference "J27") (unit 1)
         )
@@ -4459,7 +4708,7 @@
           (reference "H4") (unit 1)
         )
       )
-      (project "breakout"
+      (project "LHS Breakbeat"
         (path "/bba6e55c-03b8-4eb9-ac5d-8eef535ad508"
           (reference "H5") (unit 1)
         )
