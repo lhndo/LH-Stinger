@@ -4,7 +4,7 @@
 
 This board is meant to be mounted on the printer, and make most of the wiring setup plug and play.
 
-![LHS Breakbeat PCB Front](images/bf.png)
+![LHS Breakbeat PCB Front](Images/bf.png)
 
 
 ## Features
