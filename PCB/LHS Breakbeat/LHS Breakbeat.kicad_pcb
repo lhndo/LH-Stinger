@@ -353,7 +353,7 @@
     (tags "LED handsolder")
     (property "CRIMP" "")
     (property "LCSC" "C2297")
-    (property "MFR" "")
+    (property "MFR" "HSMG-C170")
     (property "Mfr." "HSMG-C170")
     (property "PAIR" "")
     (property "PAIR CRIMP" "")
