@@ -1,0 +1,37 @@
+Designator,Val,Package,Mid X,Mid Y,Rotation,Layer
+D1,Green,LED_0805_2012Metric_Pad1.15x1.40mm_HandSolder,190.5,-70.375,90.0,top
+D2,Green,LED_0805_2012Metric_Pad1.15x1.40mm_HandSolder,101.875216,-94.675216,135.0,top
+D3,BAT54J,D_SOD-323F,161.140344,-109.050855,-45.0,top
+F1,Fuse HE 5A,Fuseholder_Blade_Mini_Keystone_3568,178.7,-85.04,90.0,top
+F2,Fuse HB 10A,Fuseholder_Blade_Mini_Keystone_3568,107.1,-104.7,-45.0,top
+FID1,Fiducial,Fiducial_1.5mm_Mask3mm,99.2,-78.7,0.0,top
+FID2,Fiducial,Fiducial_1.5mm_Mask3mm,158.7,-79.1,0.0,top
+FID3,Fiducial,Fiducial_1.5mm_Mask3mm,126.275,-97.275,0.0,top
+J1,Steppers In,0430452400,129.97,-120.6,0.0,top
+J2,Sensors In,"43045-22_00,01,02,10_",172.8,-120.5054,0.0,top
+J3,Power In,39303055,194.2129,-100.78075,90.0,top
+J4,Hotend / Can 24V,XT30PWF,194.609045,-80.617214,-90.0,top
+J5,Hotbed,AMASS_XT60PW-F_1x02_P7.20mm_Horizontal,96.76741,-115.686648,135.0,top
+J7,Thermistor Bed,JST_XH_B2B-XH-A_1x02_P2.50mm_Vertical,91.744885,-103.312652,-135.0,top
+J8,Thermistor HE/Can L,JST_XH_B2B-XH-A_1x02_P2.50mm_Vertical,166.25,-93.275,180.0,top
+J9,Thermistor Aux,JST_XH_B2B-XH-A_1x02_P2.50mm_Vertical,117.85,-94.675,180.0,top
+J10,RGB,JST_XH_B3B-XH-A_1x03_P2.50mm_Vertical,123.4,-84.375,180.0,top
+J11,Filament Sensor / Tach,JST_XH_B2B-XH-A_1x02_P2.50mm_Vertical,150.75,-103.475,180.0,top
+J12,Endstop X,JST_XH_B2B-XH-A_1x02_P2.50mm_Vertical,166.616665,-70.2,180.0,top
+J13,Endstop Y,JST_XH_B2B-XH-A_1x02_P2.50mm_Vertical,90.475,-78.75,-90.0,top
+J14,Fan Aux,JST_XH_B4B-XH-A_1x04_P2.50mm_Vertical,106.85,-84.375,180.0,top
+J15,Fan Part,JST_XH_B2B-XH-A_1x02_P2.50mm_Vertical,150.75,-82.475,180.0,top
+J16,Fan Hotend/Can HL,JST_XH_B2B-XH-A_1x02_P2.50mm_Vertical,166.25,-82.475,180.0,top
+J17,Motor X,JST_XH_B4B-XH-A_1x04_P2.50mm_Vertical,178.7,-70.2,180.0,top
+J19,Motor X1,JST_XH_B4B-XH-A_1x04_P2.50mm_Vertical,154.533332,-70.2,180.0,top
+J20,Motor Z,JST_XH_B4B-XH-A_1x04_P2.50mm_Vertical,139.949999,-70.2,180.0,top
+J21,Motor Z1,JST_XH_B4B-XH-A_1x04_P2.50mm_Vertical,115.783333,-70.2,180.0,top
+J22,Motor Y1,JST_XH_B4B-XH-A_1x04_P2.50mm_Vertical,101.2,-70.2,180.0,top
+J23,Motor Y,JST_XH_B4B-XH-A_1x04_P2.50mm_Vertical,90.475,-90.25,-90.0,top
+J24,Motor E,JST_XH_B4B-XH-A_1x04_P2.50mm_Vertical,166.15,-103.475,180.0,top
+J25,Endstop Q,JST_XH_B2B-XH-A_1x02_P2.50mm_Vertical,150.75,-93.275,180.0,top
+J26,Endstop Z,JST_XH_B2B-XH-A_1x02_P2.50mm_Vertical,127.866666,-70.2,180.0,top
+J27,Probe/Optional Header,PinHeader_1x05_P2.54mm_Vertical,140.2,-88.855,0.0,top
+JP1,AGND In/ GND Jumper,PinHeader_1x02_P2.54mm_Vertical,196.45,-115.925,-90.0,top
+R1,4.7K,R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,188.1,-70.375,90.0,top
+R2,4.7K,R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,100.2,-96.392893,135.0,top

@@ -500,6 +500,11 @@
           "name": "WIRE",
           "url": true,
           "visible": false
+        },
+        {
+          "name": "LCSC",
+          "url": false,
+          "visible": false
         }
       ],
       "intersheets_ref_own_page": false,

@@ -1,0 +1,15 @@
+Comment,Designator,Footprint,LCSC
+Sensors In,J2,"43045-22_00,01,02,10_",C127339
+BAT54J,D3,D_SOD-323F,C130415
+4.7K,"R1,R2",R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,C17673
+Green,"D1,D2",LED_0805_2012Metric_Pad1.15x1.40mm_HandSolder,C2297
+AGND In/ GND Jumper,JP1,PinHeader_1x02_P2.54mm_Vertical,C2685195
+Steppers In,J1,0430452400,C277384
+Hotend / Can 24V,J4,XT30PWF,C2913282
+Probe/Optional Header,J27,PinHeader_1x05_P2.54mm_Vertical,C2935911
+Fuse HE 5A,"F1,F2",Fuseholder_Blade_Mini_Keystone_3568,C3206956
+Hotbed,J5,AMASS_XT60PW-F_1x02_P7.20mm_Horizontal,C428722
+Power In,J3,39303055,C492364
+RGB,J10,JST_XH_B3B-XH-A_1x03_P2.50mm_Vertical,C492457
+Filament Sensor / Tach,"J11,J12,J13,J15,J16,J25,J26,J7,J8,J9",JST_XH_B2B-XH-A_1x02_P2.50mm_Vertical,C5258883
+Fan Aux,"J14,J17,J19,J20,J21,J22,J23,J24",JST_XH_B4B-XH-A_1x04_P2.50mm_Vertical,C709375
