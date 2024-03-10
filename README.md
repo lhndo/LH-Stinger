@@ -61,7 +61,7 @@ Upcoming: **V1.0 Release Candidate**
 ## Resources
 <br>
 
-- [BOM](https://docs.google.com/spreadsheets/d/1s8ulLfThmbuy1G_40MvkXXL2oVx9PZhvpAY9hMxqYbg/edit?usp=drive_link)  
+- [BOM/Kits](https://docs.google.com/spreadsheets/d/1s8ulLfThmbuy1G_40MvkXXL2oVx9PZhvpAY9hMxqYbg/edit?usp=drive_link)  
 - [STL Files and Printing Instructions](STL/)  
 - [CAD Source Files ](CAD/)
 - [Klipper Configuration ](Config/Klipper_Config) 
