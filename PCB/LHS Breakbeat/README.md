@@ -39,6 +39,14 @@ Please see the [Interactive BOM](https://htmlpreview.github.io/?https://github.c
 
 <br>
 
+# Wiring Harness
+
+![LHS Breakbeat PCB Front](Images/LHS%20Breakbeat%20-%20Wiring%20Harness.png)
+
+
+<br>
+
 ## Acknowledgment
 
 *Thanks to [@roerich_64](https://github.com/walterwissmann) and the LHS community for the help and guidance with this project!*
+
