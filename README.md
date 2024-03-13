@@ -111,6 +111,8 @@ Upcoming: **V1.0 Release Candidate**
 - Dual 5015 fan setup for part cooling
 - Dual [AUX cooling modules](/CAD/Aux%20Fan) based on 9733 blower fans
 - Adopts the [Annex Engineering Quickdraw Probe](https://github.com/Annex-Engineering/Quickdraw_Probe)
+	- Zero Y offset probe placement for no gantry twist deviation
+	- Full bed probe coverage
 - Minimalistic [printed part design](/STL) focused on strength and easy printability
 - Printed in ASA, providing high temperature resistance
 - Easily enclosed, with the main electronic components outside of the build chamber.
