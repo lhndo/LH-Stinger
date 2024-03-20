@@ -84,7 +84,7 @@ Upcoming: **V1.0 Release Candidate**
   - 235 mm^2 bed support for a larger volume
 - Optimized for daily print speeds of 400-600 mm/s with 20.000 mm/s^2 acceleration ([Test A](https://www.youtube.com/watch?v=bxNQv3xVFXA&)) ([Test B](https://www.youtube.com/watch?v=mh0rmYptH-0)) ([Test C](https://www.youtube.com/watch?v=cDipS-Msi5c))
 - Motion system capable of 1.000 mm/s speed with 100.000 mm/s^2 acceleration ([Test](https://www.youtube.com/watch?v=Xajs2mky6ZU))
-- Maximum volumetric flow rate: ~55-60 mm^3/s ([Test](https://www.youtube.com/watch?v=K3M1EXKJzKs))
+- Maximum volumetric flow rate: ~55-60 mm^3/s ([Test A](https://www.youtube.com/watch?v=K3M1EXKJzKs)) ([Test B](https://www.youtube.com/shorts/JorOoNuft90))
 - Built using 30 series T-slotted extrusions with parts up to 3090
 - All bracket assembly
 - Genuine high-quality motion system components ([BOM](https://docs.google.com/spreadsheets/d/1s8ulLfThmbuy1G_40MvkXXL2oVx9PZhvpAY9hMxqYbg/edit?usp=drive_link))
@@ -96,7 +96,7 @@ Upcoming: **V1.0 Release Candidate**
 - Lightweight dual plate [Carbon Fiber Bed Carriage](/DXF) with integrated tensioner and compatible with different bed sizes and carriage configurations
 - Rigid carbon fiber bed mount
 - Lightweight Polyimide flex PCB 200W [Bed Heater](/PCB/PI%20Bed%20Heater%20-%20200mm)
-- Bearing supported Y-axis stepper motor shafts in double shear mounts
+- Double shear shaft supports for Y and X axis steppers
 - High torque LDO-42STH48-2504AC stepper motors supplied with 36V for the X and Y-axis
 - Dual power supply supporting 24V and 36V power standards (easily configurable for 48V)
 - Driven by the Octopus Pro 1.1 board with TMC2240 drivers
@@ -105,7 +105,7 @@ Upcoming: **V1.0 Release Candidate**
 - Easily serviceable [External electronic box](https://github.com/lhndo/LH-Stinger/wiki/Build-Log#electronic-box-design) with good airflow, and support for multiple power supplies, SSRs, RPi and large controller boards.
 - Good cable management with a quick disconnect system between the printer and ebox
 - Toolhead based on the Dragon HF hotend and HF extender
-  - Alternate hotends supported: Dragon Ace, Mellow NF-Crazy-Volcano HF, Rapido ([User Mods](/User_Mods/Printer))
+  - Alternate hotends supported: Dragon UHF, Ace, Mellow NF-Crazy-Volcano HF, Rapido, Goliath ([User Mods](/User_Mods/Printer))
 - LDO Orbiter 2.0 direct drive extruder
   - Sherpa Mini supported ([User Mods](/User_Mods/Printer))
 - Dual 5015 fan setup for part cooling
