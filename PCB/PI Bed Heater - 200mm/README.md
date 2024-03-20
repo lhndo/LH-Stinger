@@ -14,6 +14,8 @@
 _This model is now also available for purchase from [Provok3d](https://provok3d.com/product-category/printers/lh-stinger/?v=0a10a0b3e53b&sld=211)_  
 <br>
 
+![](Images/lh_stinger_heater_pcb.jpg)  
+
 # Specifications  
 
 **PCB**
