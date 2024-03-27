@@ -82,10 +82,11 @@ https://github.com/kyleisah/Klipper-Adaptive-Meshing-Purging/tree/main
 <br>
 <br>
 
-For more information please consult: https://www.klipper3d.org/Installation.html
+For more information please consult:  
+[Ebox Guide](https://github.com/lhndo/LH-Stinger/wiki/Ebox)  
+[Klipper Configuration Reference](https://www.klipper3d.org/Config_Reference.html)
 
-
-For support please join the Klipper Discord: https://discord.klipper3d.org/
+For support please join the [LH Stinger Discord](https://discord.gg/EzssCfnEDS), or the [Klipper Discord](https://discord.klipper3d.org/)
 
 <br>
 
