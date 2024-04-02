@@ -103,7 +103,7 @@ Upcoming: **V1.0 Release Candidate**
 - Running [Klipper](https://github.com/Klipper3d/klipper) firmware
 - Fully featured Klipper [Configuration](/Config/Klipper_Config) and [Slicer Profiles](/Config/Orca_Slicer) available
 - Easily serviceable [External electronic box](https://github.com/lhndo/LH-Stinger/wiki/Build-Log#electronic-box-design) with good airflow, and support for multiple power supplies, SSRs, RPi and large controller boards.
-- Good cable management with a quick disconnect system between the printer and ebox
+- Good cable management with a quick disconnect [Breakout Board](/PCB/LHS%20Breakbeat) between the printer and ebox
 - Toolhead based on the Dragon HF hotend and HF extender
   - Alternate hotends supported: Dragon UHF, Ace, Mellow NF-Crazy-Volcano HF, Rapido, Goliath ([User Mods](/User_Mods/Printer))
 - LDO Orbiter 2.0 direct drive extruder
