@@ -9,7 +9,7 @@
         "20"
     ],
     "fan_min_speed": [
-        "60"
+        "65"
     ],
     "filament_flow_ratio": [
         "0.95"
@@ -25,13 +25,16 @@
     "is_custom_defined": "0",
     "name": "LHS - PLA",
     "nozzle_temperature": [
-        "230"
+        "225"
     ],
     "nozzle_temperature_initial_layer": [
-        "230"
+        "225"
     ],
     "nozzle_temperature_range_high": [
         "280"
+    ],
+    "overhang_fan_threshold": [
+        "25%"
     ],
     "pressure_advance": [
         "0.025"

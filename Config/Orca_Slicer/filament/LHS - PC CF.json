@@ -1,0 +1,82 @@
+{
+    "additional_cooling_fan_speed": [
+        "0"
+    ],
+    "close_fan_the_first_x_layers": [
+        "4"
+    ],
+    "default_filament_colour": [
+        "#728F9A"
+    ],
+    "enable_pressure_advance": [
+        "1"
+    ],
+    "fan_cooling_layer_time": [
+        "11"
+    ],
+    "fan_max_speed": [
+        "5"
+    ],
+    "fan_min_speed": [
+        "5"
+    ],
+    "filament_density": [
+        "1.18"
+    ],
+    "filament_flow_ratio": [
+        "0.945"
+    ],
+    "filament_max_volumetric_speed": [
+        "35"
+    ],
+    "filament_settings_id": [
+        "LHS - PC CF"
+    ],
+    "filament_shrink": [
+        "99%"
+    ],
+    "filament_start_gcode": [
+        "; filament start gcode\nMAX_FAN LINK_AUX=0"
+    ],
+    "filament_type": [
+        "PC"
+    ],
+    "from": "User",
+    "hot_plate_temp": [
+        "105"
+    ],
+    "hot_plate_temp_initial_layer": [
+        "105"
+    ],
+    "inherits": "My Generic PLA",
+    "is_custom_defined": "0",
+    "name": "LHS - PC CF",
+    "nozzle_temperature": [
+        "300"
+    ],
+    "nozzle_temperature_initial_layer": [
+        "300"
+    ],
+    "nozzle_temperature_range_high": [
+        "300"
+    ],
+    "nozzle_temperature_range_low": [
+        "270"
+    ],
+    "overhang_fan_speed": [
+        "35"
+    ],
+    "pressure_advance": [
+        "0.025"
+    ],
+    "slow_down_layer_time": [
+        "10"
+    ],
+    "slow_down_min_speed": [
+        "12"
+    ],
+    "temperature_vitrification": [
+        "140"
+    ],
+    "version": "1.9.0.2"
+}
