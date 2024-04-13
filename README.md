@@ -46,15 +46,16 @@ Upcoming: **V1.0 Release Candidate**
 ## Contents
 <!--ts-->
 
-- [LH Stinger](#lh-stinger)
-  - [Resources](#resources)
-  - [Features](#features)
-  - [Assembly Instructions](#assembly-instructions)
-  - [Contact](#contact)
-  - [To Do](#to-do)
-  - [Credits](#credits)
-  - [Support](#support)
-  - [License](#license)
+- [Contents](#contents)
+- [Resources](#resources)
+- [Features](#features)
+- [Assembly Instructions](#assembly-instructions)
+- [Contact](#contact)
+- [To Do](#to-do)
+- [Future Projects](#future-projects)
+- [Credits](#credits)
+- [Support](#support)
+- [License](#license)
 
 <br>
 
@@ -152,10 +153,11 @@ lemurshaze @ gmail.com
 - Documentation and [Assembly Guide](https://github.com/lhndo/LH-Stinger/wiki/Assembly-Guide) (In progress)
 
 ## Future Projects
-- Lightweight Toolhead based on 2510 and 4020 Delta axials 
+- Enclosure (In progress)
+- Lightweight Toolhead based on 2510 and 4020 Delta axials (In progress)
 - Polycarbonate EBox design
-- Enclosure
 
+![LH Stinger Enclosure](Images/lh_stinger_enclosure.png)
 
 <br>
 
