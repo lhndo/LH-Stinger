@@ -75,9 +75,10 @@ Upcoming: **V1.0 Release Candidate**
 ## Features
 <br>
 
-- Lightweight bed carriage assembly with carbon fiber components
 - Cross Frame design focused on stiffness and stability
+- The frame assembly consists of only six extrusions
 - Low center of gravity
+- Lightweight bed carriage assembly with carbon fiber components
 - AWD stepper configuration for the Y-axis
   - Optional conversion for X-axis AWD setup
 - 235 mm^2 x 200mm maximum build volume (easily expandable to other sizes)
