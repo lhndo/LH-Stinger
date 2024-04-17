@@ -3,8 +3,9 @@ This is a archive format that contains all the linked assemblies and component i
 
 [Aux Fan - Online CAD Viewer](https://undoz.autodesk360.com/shares/public/SHd38bfQT1fb47330c99f176b1a153fa11a9?mode=embed)
 
+[Aux Fan - Assembly and Configuration Guide](https://github.com/lhndo/LH-Stinger/wiki/Aux-Fan)
 
-Auxiliary Fan Module <br>
+<br>
 
 ![Preview](/Images/auxa.png)    
 
