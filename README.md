@@ -133,17 +133,19 @@ Upcoming: **V1.0 Release Candidate**
 ## Assembly Instructions 
 
 Please consult the [CAD Source Files ](CAD/)  for assembly instructions, and the following [Wiki](https://github.com/lhndo/LH-Stinger/wiki) pages:  
+> [**Assembly Guide**](https://github.com/lhndo/LH-Stinger/wiki/Assembly-Guide)  
 > [Build Log](https://github.com/lhndo/LH-Stinger/wiki/Build-Log)  
-> [Wiki / Assembly Guide](https://github.com/lhndo/LH-Stinger/wiki/Assembly-Guide)  (In Progress)  
 
- For support please join us on the [LH Stinger Discord](https://discord.gg/EzssCfnEDS))
+
+For support please join us on the [LH Stinger Discord](https://discord.gg/EzssCfnEDS)
 <br>
 
 ## Contact
 
 lemurshaze @ gmail.com  
 
-@LH on [LH Stinger Discord](https://discord.gg/EzssCfnEDS) <br>
+@LH on [LH Stinger Discord](https://discord.gg/EzssCfnEDS)
+<br>
 
 <br>
 
