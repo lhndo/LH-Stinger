@@ -11,22 +11,22 @@ Filename Example: **AC** Y Stepper Mount A **SUP x2**.stl
 ## Print Settings
 
 **Filament** 
-&nbsp;&nbsp;&nbsp;&nbsp; Printer Parts: ASA, PC (CF, GF) 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ebox Parts:  PETG, ASA, ABS (Flame-retardant Filaments) 
+&nbsp;&nbsp;&nbsp;&nbsp; Printer Parts: ASA, PC (CF, GF)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ebox Parts:  PETG, ASA, ABS (Flame-retardant Filaments)  
 
 **Slice Setings**
 
 &nbsp;***Printer Parts***
-&nbsp;&nbsp;&nbsp;&nbsp;Nozzle Size: 0.4 or 0.5 mm 
+&nbsp;&nbsp;&nbsp;&nbsp;Nozzle Size: 0.4 or 0.5 mm  
 &nbsp;&nbsp;&nbsp;&nbsp;Layer Height: 0.2  
 &nbsp;&nbsp;&nbsp;&nbsp;Perimeters: 5  
 &nbsp;&nbsp;&nbsp;&nbsp;Bottom/Top Layer: 5/6  
 &nbsp;&nbsp;&nbsp;&nbsp;Line Width: 0.4/0.5 (larger for sparse infill)  
 &nbsp;&nbsp;&nbsp;&nbsp;Infill Density: 40% minimum  
-&nbsp;&nbsp;&nbsp;&nbsp;Infill Type: Gyroid, Cubic, 3D Honeycomb 
+&nbsp;&nbsp;&nbsp;&nbsp;Infill Type: Gyroid, Cubic, 3D Honeycomb  
 
-&nbsp;_**Ebox Parts**_
-&nbsp;&nbsp;&nbsp;&nbsp;At your discretion
+&nbsp;_**Ebox Parts**_ 
+&nbsp;&nbsp;&nbsp;&nbsp;At your discretion  
 
 <br>
 
