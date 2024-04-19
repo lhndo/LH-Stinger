@@ -16,7 +16,7 @@ Filename Example: **AC** Y Stepper Mount A **SUP x2**.stl
 
 **Slice Setings**
 
-&nbsp;***Printer Parts***
+&nbsp;***Printer Parts***  
 &nbsp;&nbsp;&nbsp;&nbsp;Nozzle Size: 0.4 or 0.5 mm  
 &nbsp;&nbsp;&nbsp;&nbsp;Layer Height: 0.2  
 &nbsp;&nbsp;&nbsp;&nbsp;Perimeters: 5  
