@@ -25,7 +25,7 @@ Filename Example: **AC** Y Stepper Mount A **SUP x2**.stl
 &nbsp;&nbsp;&nbsp;&nbsp;Infill Density: 40% minimum  
 &nbsp;&nbsp;&nbsp;&nbsp;Infill Type: Gyroid, Cubic, 3D Honeycomb  
 
-&nbsp;_**Ebox Parts**_ 
+&nbsp;_**Ebox Parts**_  
 &nbsp;&nbsp;&nbsp;&nbsp;At your discretion  
 
 <br>
