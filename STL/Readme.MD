@@ -10,7 +10,7 @@ Filename Example: **AC** Y Stepper Mount A **SUP x2**.stl
 
 ## Print Settings
 
-**Filament** 
+**Filament**  
 &nbsp;&nbsp;&nbsp;&nbsp; Printer Parts: ASA, PC (CF, GF)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ebox Parts:  PETG, ASA, ABS (Flame-retardant Filaments)  
 
