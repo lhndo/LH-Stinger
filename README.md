@@ -152,7 +152,7 @@ lemurshaze @ gmail.com
 
 ## To Do 
 
-- Breakout PCB and Wire Harness  
+- [Breakout PCB and Wire Harness](/PCB/LHS%20Breakbeat) (In progress)  
 - Documentation and [Assembly Guide](https://github.com/lhndo/LH-Stinger/wiki/Assembly-Guide) (In progress)
 
 ## Future Projects
