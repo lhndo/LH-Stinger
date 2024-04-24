@@ -12,13 +12,19 @@
         "65"
     ],
     "filament_flow_ratio": [
-        "0.95"
+        "0.94"
     ],
     "filament_max_volumetric_speed": [
         "50"
     ],
+    "filament_retract_when_changing_layer": [
+        "0"
+    ],
     "filament_settings_id": [
-        "LHS - PLA"
+        "LHS - PLA Polyterra"
+    ],
+    "filament_wipe": [
+        "0"
     ],
     "from": "User",
     "hot_plate_temp": [
@@ -29,7 +35,7 @@
     ],
     "inherits": "My Generic PLA",
     "is_custom_defined": "0",
-    "name": "LHS - PLA",
+    "name": "LHS - PLA Polyterra",
     "nozzle_temperature": [
         "225"
     ],

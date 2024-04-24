@@ -1,0 +1,52 @@
+{
+    "close_fan_the_first_x_layers": [
+        "2"
+    ],
+    "enable_pressure_advance": [
+        "1"
+    ],
+    "fan_cooling_layer_time": [
+        "25"
+    ],
+    "fan_max_speed": [
+        "25"
+    ],
+    "fan_min_speed": [
+        "25"
+    ],
+    "filament_max_volumetric_speed": [
+        "30"
+    ],
+    "filament_settings_id": [
+        "LHS ASA"
+    ],
+    "filament_start_gcode": [
+        "; filament start gcode\nMAX_FAN LINK_AUX=0"
+    ],
+    "from": "User",
+    "full_fan_speed_layer": [
+        "4"
+    ],
+    "hot_plate_temp": [
+        "110"
+    ],
+    "inherits": "My Generic ASA",
+    "is_custom_defined": "0",
+    "name": "LHS ASA",
+    "nozzle_temperature_range_high": [
+        "300"
+    ],
+    "overhang_fan_speed": [
+        "50"
+    ],
+    "overhang_fan_threshold": [
+        "50%"
+    ],
+    "pressure_advance": [
+        "0.0175"
+    ],
+    "slow_down_layer_time": [
+        "15"
+    ],
+    "version": "2.0.2.0"
+}

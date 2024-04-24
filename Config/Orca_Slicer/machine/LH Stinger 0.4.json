@@ -3,7 +3,7 @@
     "bed_custom_model": "C:\\\\3DPrint\\\\Bambu\\\\LH Stinger 200 Bed Model.stl",
     "bed_custom_texture": "C:\\\\3DPrint\\\\Bambu\\\\LH Stinger Buildplate.png",
     "deretraction_speed": [
-        "35"
+        "90"
     ],
     "extruder_clearance_radius": "55",
     "from": "User",
@@ -64,7 +64,7 @@
     "machine_start_gcode": "PRINT_START_LHS BED=[bed_temperature_initial_layer_single] HOTEND=[nozzle_temperature_initial_layer] AUTOMESH=1 AUTOPURGE=1 QUIETMODE=0\n",
     "name": "LH Stinger 0.4",
     "nozzle_type": "brass",
-    "print_host": "http://192.168.50.186",
+    "print_host": "http://192.168.50.186:808/",
     "printable_area": [
         "20x38",
         "220x38",
@@ -73,14 +73,17 @@
     ],
     "printable_height": "190",
     "printer_settings_id": "LH Stinger 0.4",
+    "retract_before_wipe": [
+        "80%"
+    ],
     "retract_lift_enforce": [
         "Top and Bottom"
     ],
     "retraction_length": [
-        "0.4"
+        "1.5"
     ],
     "retraction_speed": [
-        "35"
+        "90"
     ],
     "version": "1.9.0.2",
     "wipe_distance": [

@@ -10,6 +10,7 @@
     "brim_width": "4",
     "default_acceleration": "15000",
     "default_jerk": "10",
+    "detect_thin_wall": "1",
     "dont_filter_internal_bridges": "limited",
     "enable_support": "1",
     "ensure_vertical_shell_thickness": "ensure_moderate",
