@@ -46,7 +46,6 @@ Upcoming: **V1.0 Release Candidate**
 ## Contents
 <!--ts-->
 
-- [Contents](#contents)
 - [Resources](#resources)
 - [Features](#features)
 - [Assembly Instructions](#assembly-instructions)
@@ -62,11 +61,11 @@ Upcoming: **V1.0 Release Candidate**
 ## Resources
 <br>
 
-- [BOM/Kits](https://docs.google.com/spreadsheets/d/1s8ulLfThmbuy1G_40MvkXXL2oVx9PZhvpAY9hMxqYbg/edit?usp=drive_link)  
+- [**Assembly Guide**](https://github.com/lhndo/LH-Stinger/wiki/)
+- [**BOM/Kits**](https://docs.google.com/spreadsheets/d/1s8ulLfThmbuy1G_40MvkXXL2oVx9PZhvpAY9hMxqYbg/edit?usp=drive_link)  
 - [STL Files and Printing Instructions](STL/)  
 - [CAD Source Files ](CAD/)
 - [Klipper Configuration ](Config/Klipper_Config) 
-- [Wiki Guide](https://github.com/lhndo/LH-Stinger/wiki/Assembly-Guide)
 - [Build Log](https://github.com/lhndo/LH-Stinger/wiki/Build-Log)
 - [Videos](https://www.youtube.com/channel/UCPD2Ai4b49gVoCFSGFWoSdw) 
 
