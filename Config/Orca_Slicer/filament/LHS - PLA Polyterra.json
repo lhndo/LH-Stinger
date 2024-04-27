@@ -54,5 +54,8 @@
     "slow_down_layer_time": [
         "10"
     ],
+    "support_material_interface_fan_speed": [
+        "100"
+    ],
     "version": "1.9.0.2"
 }
