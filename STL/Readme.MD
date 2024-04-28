@@ -30,6 +30,22 @@ Filename Example: **AC** Y Stepper Mount A **SUP x2**.stl
 
 <br>
 
+
+## Filament Amounts
+
+Printer: 258g  
+Printer Accents: 207g
+
+Ebox: 808g  
+Ebox Accents: 46g
+
+Aux Fan: 94g  
+Aux Fan Accents: 112g
+
+Guides: 256g  
+
+<br>
+
 ## Assemblies
 
 Files containing all the parts organised by plates are available in the .3mf format for [Orca Slicer](https://github.com/SoftFever/OrcaSlicer)
@@ -39,7 +55,7 @@ Files containing all the parts organised by plates are available in the .3mf for
 ![Preview](/Images/prev_o_printer.png)  
 <br>
 
-**Other Parts:**  <br>
+**Assembly Guides:**  <br>
 
 ![Preview](/Images/prev_o_other.png)  
 <br>
@@ -55,6 +71,7 @@ Files containing all the parts organised by plates are available in the .3mf for
 ![Preview](/Images/prev_o_auxfan.png)
 
 <br>
+
 
 
 ## Quickdraw
