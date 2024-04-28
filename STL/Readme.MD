@@ -39,8 +39,8 @@ Printer Accents: 207g
 Ebox: 808g  
 Ebox Accents: 46g
 
-Aux Fan: 94g  
-Aux Fan Accents: 112g
+Aux Fan: 126g  
+Aux Fan Accents: 44g
 
 Guides: 256g  
 
