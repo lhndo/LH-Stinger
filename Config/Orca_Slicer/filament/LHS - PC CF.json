@@ -29,6 +29,12 @@
     "filament_max_volumetric_speed": [
         "35"
     ],
+    "filament_notes": [
+        "Extrusion Override set to a higher value\nAux disabled\nZ-Offset increased to 0.025 due to nozzle expansion at 300C"
+    ],
+    "filament_retraction_length": [
+        "0.4"
+    ],
     "filament_settings_id": [
         "LHS - PC CF"
     ],
@@ -36,7 +42,7 @@
         "99%"
     ],
     "filament_start_gcode": [
-        "; filament start gcode\nMAX_FAN LINK_AUX=0"
+        "; filament start gcode\nMAX_FAN LINK_AUX=0\nSET_GCODE_OFFSET Z_ADJUST=0.025"
     ],
     "filament_type": [
         "PC"
@@ -70,7 +76,7 @@
         "0.025"
     ],
     "slow_down_layer_time": [
-        "10"
+        "7"
     ],
     "slow_down_min_speed": [
         "12"

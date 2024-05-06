@@ -17,14 +17,8 @@
     "filament_max_volumetric_speed": [
         "50"
     ],
-    "filament_retract_when_changing_layer": [
-        "0"
-    ],
     "filament_settings_id": [
         "LHS - PLA Polyterra"
-    ],
-    "filament_wipe": [
-        "0"
     ],
     "from": "User",
     "hot_plate_temp": [

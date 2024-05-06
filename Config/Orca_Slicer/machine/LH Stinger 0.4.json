@@ -3,7 +3,7 @@
     "bed_custom_model": "C:\\\\3DPrint\\\\Bambu\\\\LH Stinger 200 Bed Model.stl",
     "bed_custom_texture": "C:\\\\3DPrint\\\\Bambu\\\\LH Stinger Buildplate.png",
     "deretraction_speed": [
-        "0"
+        "40"
     ],
     "from": "User",
     "inherits": "MyKlipper 0.4 nozzle",
@@ -67,27 +67,27 @@
     "nozzle_type": "brass",
     "print_host": "http://192.168.50.186:808/",
     "printable_area": [
-        "20x38",
-        "220x38",
-        "220x238",
-        "20x238"
+        "18x38",
+        "218x38",
+        "218x238",
+        "18x238"
     ],
     "printable_height": "190",
     "printer_settings_id": "LH Stinger 0.4",
-    "retract_before_wipe": [
-        "80%"
-    ],
     "retract_lift_enforce": [
         "Top and Bottom"
     ],
     "retraction_length": [
-        "0.15"
+        "0.3"
     ],
     "retraction_speed": [
-        "90"
+        "40"
     ],
     "version": "2.0.2.0",
     "z_hop": [
         "0.2"
+    ],
+    "z_hop_types": [
+        "Auto Lift"
     ]
 }

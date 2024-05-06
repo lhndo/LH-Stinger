@@ -20,9 +20,6 @@
     "filament_max_volumetric_speed": [
         "30"
     ],
-    "filament_retract_when_changing_layer": [
-        "0"
-    ],
     "filament_settings_id": [
         "LHS - PETG"
     ],
@@ -31,9 +28,6 @@
     ],
     "filament_type": [
         "PETG"
-    ],
-    "filament_wipe": [
-        "0"
     ],
     "from": "User",
     "full_fan_speed_layer": [

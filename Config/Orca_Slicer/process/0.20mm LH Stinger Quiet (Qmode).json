@@ -70,6 +70,5 @@
     "wall_generator": "classic",
     "wall_loops": "2",
     "wall_sequence": "outer wall/inner wall",
-    "wipe_before_external_loop": "1",
-    "wipe_on_loops": "1"
+    "wipe_before_external_loop": "1"
 }
