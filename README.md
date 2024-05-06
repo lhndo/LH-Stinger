@@ -46,6 +46,7 @@ Upcoming: **V1.0 Release Candidate**
 ## Contents
 <!--ts-->
 
+- [Contents](#contents)
 - [Resources](#resources)
 - [Features](#features)
 - [Assembly Instructions](#assembly-instructions)
@@ -106,7 +107,7 @@ Upcoming: **V1.0 Release Candidate**
 - Easily serviceable [External electronic box](https://github.com/lhndo/LH-Stinger/wiki/Build-Log#electronic-box-design) with good airflow, and support for multiple power supplies, SSRs, RPi and large controller boards.
 - Good cable management with a quick disconnect [Breakout Board](/PCB/LHS%20Breakbeat) between the printer and ebox
 - Toolhead based on the Dragon HF hotend and HF extender
-  - Alternate hotends supported: Dragon UHF, Ace, Mellow NF-Crazy-Volcano HF, Rapido, Goliath ([User Mods](/User_Mods/Printer))
+  - Alternate hotends supported: Dragon UHF, Ace, Mellow NF-Crazy-Volcano HF, Rapido, Goliath ([User Mods](/User_Mods/Toolhead/))
 - LDO Orbiter 2.0 direct drive extruder
   - Sherpa Mini supported ([User Mods](/User_Mods/Printer))
 - Dual 5015 fan setup for part cooling
