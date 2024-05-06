@@ -15,7 +15,6 @@ Using the parts listed in the [BOM]( https://docs.google.com/spreadsheets/u/2/d/
     - [Octopus PRO Firmware](#octopus-pro-firmware)
     - [xz\_dockable\_probe](#xz_dockable_probe)
     - [ResHelper](#reshelper)
-    - [KAMP](#kamp)
 - [Klipper Configuration](#klipper-configuration)
 - [Moonraker Power Relay](#moonraker-power-relay)
 - [Bed Origin](#bed-origin)
@@ -67,10 +66,6 @@ Follow the installation steps from the following link:
 
 https://github.com/lhndo/ResHelper
 
-### KAMP
-KAMP is a Klipper addon that provides adaptive bed meshing, which probes only the area occupied by the printed objects.
-
-https://github.com/kyleisah/Klipper-Adaptive-Meshing-Purging/tree/main
 
 <br>
 
