@@ -5,9 +5,9 @@ _Micro optimized models for increased stifness_
 * Use the slicer settings below, or the 3mf project to ensure correct perimeter generation which takes advantage of the internal micro optimizations.
 
 
-[](1.png)
-[](2.png)
-[](3.png)
-[](4.png)
+![](1.png)
+![](2.png)
+![](3.png)
+![](4.png)
 
 <br>
