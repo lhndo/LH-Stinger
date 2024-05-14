@@ -42,14 +42,14 @@ _This model is now also available for purchase from [Provok3d](https://provok3d.
 
  - 16 AWG Multi-strand Soft Electrical Silicone Cable
  - XT60 female connector
- - Length: 70cm  
+ - Length: 90cm  
 
  
 **Thermistor Cable**
 
 - Preferred thin PTFE Wire around ~26 AWG
 - 2 pin JST XH 2.54 female connector
-- Length: 70cm  
+- Length: 90cm  
 <br>
 
 >For optimizing your own heater wattage you can use the following calculator. Start with a Trace Width: 2.4mm, Lenght: 13355mm, Thickness: 1oz,   
