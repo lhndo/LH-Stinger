@@ -22,7 +22,7 @@ _This model is now also available for purchase from [Provok3d](https://provok3d.
 
 - Flex Polyimide Base - as lightweight as possible
 - Copper Thickness: 1oz (35 µm)
-- 3M468MP backside adhesive
+- Backside Adhesive (Cold Pressed): 3M468MP (Stronger) / 3M90777 (High Temp and easier to apply/remove)
 - Silkscreen: White
 
  
