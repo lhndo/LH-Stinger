@@ -5,8 +5,13 @@
 - Contains most labels needed for the Breakbeat PCB and Wire Harness
 - Designed on the tight side to stay fixed. Feel free to scale them if needed
 
-*Print slow, and add brim if run into issues.  Be ready to cancel objects if they detach.
-Fill in the text with a Pigment Liner Pen.*
+**Requires a very well tuned printer**
+
+*Print slow, and add brim if run into issues (lots of cleanup will be needed if so).  
+Be ready to cancel objects if they detach.
+Fill in the text with a mechanical pencil, or a very fine Pigment Liner Pen (Sakura Micron 03).*
+
+<br>
 
 ![Preview](labels.png)
 
