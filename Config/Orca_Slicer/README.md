@@ -18,8 +18,8 @@
 <br>
 
 >[!Note]
-> The **bed origin** offsets are set according to the configuration documentation. This setup might be something that you are not familiar with and will need calibration.  
-> Please check for [Klipper Config](https://github.com/lhndo/LH-Stinger/tree/main/Config/Klipper_Config#bed-origin) for instructions.
+> The **bed origin** offsets are set according to the configuration documentation. This setup might be something that you are not familiar with, but should work right out of the box with the provided klipper printer.cfg.  
+> Please check for [Klipper Config](https://github.com/lhndo/LH-Stinger/tree/main/Config/Klipper_Config#bed-origin) for more information.
 
 <br>
 
@@ -38,14 +38,14 @@ PRINT_START_LHS BED=[bed_temperature_initial_layer_single] HOTEND=[nozzle_temper
 
 <br>
 
-* **AUTOMESH** - KAMP auto mesh generation
+* **AUTOMESH** - Klipper Adaptive Mesh Generation
   * if set to **0**, the "**default**" profile will be loaded instead
   * if mymacros.cfg **variable_use_multi_bed_mesh_profiles** is set to **True**, then  it will try to load the bed profile closest to the set bed temperature. (Required profiles: "default", "75", "105" )
 
-* **AUTOPURGE** - uses the KAMP purge feature.  Settings available in the KAMP_settings.cfg
+* **AUTOPURGE** - uses a line purge feature set by default at the right front corner of the bed. Configurable settings available in the mymacros.cfg header.
 
 * **QUIETMODE** - automatically enables the Qmode macro for quiet printing. Best used with the Quiet profile.   
 
 <br>
 
-*Please consult the mymacros.cfg line comments for more information.*
+*Please consult the mymacros.cfg comments for more information.*
