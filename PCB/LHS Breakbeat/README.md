@@ -42,7 +42,7 @@ Please see the [Interactive BOM](https://htmlpreview.github.io/?https://github.c
 
 # Wiring Harness
 
-![LHS Breakbeat PCB Front](Images/LHS%20Breakbeat%20-%20Wiring%20Harness.png)
+![LHS Breakbeat PCB Front](LHS%20Breakbeat%20-%20Wiring%20Harness.png)
 
 
 <br>
