@@ -55,16 +55,6 @@ Files containing all the parts organized by plates are available in the .3mf for
 ![Preview](/Images/prev_o_printer.png)  
 <br>
 
-**Assembly Guides:**  <br>
-
-![Preview](/Images/prev_o_other.png)  
-<br>
-
-**Ebox Parts:**  <br>
-
-![Preview](/Images/prev_o_ebox.png)
-
-<br>
 
 **Aux Fan Parts:**  <br>
 
@@ -73,6 +63,23 @@ Files containing all the parts organized by plates are available in the .3mf for
 <br>
 
 
+**Ebox Parts:**  <br>
+
+![Preview](/Images/prev_o_ebox.png)
+
+<br>
+
+
+**Breakout Box Parts:**  <br>
+
+![Preview](/Images/prev_o_breakbeat.png)
+
+<br>
+
+**Assembly Guides:**  <br>
+
+![Preview](/Images/prev_o_other.png)  
+<br>
 
 ## Quickdraw
 
