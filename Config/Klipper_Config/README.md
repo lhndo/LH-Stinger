@@ -27,7 +27,6 @@ Using the parts listed in the [BOM]( https://docs.google.com/spreadsheets/u/2/d/
 
 # Prerequisites
 
-<hr>
 
 <br>
 
@@ -87,7 +86,6 @@ https://github.com/lhndo/ResHelper
 
 
 # Configuration
-<hr>
 
 <br>
 
@@ -123,9 +121,8 @@ restart_klipper_when_powered: True
 
 For more information on the **BTT Pi GPIO** pinout please consult this table: https://github.com/bigtreetech/CB1#40-pin-gpio
 
-#Slicers
+# Slicers
 
-<hr>
 
 <br>
 
