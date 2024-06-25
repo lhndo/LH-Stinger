@@ -1,5 +1,5 @@
 These files replace the ones in the standard configuration
-https://github.com/lhndo/LH-Stinger/tree/main/Config
+https://github.com/lhndo/LH-Stinger/tree/main/Config/Klipper_Config
 
 
 :exclamation: **This configuration is set up to include any changes mentioned in the wiki, including the issues fixes mentioned there**.  
