@@ -47,37 +47,23 @@ Upcoming: **V1.0 Release Candidate**
 <!--ts-->
 
 - [Contents](#contents)
-- [Resources](#resources)
 - [Features](#features)
+- [Resources](#resources)
 - [Assembly Instructions](#assembly-instructions)
+- [Upcoming Projects](#future-projects)
 - [Contact](#contact)
-- [To Do](#to-do)
-- [Future Projects](#future-projects)
 - [Credits](#credits)
 - [Support](#support)
 - [License](#license)
 
 <br>
 
-## Resources
-<br>
-
-- [**Assembly Guide**](https://github.com/lhndo/LH-Stinger/wiki/)
-- [**BOM/Kits**](https://docs.google.com/spreadsheets/d/1s8ulLfThmbuy1G_40MvkXXL2oVx9PZhvpAY9hMxqYbg/edit?usp=drive_link)  
-- [STL Files and Printing Instructions](STL/)  
-- [CAD Source Files ](CAD/)
-- [Klipper Configuration ](Config/Klipper_Config) 
-- [Build Log](https://github.com/lhndo/LH-Stinger/wiki/Build-Log)
-- [Videos](https://www.youtube.com/channel/UCPD2Ai4b49gVoCFSGFWoSdw) 
-
-<br>
 
 ## Features
 <br>
 
-- Cross Frame design focused on stiffness and stability
+- Cross Frame design focused on stiffness and stability with a low center of gravity
 - The frame assembly consists of only six extrusions
-- Low center of gravity
 - Lightweight bed carriage assembly with carbon fiber components
 - AWD stepper configuration for the Y-axis
   - Optional conversion for X-axis AWD setup
@@ -129,15 +115,41 @@ Upcoming: **V1.0 Release Candidate**
 
 <br>
 
+## Resources
+<br>
+
+- [**Assembly Guide**](https://github.com/lhndo/LH-Stinger/wiki/)
+- [**BOM/Kits**](https://docs.google.com/spreadsheets/d/1s8ulLfThmbuy1G_40MvkXXL2oVx9PZhvpAY9hMxqYbg/edit?usp=drive_link)  
+- [STL Files and Printing Instructions](STL/)  
+- [CAD Source Files ](CAD/)
+- [Klipper Configuration ](Config/Klipper_Config) 
+- [Build Log](https://github.com/lhndo/LH-Stinger/wiki/Build-Log)
+- [Videos](https://www.youtube.com/channel/UCPD2Ai4b49gVoCFSGFWoSdw) 
+
+<br>
 
 ## Assembly Instructions 
 
-Please consult the [CAD Source Files ](CAD/)  for assembly instructions, and the following [Wiki](https://github.com/lhndo/LH-Stinger/wiki) pages:  
-> [**Assembly Guide**](https://github.com/lhndo/LH-Stinger/wiki/Assembly-Guide)  
-> [Build Log](https://github.com/lhndo/LH-Stinger/wiki/Build-Log)  
+* The [LH Stinger Wiki](https://github.com/lhndo/LH-Stinger/wiki) is a constatly updated live document intended to serve as your primary point of reference during the build  
+
+* The main body of documentation can be found in the [**Assembly Guide**](https://github.com/lhndo/LH-Stinger/wiki/Assembly-Guide)  
+
+<br>
+
+*For additional support please join us on the [LH Stinger Discord](https://discord.gg/EzssCfnEDS)*
+<br>
 
 
-For support please join us on the [LH Stinger Discord](https://discord.gg/EzssCfnEDS)
+
+## Upcoming Projects
+- Enclosure (In progress)
+- Lightweight Toolhead based on 2510 and 4020 Delta axials (In progress)
+- Polycarbonate EBox design
+
+<br>
+
+![LH Stinger Enclosure](Images/lh_stinger_enclosure.png)
+
 <br>
 
 ## Contact
@@ -145,23 +157,6 @@ For support please join us on the [LH Stinger Discord](https://discord.gg/EzssCf
 lemurshaze @ gmail.com  
 
 @LH on [LH Stinger Discord](https://discord.gg/EzssCfnEDS)
-<br>
-
-<br>
-
-
-## To Do 
-
-- [Breakout PCB and Wire Harness](/PCB/LHS%20Breakbeat) (In progress)  
-- Documentation and [Assembly Guide](https://github.com/lhndo/LH-Stinger/wiki/Assembly-Guide) (In progress)
-
-## Future Projects
-- Enclosure (In progress)
-- Lightweight Toolhead based on 2510 and 4020 Delta axials (In progress)
-- Polycarbonate EBox design
-
-![LH Stinger Enclosure](Images/lh_stinger_enclosure.png)
-
 <br>
 
 
