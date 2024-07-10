@@ -39,10 +39,10 @@
         "LHS - PC CF"
     ],
     "filament_shrink": [
-        "99%"
+        "99.8%"
     ],
     "filament_start_gcode": [
-        "; filament start gcode\nMAX_FAN LINK_AUX=0\nSET_GCODE_OFFSET Z_ADJUST=0.025"
+        "; filament start gcode\nMAX_FAN LINK_AUX=0\nSET_GCODE_OFFSET Z_ADJUST=0.022"
     ],
     "filament_type": [
         "PC"
