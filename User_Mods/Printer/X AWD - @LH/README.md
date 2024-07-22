@@ -123,7 +123,20 @@ Please follow the instructions of the left counterparts in the main [Assembly Gu
 
 <br>
 
-### Notes:
+### Belt Tension
+
+* Move the carriage all the way to the left
+* Loosen both grub screws on the right pulley
+* Tension the belt to 116hz (~6.5 lbf over a **256mm** measured belt span)
+* Perform the X Stepper Sync procedure and tighten the grub screws at the end
+
+For more information please consult the [Tuning - Belt Tension Guide](https://github.com/lhndo/LH-Stinger/wiki/Tuning#belt-tension)
+
+
+<br> 
+
+
+### Stepper Sync
 
 * The X stepper sync procedure is performed on the right side of the mount
   * Perform Z-Tilt procedure first, then raise the gantry to the top of the printer
@@ -132,6 +145,7 @@ Please follow the instructions of the left counterparts in the main [Assembly Gu
 
 
 <br>
+### Notes:
 
 * 100% nozzle coverage is maintained on the 235mm bed, with some probe dead zone on the right edge
 
