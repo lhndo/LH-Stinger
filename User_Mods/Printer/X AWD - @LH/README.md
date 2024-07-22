@@ -2,10 +2,13 @@
 
 **Contents:**
 
+
   - [Parts Required](#parts-required)
   - [Printed Parts](#printed-parts)
   - [Assembly](#assembly)
-  - [Notes:](#notes)
+  - [Belt Tension](#belt-tension)
+  - [Stepper Sync](#stepper-sync)
+  - [Notes](#notes)
 
 <br>
 
@@ -145,7 +148,8 @@ For more information please consult the [Tuning - Belt Tension Guide](https://gi
 
 
 <br>
-### Notes:
+
+### Notes
 
 * 100% nozzle coverage is maintained on the 235mm bed, with some probe dead zone on the right edge
 
