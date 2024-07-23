@@ -83,10 +83,10 @@ Files containing all the parts organized by plates are available in the .3mf for
 
 ## Quickdraw
 
-Details about the Quickdraw probe can be found on the [Annex Engineering Git](https://github.com/Annex-Engineering/Quickdraw_Probe/tree/main)
-
-The file required for building the probe is **omron_d2f-5_microswitch_probe_body_x1_rev3.STL**<br>
+Details about the Quickdraw probe can be found on the [Annex Engineering Git](https://github.com/Annex-Engineering/Quickdraw_Probe/tree/main)  
+The file required for building the probe is **omron_d2f-5_microswitch_probe_body_x1_rev3.STL**  
 from: https://github.com/Annex-Engineering/Quickdraw_Probe/tree/main/STLs/Release_1
 
-You can consult this video for assembly tips: https://www.youtube.com/watch?v=zLjfP3BHAIw  
+Assembly tips can be found in the [Toolhead Guide - Probe](https://github.com/lhndo/LH-Stinger/wiki/Toolhead#probe) section.  
+
 Note: The dock detection feature is not required and not accounted for in the dock stl.
