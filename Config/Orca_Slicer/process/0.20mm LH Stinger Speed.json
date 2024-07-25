@@ -42,7 +42,6 @@
     "resolution": "0.01",
     "seam_gap": "0",
     "slice_closing_radius": "0.04",
-    "slowdown_for_curled_perimeters": "0",
     "sparse_infill_acceleration": "30000",
     "sparse_infill_line_width": "0.4",
     "sparse_infill_pattern": "3dhoneycomb",
