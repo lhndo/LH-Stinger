@@ -6,6 +6,7 @@
   - [BOM](#bom)
   - [Notes](#notes)
 - [Wiring Harness](#wiring-harness)
+- [Guide](#guide)
 - [Acknowledgments](#acknowledgments)
 
 <br>
@@ -80,6 +81,10 @@ Please see the [Interactive BOM](https://htmlpreview.github.io/?https://github.c
 
 
 <br>
+
+# Guide
+
+https://github.com/lhndo/LH-Stinger/wiki/Breakout-Box
 
 # Acknowledgments
 
