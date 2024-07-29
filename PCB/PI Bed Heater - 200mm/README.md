@@ -9,14 +9,27 @@
 
 <br>
 
-**NOTE: This design is currently in testing.**  
+**Disclaimer**
+
+>*This is a DIY (Do-It-Yourself) experimental project. This PCB is provided "as is" without any guarantees or warranty, and is not certified for any commercial or critical applications. Use it at your own risk. 
+The creator assumes no liability for damages or injuries resulting from its use, including but not limited to fire, electric shock, personal injury or property damage.*
+>*By using this PCB, you agree to the terms of this disclaimer.*
+
 <br>
-_This model is now also available for purchase from [Provok3d](https://provok3d.com/product-category/printers/lh-stinger/?v=0a10a0b3e53b&sld=211)_  
-<br>
+
+
+**NOTE: this design is currently in testing**  
+
 
 ![](Images/lh_stinger_heater_pcb.jpg)  
 
 # Specifications  
+
+<br>
+
+_This model is also available for purchase from [Provok3d](https://provok3d.com/product-category/printers/lh-stinger/?v=0a10a0b3e53b&sld=211)_
+
+<br>
 
 **PCB**
 
@@ -31,7 +44,7 @@ _This model is now also available for purchase from [Provok3d](https://provok3d.
 
 - Voltage:  24V DC
 - Resistance: 2.66 Ohm @ 25C (Please see the included Excel screenshot for calculations)
-- Power: 216W @ 25C
+- Power: 216W @ 25C (+-10%)
 
  
 **Thermistor** 
@@ -44,16 +57,20 @@ _This model is now also available for purchase from [Provok3d](https://provok3d.
  - XT60 female connector
  - Length: 90cm  
 
+
+
  
 **Thermistor Cable**
 
-- Preferred thin PTFE Wire around ~26 AWG
+- PTFE/FEP Wire around 24-26 AWG
 - 2 pin JST XH 2.54 female connector
 - Length: 90cm  
 <br>
 
 >For optimizing your own heater wattage you can use the following calculator. Start with a Trace Width: 2.4mm, Lenght: 13355mm, Thickness: 1oz,   
 >https://www.allaboutcircuits.com/tools/trace-resistance-calculator/  
+
+
 
 <br>
 

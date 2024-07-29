@@ -1,6 +1,26 @@
 # LHS Breakbeat
 
-*Status: Untested*
+- [LHS Breakbeat](#lhs-breakbeat)
+  - [Features](#features)
+  - [Specifications](#specifications)
+  - [BOM](#bom)
+  - [Notes](#notes)
+- [Wiring Harness](#wiring-harness)
+- [Acknowledgments](#acknowledgments)
+
+<br>
+
+**Disclaimer**
+
+>*This is a DIY (Do-It-Yourself) experimental project. This PCB is provided "as is" without any guarantees or warranty, and is not certified for any commercial or critical applications. Use it at your own risk. 
+The creator assumes no liability for damages or injuries resulting from its use, including but not limited to fire, electric shock, personal injury or property damage.*
+>*By using this PCB, you agree to the terms of this disclaimer.*
+
+<br>
+
+**NOTE: this design is currently in testing**  
+
+<br>
 
 **LHS Breakbeat** is a breakout board built for the LH Stinger, meant to provide an easy interface between the external electronics box and the printer electronics.
 
@@ -29,6 +49,20 @@ This board is meant to be mounted on the printer, and make most of the wiring se
 
 ![LHS Breakbeat PCB Front](Images/bf.png)
 
+## Specifications
+
+Note: these guideline limits are on top of your mainboard specifications, along with the wires and connectors used for the wire harness.
+
+Circuit | Limit
+--|--
+Hotend Heater | 24V, 115W, 4.8 A 
+Bed Heater | 24V, 220W, 9.2 A
+Fans | 24V, 2 A 
+RGB/5V | 2A
+Steppers | 2.7 A
+
+
+
 ## BOM
 Please see the [Interactive BOM](https://htmlpreview.github.io/?https://github.com/lhndo/LH-Stinger/blob/main/PCB/LHS%20Breakbeat/BOM/ibom.html)
 
@@ -47,7 +81,7 @@ Please see the [Interactive BOM](https://htmlpreview.github.io/?https://github.c
 
 <br>
 
-## Acknowledgment
+# Acknowledgments
 
 *Thanks to [@roerich_64](https://github.com/walterwissmann) and the LHS community for the help and guidance with this project!*
 
