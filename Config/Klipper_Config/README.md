@@ -44,9 +44,19 @@ KIAUH is a rich featured script that makes it extremely easy to perform any Klip
 This should be the first thing to install after finishing your OS installation. 
 
 https://github.com/dw-0/kiauh/tree/master  
-From Kiauh install **Klipper** and **Moonraker**
+
+From **Kiauh** install:
+- **Klipper**
+- **Moonraker**
+- **G-Code Shell Command** (found in Advance > Extras)
+
+When done run:  
+
+`echo "~/klipper/klippy/extras/gcode_shell_command.py" >> .git/info/exclude`
 
 <br>
+
+
 
 ## Octopus PRO Firmware
 Follow the steps starting from "Build your own firmware" and make sure to choose the appropriate settings for your own MCU type. 
