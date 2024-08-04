@@ -52,7 +52,12 @@ From **Kiauh** install:
 
 When done run:  
 
-`echo "~/klipper/klippy/extras/gcode_shell_command.py" >> .git/info/exclude`
+```
+cd ~/klipper/
+echo "klippy/extras/gcode_shell_command.py" >> .git/info/exclude
+git update-index --assume-unchanged klippy/extras/gcode_shell_command.py
+systemctl restart klipper
+```
 
 <br>
 
@@ -76,6 +81,7 @@ The following commands will install the module:
 wget https://raw.githubusercontent.com/lhndo/klipper/red/klippy/extras/xz_dockable_probe.py
 cd ../..
 echo "klippy/extras/xz_dockable_probe.py" >> .git/info/exclude
+git update-index --assume-unchanged klippy/extras/xz_dockable_probe.py
 systemctl restart klipper
 </code></pre>
 
