@@ -6,25 +6,28 @@
         "1"
     ],
     "fan_cooling_layer_time": [
-        "20"
+        "15"
     ],
     "fan_max_speed": [
         "50"
     ],
     "fan_min_speed": [
-        "35"
+        "30"
     ],
     "filament_flow_ratio": [
-        "0.93"
+        "0.927"
     ],
     "filament_max_volumetric_speed": [
-        "30"
+        "27"
+    ],
+    "filament_retraction_length": [
+        "0.6"
     ],
     "filament_settings_id": [
         "LHS - PETG"
     ],
     "filament_start_gcode": [
-        "; filament start gcode\nMAX_FAN LINK_AUX=0"
+        "; filament start gcode\nMAX_FAN LINK_AUX=0\n# MPC_SET HEATER=extruder FILAMENT_DENSITY=1.27 FILAMENT_HEAT_CAPACITY=3"
     ],
     "filament_type": [
         "PETG"
@@ -34,19 +37,19 @@
         "3"
     ],
     "hot_plate_temp": [
-        "75"
+        "80"
     ],
     "hot_plate_temp_initial_layer": [
-        "75"
+        "80"
     ],
     "inherits": "My Generic PLA",
     "is_custom_defined": "0",
     "name": "LHS - PETG",
     "nozzle_temperature": [
-        "255"
+        "260"
     ],
     "nozzle_temperature_initial_layer": [
-        "255"
+        "260"
     ],
     "nozzle_temperature_range_high": [
         "300"
@@ -54,20 +57,14 @@
     "nozzle_temperature_range_low": [
         "230"
     ],
-    "overhang_fan_speed": [
-        "70"
-    ],
-    "overhang_fan_threshold": [
-        "25%"
-    ],
     "pressure_advance": [
-        "0.025"
+        "0.047"
     ],
     "slow_down_layer_time": [
         "12"
     ],
     "support_material_interface_fan_speed": [
-        "70"
+        "100"
     ],
     "temperature_vitrification": [
         "80"

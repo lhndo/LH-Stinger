@@ -20,21 +20,18 @@
     "filament_settings_id": [
         "LHS - PLA"
     ],
+    "filament_start_gcode": [
+        "; filament start gcode\n# MPC_SET HEATER=extruder FILAMENT_DENSITY=1.24 FILAMENT_HEAT_CAPACITY=2.2"
+    ],
     "from": "User",
-    "hot_plate_temp": [
-        "55"
-    ],
-    "hot_plate_temp_initial_layer": [
-        "55"
-    ],
     "inherits": "My Generic PLA",
     "is_custom_defined": "0",
     "name": "LHS - PLA",
     "nozzle_temperature": [
-        "225"
+        "230"
     ],
     "nozzle_temperature_initial_layer": [
-        "225"
+        "230"
     ],
     "nozzle_temperature_range_high": [
         "280"
@@ -43,7 +40,7 @@
         "25%"
     ],
     "pressure_advance": [
-        "0.0175"
+        "0.018"
     ],
     "slow_down_layer_time": [
         "10"
