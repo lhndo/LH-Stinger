@@ -21,7 +21,7 @@
         "LHS - PLA"
     ],
     "filament_start_gcode": [
-        "; filament start gcode\n# MPC_SET HEATER=extruder FILAMENT_DENSITY=1.24 FILAMENT_HEAT_CAPACITY=2.2"
+        "; filament start gcode\n; MPC_SET HEATER=extruder FILAMENT_DENSITY=1.24 FILAMENT_HEAT_CAPACITY=2.2"
     ],
     "from": "User",
     "inherits": "My Generic PLA",
