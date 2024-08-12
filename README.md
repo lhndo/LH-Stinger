@@ -24,8 +24,8 @@
 <br>
 
 ![GitHub Release](https://img.shields.io/github/v/release/lhndo/LH-Stinger?style=for-the-badge&color=25C2A0)  
-Status: **Beta Testing**  
-Upcoming: **V1.0 Release Candidate**  
+Status: **V1.0 Release Candidate**  
+Upcoming: **V1.0**  
 
 <br>
 <br>
