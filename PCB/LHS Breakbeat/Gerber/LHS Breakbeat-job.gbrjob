@@ -5,7 +5,7 @@
       "Application": "Pcbnew",
       "Version": "7.0.11"
     },
-    "CreationDate": "2024-05-26T12:32:01+00:00"
+    "CreationDate": "2024-08-18T05:37:00+00:00"
   },
   "GeneralSpecs": {
     "ProjectId": {
@@ -18,7 +18,7 @@
       "Y": 61.5
     },
     "LayerNumber": 2,
-    "BoardThickness": 1.59,
+    "BoardThickness": 1.66,
     "Finish": "None"
   },
   "DesignRules": [
@@ -97,7 +97,7 @@
     },
     {
       "Type": "Copper",
-      "Thickness": 0.035,
+      "Thickness": 0.07,
       "Name": "F.Cu"
     },
     {
@@ -110,7 +110,7 @@
     },
     {
       "Type": "Copper",
-      "Thickness": 0.035,
+      "Thickness": 0.07,
       "Name": "B.Cu"
     },
     {

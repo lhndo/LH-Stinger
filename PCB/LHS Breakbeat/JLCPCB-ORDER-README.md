@@ -20,7 +20,7 @@ Dimension: 114 mm* 61.4 mm 114mm* 61.4mm
 
 <br>
 
-PCB Qty: 10  
+PCB Qty: 5  
 Product Type: Industrial/Consumer electronics  
 
 <br>
@@ -29,17 +29,16 @@ Different Design: 1
 Delivery Format: Single PCB  
 PCB Thickness: 1.6  
 Impedance Control: no  
-PCB Color: Blue  
+PCB Color: Blue  (Note: Prices change a lot between options. Other colors might be cheaper)
 Silkscreen: White  
 Material Type: FR4-Standard TG 135-140  
 
 <br>
 
 Via Covering: Tented  
-Surface Finish: HASL(with lead)  
+Surface Finish: HASL/ENIG (Note: Change between this option along with the board colors to find a lower price)
 Deburring/Edge rounding: No  
-Outer Copper Weight: 1 oz  
-Gold Fingers: No  
+Outer Copper Weight: 2 oz  
 Flying Probe Test: Fully Test  
 Castellated Holes: no  
 Edge Plating: No  
@@ -49,7 +48,6 @@ Paper between PCBs: No
 Appearance Quality: IPC Class 2 Standard  
 Confirm Production file: Yes  
 Silkscreen Technology: Ink-jet/Screen Printing Silkscreen  
-Package Box: With JLCPCB logo  
 Board Outline Tolerance: ±0.2mm(Regular)  
 
 <br>
