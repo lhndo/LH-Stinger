@@ -63,7 +63,7 @@ Upcoming: **V1.0**
 <br>
 
 - Cross Frame design focused on stiffness and stability with a low center of gravity
-- The frame assembly consists of only six extrusions
+- Streamlined frame assembly consisting of only six extrusions
 - Lightweight bed carriage assembly with carbon fiber components
 - AWD stepper configuration for the Y-axis
   - Optional conversion for X-axis AWD setup
