@@ -9,13 +9,13 @@
         "15"
     ],
     "fan_max_speed": [
-        "50"
+        "65"
     ],
     "fan_min_speed": [
-        "30"
+        "35"
     ],
     "filament_flow_ratio": [
-        "0.927"
+        "0.923"
     ],
     "filament_max_volumetric_speed": [
         "27"
@@ -27,7 +27,7 @@
         "LHS - PETG"
     ],
     "filament_start_gcode": [
-        "; filament start gcode\nMAX_FAN LINK_AUX=0\n; MPC_SET HEATER=extruder FILAMENT_DENSITY=1.27 FILAMENT_HEAT_CAPACITY=3"
+        "; filament start gcode\nMAX_FAN LINK_AUX=0\n; MPC_SET HEATER=extruder FILAMENT_DENSITY=1.27 FILAMENT_HEAT_CAPACITY=5.5"
     ],
     "filament_type": [
         "PETG"
@@ -61,7 +61,10 @@
         "0.047"
     ],
     "slow_down_layer_time": [
-        "12"
+        "14"
+    ],
+    "slow_down_min_speed": [
+        "15"
     ],
     "support_material_interface_fan_speed": [
         "100"
