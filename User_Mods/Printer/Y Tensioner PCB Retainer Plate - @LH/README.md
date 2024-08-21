@@ -12,9 +12,13 @@ Replaces the printed plate holding the Y tensioner block and provides better sti
 
 ## Ordering
 
-1. Upload Gerber.zip to jlcpcb.com
+**JLCPCB**
+
+1. Upload Gerber.zip to [jlcpcb.com](https://jlcpcb.com)
 2. Choose your color
 3. Set "Mark on PCB: Remove Mark"
+
+**PCBWay**: [Y Tensioner PCB Retailer Plate](https://www.pcbway.com/project/shareproject/LH_Stinger_Y_Tensioner_PCB_Retainer_Plate_a8267ae3.html)
 
 <br>
 
