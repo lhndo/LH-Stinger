@@ -20,9 +20,9 @@ Filename Example: **AC** Y Stepper Mount A **SUP x2**.stl
 
 &nbsp;&nbsp;&nbsp;&nbsp;Nozzle Size: 0.4 or 0.5 mm  
 &nbsp;&nbsp;&nbsp;&nbsp;Layer Height: 0.2  
+&nbsp;&nbsp;&nbsp;&nbsp;Line Width: 0.4  (0.5mm) 
 &nbsp;&nbsp;&nbsp;&nbsp;Perimeters: 4  
 &nbsp;&nbsp;&nbsp;&nbsp;Top / Bottom Layers: 6/5  
-&nbsp;&nbsp;&nbsp;&nbsp;Line Width: 0.4 
 &nbsp;&nbsp;&nbsp;&nbsp;Infill Density: 40% minimum  
 &nbsp;&nbsp;&nbsp;&nbsp;Infill Type: 3D Honeycomb, Gyroid, Cubic 
 
