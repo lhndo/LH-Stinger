@@ -8,6 +8,3 @@ STEP files are provided for compatibility with other CAD software.
 
 <br>
 
-## Extras
-
-Extras folders contain alternative parts to accomodate different setups.
