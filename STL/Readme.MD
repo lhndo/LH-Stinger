@@ -10,39 +10,46 @@ Filename Example: **AC** Y Stepper Mount A **SUP x2**.stl
 
 ## Print Settings
 
-**Filament**  
-&nbsp;&nbsp;&nbsp;&nbsp; Printer Parts: ASA, PC (CF, GF)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ebox Parts:  PETG, ASA, ABS (Flame-retardant Filaments)  
+### Filament Options  
+&nbsp;&nbsp;&nbsp;&nbsp; **Printer**: ASA, PC (CF, GF)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Ebox, Breakout**:  PETG, ASA, ABS (Flame-retardant Filaments)  
 
-**Slice Setings**
+### Slice Setings
 
-&nbsp;***Printer Parts***  
+&nbsp;**Printer Parts:**  
+
 &nbsp;&nbsp;&nbsp;&nbsp;Nozzle Size: 0.4 or 0.5 mm  
 &nbsp;&nbsp;&nbsp;&nbsp;Layer Height: 0.2  
 &nbsp;&nbsp;&nbsp;&nbsp;Perimeters: 4  
 &nbsp;&nbsp;&nbsp;&nbsp;Top / Bottom Layers: 6/5  
-&nbsp;&nbsp;&nbsp;&nbsp;Line Width: 0.4/0.5 (larger for sparse infill)  
+&nbsp;&nbsp;&nbsp;&nbsp;Line Width: 0.4 
 &nbsp;&nbsp;&nbsp;&nbsp;Infill Density: 40% minimum  
 &nbsp;&nbsp;&nbsp;&nbsp;Infill Type: 3D Honeycomb, Gyroid, Cubic 
 
-&nbsp;_**Ebox Parts**_  
+&nbsp;**Ebox, Breakout, Other Parts:**  
 &nbsp;&nbsp;&nbsp;&nbsp;At your discretion  
+
+<br>
+
+>**Note: If printing the STL files individually in another slicer,  please install Orca Slicer and reference the orientation and supports used in the provided ready made 3mf plates.**
 
 <br>
 
 
 ## Filament Amounts
 
-Printer: 258g  
-Printer Accents: 207g
+Printer: 260g  
+Printer Accents: 210g
 
-Ebox: 808g  
-Ebox Accents: 46g
-
-Aux Fan: 126g  
+Aux Fan: 127g  
 Aux Fan Accents: 44g
 
-Guides: 256g  
+Breakout: 97g
+
+Ebox: 729g  
+Ebox Accents: 49g
+
+Other Parts: 204g  
 
 <br>
 
@@ -76,7 +83,7 @@ Files containing all the parts organized by plates are available in the .3mf for
 
 <br>
 
-**Assembly Guides:**  <br>
+**Other Parts:**  <br>
 
 ![Preview](/Images/prev_o_other.png)  
 <br>
