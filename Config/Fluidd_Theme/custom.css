@@ -1,0 +1,358 @@
+
+button.v-btn.v-btn--is-elevated.v-btn--has-bg.theme--dark.v-size--default.btncolor {
+    margin-inline: 1px;
+}
+.v-toolbar__items>.v-btn {
+    height: 80% !important;
+}
+.v-toolbar__items {
+    align-items: center;
+}
+.v-navigation-drawer__content {
+    height: 100%;
+    overflow-y: auto;
+    overflow-x: hidden;
+    backdrop-filter: blur(10px);
+    -webkit-backdrop-filter: blur(10px);
+}
+.theme--dark.v-data-table tbody tr.v-data-table__selected {
+    background: rgba(58, 58, 58, 0.8);
+}
+.v-card__title {
+    word-break: break-word;
+}
+.col-md-4 {
+    flex: 0 0 50%;
+    max-width: 50%;
+    display: flex;
+    flex-direction: column;
+    align-items: stretch;
+}
+.col-md-8 {
+    flex: 0 0 100%;
+    max-width: 100%;
+    display: flex;
+    flex-direction: column;
+    min-width: 50%;
+    align-items: stretch;
+    flex-basis: 50%;
+    flex-grow: 1;
+}
+.v-application .text-body-1 {
+    font-size: 0.85rem !important;
+    line-height: 2rem;
+}
+.col-sm-5 {
+    flex: 0 0 100%;
+    max-width: 100%;
+}
+.v-tab {
+    font-size: small;
+    max-width: 150px;
+}
+.v-card__title.collapsable-card-title.card-heading.draggable {
+    border-radius: 1em;
+}
+button.flex-grow-1.v-btn.v-btn--is-elevated.v-btn--has-bg.theme--dark.v-size--default.primary.grey--text.text--darken-3 {
+    max-width: 120px;
+}
+.row.align-start.justify-space-between {
+    justify-content: center!important;
+    display: inline-flex!important;
+    flex-direction: row!important;
+    flex-wrap: wrap!important;
+    margin-top: 1px!important;
+}
+.controls-wrapper.col {
+    display: flex !important;
+    flex-wrap: wrap !important;
+    justify-content: center !important;
+    max-width: 1000px !important;
+    min-width: 350px !important;
+    display: inline !important;
+}
+button.value.v-btn.v-btn--disabled.v-btn--has-bg.theme--dark.v-size--default.grey--text.text--darken-3 {
+    flex-grow: 2!important;
+    max-width: 100px;
+}
+button.value.v-btn.v-btn--is-elevated.v-btn--has-bg.theme--dark.v-size--default.primary.grey--text.text--darken-3 {
+    flex-grow: 2!important;
+    max-width: 100px;
+
+}
+.v-application .text-right {
+    text-align: center!important;
+}
+.row.mr-n1.no-gutters.justify-space-between {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+}
+.elevation-2.v-item-group.theme--dark.v-btn-toggle.v-btn-toggle--dense {
+    display: flex;
+    justify-content: center;
+    flex-wrap: nowrap;
+    flex-direction: row;
+}
+.v-application--wrap ::-webkit-scrollbar-thumb, .v-dialog__content ::-webkit-scrollbar-thumb {
+    background: #ffffff78!important;
+}
+.theme--dark.v-text-field--outlined:not(.v-input--is-focused):not(.v-input--has-state):not(.v-input--is-disabled)>.v-input__control>.v-input__slot:hover fieldset {
+    color: var(--v-primary-base);
+}
+button.px-1.v-btn.v-btn--is-elevated.v-btn--has-bg.theme--dark.v-size--small.btncolor:last-child {
+    min-width: 45px!important;
+    margin-right: 3px;
+}
+button.px-1.v-btn.v-btn--is-elevated.v-btn--has-bg.theme--dark.v-size--small.btncolor:first-child {
+    min-width: 45px!important;
+}
+.layout.justify-space-between.align-center {
+    display: flex;
+}
+:root {
+    --v-secondary-base: #a5a5a5!important;
+}
+.v-ripple__container {
+    border-radius: 0.5em;
+}
+.v-sheet.v-card {
+    border-radius: 1em;
+}
+.theme--dark.v-sheet {
+    border-radius: 1em;
+    background-color: transparent;
+}
+.console-wrapper.v-card.v-card--flat.v-sheet.theme--dark {
+    border-top-right-radius: 0;
+    border-top-left-radius: 0;
+    backdrop-filter: none;
+    -webkit-backdrop-filter: none;
+    background-color: transparent !important;
+}
+.v-card.collapsable-card:not(.collapsed) .v-card__title.collapsable-card-title {
+    box-shadow: none !important;
+    background: rgb(43, 43, 43) !important;
+}
+.theme--dark .v-card .v-card__title.collapsable-card-title{
+    border: 0 !important;
+}
+.filesystem-wrapper.v-card.v-card--flat.v-sheet.theme--dark {
+    border-top-left-radius: 0;
+    border-top-right-radius: 0;
+    background: transparent;
+}
+.theme--dark.v-card {
+    background-color: rgba(31, 31, 31, 0.9);
+
+}
+.theme--dark.v-data-table {
+    background-color: transparent !important;
+}
+.theme--dark.v-expansion-panels .v-expansion-panel {
+    background-color: transparent;
+}
+.v-progress-linear__determinate {
+    background-color: transparent !important;
+}
+.theme--dark.v-toolbar.v-sheet {
+    background-color: rgb(45 48 56 / 20%) !important;
+
+}
+.theme--dark.v-tabs-items {
+    background-color: transparent !important;
+}
+.v-text-field--filled {
+    border-radius: 0.5em;
+}
+.v-text-field>.v-input__control>.v-input__slot:before {
+    border: 0;
+}
+button.px-0.flex-grow-1.v-btn.v-btn--is-elevated.v-btn--has-bg.theme--dark.v-size--default.btncolor {
+    border-radius: 0.5em !important;
+    background-color: rgba(29, 29, 29, 0.5) !important;
+}
+.theme--dark.v-btn-toggle:not(.v-btn-toggle--group) .v-btn.v-btn {
+    background-color: rgba(48, 48, 48, 0.5) !important;
+}
+.v-btn:before {
+    background-color: rgb(255 255 255 / 90%);
+}
+.theme--dark.v-btn-toggle:not(.v-btn-toggle--group) {
+    background: transparent;
+    box-shadow: none!important;
+    margin-top: 1px;
+}
+.theme--dark.v-btn.v-btn--has-bg {
+    background-color: #bbb1b12e;
+    box-shadow: none;
+}
+.theme--dark.v-navigation-drawer {
+    background-color: rgba(23 23 23 / 30%) !important;
+}
+.v-data-table.rounded-0.v-data-table--dense.v-data-table--fixed-header.theme--dark {
+    background-color: transparent !important;
+}
+.theme--dark.v-data-table>.v-data-table__wrapper>table>tbody>tr:hover:not(.v-data-table__expanded__content):not(.v-data-table__empty-wrapper) {
+    background: rgba(23 23 23 / 40%);
+}
+.v-list.v-sheet.theme--dark.v-list--dense {
+    border-radius: 0;
+}
+.v-menu__content {
+    border-radius: 1em;
+    backdrop-filter: blur(40px);
+    -webkit-backdrop-filter: blur(40px);
+    background-color: rgb(57 57 57 / 80%);
+}
+.v-list.grow.pt-0.v-sheet.theme--dark.v-list--dense {
+    background-color: rgba(23 23 23 / 20%) !important;
+    border-radius: 0 !important;
+}
+header.v-sheet.theme--dark.v-toolbar.v-toolbar--dense {
+    border-bottom-left-radius: 0;
+    border-bottom-right-radius: 0;
+    box-shadow:none;
+    border-radius: 0!important;
+}
+.theme--dark.v-data-table.v-data-table--fixed-header thead th {
+    background: rgba(79, 80, 82, 0.5)!important;
+    backdrop-filter: blur(40px);
+    -webkit-backdrop-filter: blur(40px);
+}
+.v-card__text.py-4 {
+    background-color: rgb(57 57 57 / 80%);
+}
+.v-card__actions.pt-4 {
+    background-color: rgb(57 57 57 / 80%);
+    backdrop-filter: blur(40px);
+    -webkit-backdrop-filter: blur(40px);
+}
+.v-input--selection-controls__input:hover .v-input--selection-controls__ripple:before {
+    background: transparent;
+}
+.v-application .btncolor {
+    background-color: rgba(59, 59, 59, 0.3) !important;
+    border-radius: 0.5em;
+}
+.v-card.collapsed>.card-heading {
+    background-color: rgba(23 23 23 / 50%) !important;
+}
+.theme--dark.v-chip:not(.v-chip--active) {
+    background: rgba(23 23 23 / 30%);
+    margin-bottom: 5px;
+    margin-top: 5px;
+}
+.v-btn-toggle>.v-btn.v-btn--active {
+    opacity: 0.7;
+}
+.app-btn-group:not(.app-btn-group--vertical)>.v-btn:first-child,
+.app-btn-group:not(.app-btn-group--vertical)>.v-btn:last-child {
+    border-top-left-radius: 0.3em !important;
+    border-bottom-left-radius: 0.3em !important;
+}
+.app-btn-group:not(.app-btn-group--vertical)>.v-btn:last-child {
+    margin-left: 3px;
+    margin-right: 3px;
+}
+.v-progress-linear__background.primary {
+    border-bottom-right-radius: 0.3em;
+    border-top-right-radius: 0.3em;
+}
+.v-progress-linear__determinate.primary {
+    border-bottom-left-radius: 0.3em;
+    border-top-left-radius: 0.3em;
+}
+button.me-2.mb-2.v-btn.v-btn--block.v-btn--is-elevated.v-btn--has-bg.theme--dark.v-size--default.primary.grey--text.text--darken-3 {
+    border-radius: 0.5em;
+}
+.v-text-field fieldset, .v-text-field .v-input__control, .v-text-field .v-input__slot {
+    border-radius: 0.5em;
+}
+.v-application .elevation-2 {
+    box-shadow: none!important;
+}
+.v-dialog.v-dialog--active {
+    border-radius: 1em;
+    backdrop-filter: blur(40px);
+    -webkit-backdrop-filter: blur(40px);
+}
+.theme--dark .spool-icon {
+    stroke: none;
+    filter: drop-shadow(0px 0px 6px black);
+}
+a.v-list-item--active.v-list-item.v-list-item--link.theme--dark.secondary--text {
+    border-right-style: solid;
+    border-color: var(--v-primary-base);
+    border-bottom-right-radius: 0.5em;
+    border-top-right-radius: 0.5em;
+}
+.v-list.v-sheet.theme--dark.v-list--dense:last-child {
+    border-bottom-left-radius: 1em !important;
+    border-bottom-right-radius: 1em !important;
+}
+.app-btn-group:not(.app-btn-group--vertical):not(.app-btn-group--divided)>.v-btn:not(:last-child) {
+    margin-right: 3px !important;
+    margin-left: 3px !important;
+}
+.app-btn-group:not(.app-btn-group--vertical)>.v-btn {
+    border-radius: 0.3em !important;
+}
+.v-btn.value {
+    min-width: 36px !important;
+    max-width: 66px !important;
+
+}
+.v-btn {
+    border-radius: 0.5em;
+}
+.app-btn-group:not(.app-btn-group--vertical).app-btn-group--divided>.v-btn:not(:last-child) {
+    border-right: 0 !important;
+}
+.vue-recycle-scroller.console-scroller.ready.direction-vertical {
+    margin-left: 10px;
+    margin-top: 10px;
+}
+.chart {
+    width: 97% !important;
+}
+.v-snack__wrapper.theme--dark {
+    background-color: #1f1a1ae6 !important;
+}
+.setting__link:before {
+    border-bottom-left-radius: inherit !important;
+    border-bottom-right-radius: inherit !important;
+}
+.v-card.collapsable-card .v-card__title.collapsable-card-title .v-tabs .v-tabs-bar__content>.v-tab:first-child:before {
+    border-top-left-radius: 1em!important;
+    border-radius: 0.5em;
+}
+.v-tab:before {
+    border-radius: 0.5em;
+}
+.theme--dark.v-tabs .v-tab--active:hover:before, .theme--dark.v-tabs .v-tab--active:before {
+    border-radius: 0.5em;
+}
+.preview-options, .preview-name {
+    background: rgb(0 0 0 / 30%) !important;
+}
+.v-sheet.v-card:not(.v-sheet--outlined) {
+    box-shadow: none!important;
+}
+.v-card.collapsable-card .v-card__title.collapsable-card-title {
+    min-height: 50px;
+}
+.theme--dark .toolbar-logo {
+    background: transparent!important;
+    border: 0 !important;
+}
+
+.logo-wrapper {
+display: none !important;
+}
+.theme--dark .toolbar-logo {
+    background-image: url(logo.png) !important;
+    background-size: 48px !important;
+    background-repeat: no-repeat !important;
+    background-position: center !important;
+        }
