@@ -24,8 +24,7 @@
 <br>
 
 ![GitHub Release](https://img.shields.io/github/v/release/lhndo/LH-Stinger?style=for-the-badge&color=25C2A0)  
-Status: **V1.0 Release Candidate**  
-Upcoming: **V1.0**  
+Status: **V1.0**  
 
 <br>
 <br>
@@ -130,7 +129,7 @@ Upcoming: **V1.0**
 
 ## Assembly Instructions 
 
-* The [LH Stinger Wiki](https://github.com/lhndo/LH-Stinger/wiki) is a constatly updated live document intended to serve as your primary point of reference during the build  
+* The [LH Stinger Wiki](https://github.com/lhndo/LH-Stinger/wiki) is a regularly updated and intended to serve as your primary point of reference during the build  
 
 * The main body of documentation can be found in the [**Assembly Guide**](https://github.com/lhndo/LH-Stinger/wiki/Assembly-Guide)  
 
@@ -143,7 +142,6 @@ Upcoming: **V1.0**
 
 ## Upcoming Projects
 - Enclosure (In progress)
-- Lightweight Toolhead based on 2510 and 4020 Delta axials (In progress)
 - Polycarbonate EBox design
 
 <br>
@@ -161,6 +159,12 @@ lemurshaze @ gmail.com
 
 
 ## Credits
+
+<br>
+
+**Thanks to everyone in the LH Stinger community who supported the project, contributed in any form, or provided feedback! :purple_heart:**
+
+<br>
 
 _Inspired by the [Annex Engineering](https://github.com/Annex-Engineering) team and [community](https://discord.com/invite/MzTR3zE), along with the [Klipper community](https://discord.klipper3d.org), [RatRig](https://ratrig.com/) and all the crazy people that continue to push bed slingers to the limits. :purple_heart:_
 
