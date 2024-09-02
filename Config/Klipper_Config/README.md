@@ -40,15 +40,44 @@ Using the parts listed in the [BOM]( https://docs.google.com/spreadsheets/u/2/d/
 Download the OS image: https://github.com/bigtreetech/CB1/releases (Choose **CB1_Debian11_minimal** )  
 Use [Balena Etcher](https://etcher.balena.io/) to burn the image onto the PI SD Card.  
 
+**WIFI configuration:**
+>Re-insert the SD card into your computer, open the **BOOT** drive and edit **system.cfg**
+
+
 #### Raspberry PI
 
-Follow the following guide to install **MainsailOS**
+Read the following guide to install the **MainsailOS**
 https://docs-os.mainsail.xyz/getting-started/raspberry-pi-os-based
+
+
+**WIFI configuration:**
+>A. Set up your WIFI connection in the **Raspberry Pi Imager** before burning the image.
+>B. Re-insert the SD card into your computer, open the **BOOT** drive and edit **mainsailos-wpa-supplicant.txt**
+
+<br>
+
+
+## SSH
+
+
+#### Tools
+To communicate with your **Host** you will need a **SSH** and an **SFTP** client  
+The easiest way is to install [**MobaXterm**](https://mobaxterm.mobatek.net/features.html) which provides both of these functions. 
+
+#### IP
+
+
+
+  If you pre-configured your PI SSID and WIFI Password correctly, or if you connect though a ethernet cable, you can try the following ways to find your Host IP address: 
+     
+  >A. Open command prompt and run : `ping mainsailos.local -4`
+  >B. Look at the device list inside your router dashboard
+  >C. Install and run [Angry IP Scanner](https://angryip.org) 
 
 <br>
 
 ## KIAUH
-**KIAUH** is a rich featured script that makes it extremely easy to perform any Klipper related software installation, setup and firmware flashing starting from a bare OS. 
+**KIAUH** is a rich featured script that makes it extremely easy to perform any Klipper related software installation, setup and firmware flashing starting from a bare OS.  
 **This should be the first thing to install after finishing your OS installation.**
 
 https://github.com/dw-0/kiauh/tree/master  
@@ -154,6 +183,7 @@ sudo Rscript install_rs_lib.R
 
 For more information please consult:  
 [Ebox Guide](https://github.com/lhndo/LH-Stinger/wiki/Ebox)  
+[FYSETC Kit Guide](https://github.com/lhndo/LH-Stinger/wiki/FYSETC-Kit)
 [Klipper Configuration Reference](https://www.klipper3d.org/Config_Reference.html)
 
 For support please join the [LH Stinger Discord](https://discord.gg/EzssCfnEDS), or the [Klipper Discord](https://discord.klipper3d.org/)
