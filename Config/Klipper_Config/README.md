@@ -10,14 +10,15 @@ Using the parts listed in the [BOM]( https://docs.google.com/spreadsheets/u/2/d/
 <!--ts-->
 
 - [Prerequisites](#prerequisites)
-    - [BTT PI 1.2](#btt-pi-12)
+  - [Host](#host)
   - [KIAUH](#kiauh)
-  - [Octopus PRO Firmware](#octopus-pro-firmware)
+  - [Firmware](#firmware)
   - [XZ Dockable Probe](#xz-dockable-probe)
   - [ResHelper](#reshelper)
 - [Configuration](#configuration)
   - [Klipper](#klipper)
-  - [Moonraker Power Relay](#moonraker-power-relay)
+  - [Moonraker Power Relay (Optional)](#moonraker-power-relay-optional)
+- [Slicers](#slicers)
   - [Bed Origin](#bed-origin)
   - [Slicer Start Gcode](#slicer-start-gcode)
     - [Orca Slicer](#orca-slicer)
@@ -30,18 +31,25 @@ Using the parts listed in the [BOM]( https://docs.google.com/spreadsheets/u/2/d/
 
 <br>
 
-It is recommended to perform the installation in the order listed below.
+:blue_book: It is recommended to perform the installation in the order listed below.
 <br>
 
-### BTT PI 1.2
-Download the OS image: https://github.com/bigtreetech/CB1/releases (Same as CB1)  
+## Host
+
+#### BTT PI 1.2
+Download the OS image: https://github.com/bigtreetech/CB1/releases (Choose **CB1_Debian11_minimal** )  
 Use [Balena Etcher](https://etcher.balena.io/) to burn the image onto the PI SD Card.  
+
+#### Raspberry PI
+
+Follow the following guide to install **MainsailOS**
+https://docs-os.mainsail.xyz/getting-started/raspberry-pi-os-based
 
 <br>
 
 ## KIAUH
-KIAUH is a rich featured script that makes it extremely easy to perform any Klipper related software installation, setup and firmware flashing starting from a bare OS. 
-This should be the first thing to install after finishing your OS installation. 
+**KIAUH** is a rich featured script that makes it extremely easy to perform any Klipper related software installation, setup and firmware flashing starting from a bare OS. 
+**This should be the first thing to install after finishing your OS installation.**
 
 https://github.com/dw-0/kiauh/tree/master  
 
@@ -61,15 +69,29 @@ systemctl restart klipper
 
 <br>
 
+## Firmware
 
+:bulb: The firmware setup process can be easily done directly from **KIAUH**
 
-## Octopus PRO Firmware
-Follow the steps starting from "Build your own firmware" and make sure to choose the appropriate settings for your own MCU type. 
+#### Octopus PRO 
+Follow the steps starting from "Build your own firmware" and make sure to choose the appropriate settings for your own MCU type (The BOM recommendation is the Octopus Pro V1.1 with the H723 chip)
+
+These are also mentioned in the header of **printer.cfg** file above.
+
 https://github.com/bigtreetech/BIGTREETECH-OCTOPUS-V1.0/tree/master/Firmware/Klipper#build-firmware-image  
 <br>
-TIP: The firmware setup process can also be easily done directly from KIAUH.  
+
+
+
+#### FYSETC Spider 3 H7 
+
+For the FYSETC board included in the LH Stinger kits please follow the following firmware flashing guide:
+
+https://github.com/lhndo/LH-Stinger/wiki/FYSETC-S3-H7-Firmware-Guide
+
 
 <br>
+
 
 ## XZ Dockable Probe
 
@@ -93,10 +115,26 @@ by [Dalegaard](https://github.com/dalegaard) and [Churls](https://github.com/chu
 
 
 ResHelper is an utility script that simplifies and streamlines the resonance testing process. 
-Follow the installation steps from the following link:  
+Follow the installation steps from the following link or the code commands below.  
 
 https://github.com/lhndo/ResHelper
 
+
+```
+cd ~
+git clone https://github.com/lhndo/ResHelper.git
+cd ResHelper
+./install.sh
+```
+
+```
+sudo apt install r-base
+sudo Rscript install_rs_lib.R
+```
+:blue_book: Note: If the library install fails, try installing a Fortran compiler: **sudo apt-get install gfortran** then re-run: **sudo Rscript install_rs_lib.R**
+
+
+:arrow_right: After installation please edit ~/printer_data/config/reshelper.cfg and change your user path as instructed in the file comments
 
 <br>
 
@@ -107,9 +145,10 @@ https://github.com/lhndo/ResHelper
 
 ## Klipper
 
-* Copy the files from this folder to: **/home/biqu/printer_data/config** (replace "biqu" with "pi", or your home folder name)
+* Copy the files from this folder to: **~/printer_data/config**
+  * This can be done directly thought the **Mainsail** web interface or though a SFTP client such as [MobaXterm](https://mobaxterm.mobatek.net) or [WinSCP](https://winscp.net/eng/index.php) 
 
-* Open printer.cfg and comment/uncomment the lines in the header according to the instructions if needed. 
+* Open **printer.cfg** and comment/uncomment the lines in the header according to the instructions if needed. 
 <br>
 
 
@@ -121,7 +160,7 @@ For support please join the [LH Stinger Discord](https://discord.gg/EzssCfnEDS),
 
 <br>
 
-## Moonraker Power Relay
+## Moonraker Power Relay (Optional)
 If using a Power Relay to control the AC supply to the Ebox, then add the following section to your **moonraker.conf** .  
 Note: The PI should be on its own independent power supply. 
 
@@ -140,8 +179,6 @@ For more information on the **BTT Pi GPIO** pinout please consult this table: ht
 # Slicers
 
 
-<br>
-
 ## Bed Origin
 
 The printer supports multiple bed sizes. For ease of use, the bed position is defined in the slicer by changing the Origin Offsets, and **not in Klipper's printer.cfg** by changing position_endstop and position_min for X/Y axis.  
@@ -155,7 +192,7 @@ Add those values in the Origin section as negative values.
 
 ## Slicer Start Gcode
 
-<br>
+
 
 ### Orca Slicer
 
@@ -186,3 +223,7 @@ PRINT_START_LHS BED=[first_layer_bed_temperature] HOTEND=[first_layer_temperatur
 End G-Code: 
 
 `PRINT_END`
+
+<br>
+
+:arrow_forward: For more information please visit: [Wiki>Macros>Slicers](https://github.com/lhndo/LH-Stinger/wiki/Macros#slicers)
