@@ -92,7 +92,7 @@ When done run:
 ```
 cd ~/klipper/
 echo "klippy/extras/gcode_shell_command.py" >> .git/info/exclude
-git update-index --assume-unchanged klippy/extras/gcode_shell_command.py
+git update-index --assume-unchanged klippy/extras/gcode_shell_command.py > /dev/null 2>&1
 systemctl restart klipper
 ```
 
@@ -132,7 +132,7 @@ The following commands will install the module:
 wget https://raw.githubusercontent.com/lhndo/klipper/red/klippy/extras/xz_dockable_probe.py
 cd ../..
 echo "klippy/extras/xz_dockable_probe.py" >> .git/info/exclude
-git update-index --assume-unchanged klippy/extras/xz_dockable_probe.py
+git update-index --assume-unchanged klippy/extras/xz_dockable_probe.py > /dev/null 2>&1
 systemctl restart klipper
 </code></pre>
 
@@ -166,7 +166,7 @@ rm ~/klipper/klippy/extras/resonance_tester.py
 wget https://raw.githubusercontent.com/lhndo/ResHelper/accel_per_hz/Patch/resonance_tester.py
 cd ../..
 echo "klippy/extras/resonance_tester.py" >> .git/info/exclude
-git update-index --assume-unchanged klippy/extras/resonance_tester.py
+git update-index --assume-unchanged klippy/extras/resonance_tester.py > /dev/null 2>&1
 systemctl restart klipper
 ```
 
@@ -194,7 +194,7 @@ cd ~/klipper/klippy/extras/
 wget https://raw.githubusercontent.com/lhndo/danger-klipper/bleeding-edge-v2/klippy/plugins/resonance_holder.py
 cd ../..
 echo "klippy/extras/resonance_holder.py" >> .git/info/exclude
-git update-index --assume-unchanged klippy/extras/resonance_holder.py
+git update-index --assume-unchanged klippy/extras/resonance_holder.py > /dev/null 2>&1
 systemctl restart klipper
 ```
 **Usage:**
