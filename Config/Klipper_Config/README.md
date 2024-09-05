@@ -185,7 +185,7 @@ sudo Rscript install_rs_lib.R
 <br>
 
 
-## Resonance Holder (Optional)
+## Resonance Holder
 
 For debugging resonance peaks 
 
