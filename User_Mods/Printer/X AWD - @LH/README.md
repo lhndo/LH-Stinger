@@ -111,9 +111,6 @@ Please follow the instructions of the left counterparts in the main [Assembly Gu
 
 ![](Images/rightmount.png)
 
-* The bearing clamps require a specific orientation and order
-  
-![](Images/abc.png)
 
 <br>
 
