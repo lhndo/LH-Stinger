@@ -41,7 +41,7 @@ Wiring | Stepper Motor Cable | 1
 
 | Type | Item  |  Quantity |
 |---|---|---|	
-Extrusion | 2020 - 204 mm| 1
+Extrusion | 2020 - 304 mm| 1
 Linear Rail | MGN12H - 282 mm | 1
 
 <br>
