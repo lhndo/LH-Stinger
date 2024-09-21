@@ -36,7 +36,7 @@ Using the parts listed in the [BOM]( https://docs.google.com/spreadsheets/u/2/d/
 
 ## Host
 
-#### BTT PI 1.2
+### BTT PI 1.2
 Download the OS image: https://github.com/bigtreetech/CB1/releases (Choose **CB1_Debian11_minimal** )  
 Use [Balena Etcher](https://etcher.balena.io/) to burn the image onto the PI SD Card.  
 
@@ -44,7 +44,7 @@ Use [Balena Etcher](https://etcher.balena.io/) to burn the image onto the PI SD 
 >Re-insert the SD card into your computer, open the **BOOT** drive and edit **system.cfg**
 
 
-#### Raspberry PI
+### Raspberry PI
 
 Read the following guide to install the **MainsailOS**
 https://docs-os.mainsail.xyz/getting-started/raspberry-pi-os-based
@@ -102,7 +102,7 @@ systemctl restart klipper
 
 :bulb: The firmware setup process can be easily done directly from **KIAUH**
 
-#### Octopus PRO 
+### Octopus PRO 
 Follow the steps starting from "Build your own firmware" and make sure to choose the appropriate settings for your own MCU type (The BOM recommendation is the Octopus Pro V1.1 with the H723 chip)
 
 These are also mentioned in the header of **printer.cfg** file above.
@@ -112,7 +112,7 @@ https://github.com/bigtreetech/BIGTREETECH-OCTOPUS-V1.0/tree/master/Firmware/Kli
 
 
 
-#### FYSETC Spider 3 H7 
+### FYSETC Spider 3 H7 
 
 For the FYSETC board included in the LH Stinger kits please follow the following firmware flashing guide:
 
@@ -198,7 +198,7 @@ git update-index --assume-unchanged klippy/extras/resonance_holder.py > /dev/nul
 systemctl restart klipper
 ```
 **Usage:**
-Uncomment **[resonance_holder]** in **printer.cfg** and use the [VIBRATION TEST](https://github.com/lhndo/LH-Stinger/wiki/Macros#vibration-test) macro
+Uncomment **[resonance_holder]** in **printer.cfg** and use the [VIBRATION TEST](https://github.com/lhndo/LH-Stinger/wiki/Macros#vibration-test) macro for testing.
 
 
 <br>
