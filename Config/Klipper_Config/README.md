@@ -17,6 +17,7 @@ Using the parts listed in the [BOM]( https://docs.google.com/spreadsheets/u/2/d/
   - [ResHelper](#reshelper)
 - [Configuration](#configuration)
   - [Klipper](#klipper)
+  - [Themes](#themes)
   - [Moonraker Power Relay (Optional)](#moonraker-power-relay-optional)
 - [Slicers](#slicers)
   - [Bed Origin](#bed-origin)
@@ -215,13 +216,30 @@ Uncomment **[resonance_holder]** in **printer.cfg** and use the [VIBRATION TEST]
 * Open **printer.cfg** and comment/uncomment the lines in the header according to the instructions if needed. 
 <br>
 
+:children_crossing: If you are building a **FYSETC LH Stinger** kit with a **Spider H7** board, then please use these configuration files instead: 
+**https://github.com/lhndo/LH-Stinger/tree/main/KITS/FYSETC/Klipper_Config_FYSETC**
 
 For more information please consult:  
-[Ebox Guide](https://github.com/lhndo/LH-Stinger/wiki/Ebox)  
-[FYSETC Kit Guide](https://github.com/lhndo/LH-Stinger/wiki/FYSETC-Kit)  
 [Klipper Configuration Reference](https://www.klipper3d.org/Config_Reference.html)  
+[Ebox Guide](https://github.com/lhndo/LH-Stinger/wiki/Ebox)  
+[Breakout Guide](https://github.com/lhndo/LH-Stinger/wiki/Breakout-Box)  
+[FYSETC Kit Guide](https://github.com/lhndo/LH-Stinger/wiki/FYSETC-Kit)  
+
+<br>
 
 For support please join the [LH Stinger Discord](https://discord.gg/EzssCfnEDS), or the [Klipper Discord](https://discord.klipper3d.org/)  
+
+<br>
+
+## Themes
+
+
+
+[**Mainsail**](https://github.com/lhndo/LH-Stinger/tree/main/Config/Mainsail_Theme)
+[**Fluidd**](https://github.com/lhndo/LH-Stinger/tree/main/Config/Fluidd_Theme)
+
+
+
 
 <br>
 
