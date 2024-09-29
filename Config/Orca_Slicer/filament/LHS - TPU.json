@@ -1,0 +1,73 @@
+{
+    "additional_cooling_fan_speed": [
+        "100"
+    ],
+    "enable_pressure_advance": [
+        "1"
+    ],
+    "fan_cooling_layer_time": [
+        "20"
+    ],
+    "fan_min_speed": [
+        "60"
+    ],
+    "filament_density": [
+        "1.22"
+    ],
+    "filament_deretraction_speed": [
+        "20"
+    ],
+    "filament_flow_ratio": [
+        "0.965"
+    ],
+    "filament_max_volumetric_speed": [
+        "24"
+    ],
+    "filament_retract_lift_enforce": [
+        "Bottom Only"
+    ],
+    "filament_retraction_length": [
+        "0.6"
+    ],
+    "filament_retraction_speed": [
+        "35"
+    ],
+    "filament_settings_id": [
+        "LHS - TPU"
+    ],
+    "filament_start_gcode": [
+        "; filament start gcode\nSET_PRESSURE_ADVANCE EXTRUDER=extruder SMOOTH_TIME=0.03\n; MPC_SET HEATER=extruder FILAMENT_DENSITY=1.22 FILAMENT_HEAT_CAPACITY=2"
+    ],
+    "filament_wipe": [
+        "0"
+    ],
+    "from": "User",
+    "hot_plate_temp": [
+        "30"
+    ],
+    "hot_plate_temp_initial_layer": [
+        "30"
+    ],
+    "inherits": "My Generic TPU",
+    "is_custom_defined": "0",
+    "name": "LHS - TPU",
+    "nozzle_temperature_initial_layer": [
+        "230"
+    ],
+    "nozzle_temperature_range_high": [
+        "300"
+    ],
+    "overhang_fan_threshold": [
+        "50%"
+    ],
+    "pressure_advance": [
+        "0.09"
+    ],
+    "slow_down_layer_time": [
+        "12"
+    ],
+    "slow_down_min_speed": [
+        "12"
+    ],
+    "version": "2.1.1.0"
+}
