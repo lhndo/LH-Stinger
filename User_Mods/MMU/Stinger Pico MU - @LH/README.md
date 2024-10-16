@@ -1,4 +1,4 @@
-# Stinger Pico MU
+# Stinger Pico MMU
 *Experimental*
 
 
@@ -32,7 +32,7 @@ Bearing MR115  | 4
 Bearing MR83  | 3
 BMG Drive Gear  | 3
 PTFE Tube 4mm OD, 2mm ID  | 1
-Kevlar or Braided Fishing Line 0.3mm (Low Stretch) | 1
+Kevlar or Low Stretch Braided Fishing Line ~0.3mm | 1
 Heat Insert M3 4x5mm  | 17
 Screw Cap Head M3 10mm  | 2
 Screw Cap Head M3 22mm  | 2
@@ -42,3 +42,9 @@ Screw Countersunk M3 22mm  | 2
 Screw Countersunk M3 10mm  | 9
 Screw Countersunk M3 16mm  | 3
 Screw Countersunk M3 8mm  | 1
+
+**Optional**
+Item | Quantity
+-|- 
+ECAS 4 Collet  | 8
+Grub screws M3 | 3
