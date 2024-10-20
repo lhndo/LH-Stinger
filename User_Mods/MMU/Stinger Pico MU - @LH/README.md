@@ -31,7 +31,7 @@ Steel D-Shaft 5mm x 72mm  | 2
 Bearing MR115  | 4
 Bearing MR83  | 3
 BMG Drive Gear  | 3
-PTFE Tube 4mm OD, 2mm ID  | 1
+PTFE Tube 4mm OD, 3mm ID  | 1
 Kevlar or Low Stretch Braided Fishing Line ~0.3mm | 1
 Heat Insert M3 4x5mm  | 17
 Screw Cap Head M3 10mm  | 2
