@@ -27,7 +27,7 @@ Item | Quantity
 -|- 
 [EMAX ES3004 Servo](https://emaxmodel.com/products/emax-es3004-17g-3-5kg-0-13sec-23t-metal-gear-analog-servo-for-rc-airplane-es3104-upgrade)  | 1
 Nema 17 (LDO-1684AC 40cm) | 1
-Steel D-Shaft 72mm  | 2
+Steel D-Shaft 5mm x 72mm  | 2
 Bearing MR115  | 4
 Bearing MR83  | 3
 BMG Drive Gear  | 3
@@ -46,5 +46,5 @@ Screw Countersunk M3 8mm  | 1
 **Optional**
 Item | Quantity
 -|- 
-ECAS 4 Collet  | 8
+ECAS 4 Collet  | 6
 Grub screws M3 | 3
