@@ -86,16 +86,6 @@ https://github.com/dw-0/kiauh/tree/master
 From **Kiauh** install:
 - **Klipper**
 - **Moonraker**
-- **G-Code Shell Command** (found in Advance > Extras)
-
-When done run:  
-
-```
-cd ~/klipper/
-echo "klippy/extras/gcode_shell_command.py" >> .git/info/exclude
-git update-index --assume-unchanged klippy/extras/gcode_shell_command.py > /dev/null 2>&1
-systemctl restart klipper
-```
 
 <br>
 
@@ -146,45 +136,19 @@ by [Dalegaard](https://github.com/dalegaard) and [Churls](https://github.com/chu
 
 ResHelper is an utility script that simplifies and streamlines the resonance testing process. 
 Follow the installation steps from the following link or the code commands below.  
+https://github.com/lhndo/ResHelper
 
-https://github.com/lhndo/ResHelper/tree/accel_per_hz
+<br>
 
-
-1. **Download ResHelper:**
+**Installation:**
 ```
 cd ~
 git clone https://github.com/lhndo/ResHelper.git
 cd ResHelper
-git checkout accel_per_hz
 ./install.sh
 ```
 
-2. **Patch Klipper:**
-
-```
-cd ~/klipper/klippy/extras/
-rm ~/klipper/klippy/extras/resonance_tester.py
-wget https://raw.githubusercontent.com/lhndo/ResHelper/accel_per_hz/Patch/resonance_tester.py
-cd ../..
-echo "klippy/extras/resonance_tester.py" >> .git/info/exclude
-git update-index --assume-unchanged klippy/extras/resonance_tester.py > /dev/null 2>&1
-systemctl restart klipper
-```
-
-**Optional** (For running **damping_ratio** generation): 
-```
-cd ~/ResHelper
-sudo apt install r-base
-sudo Rscript install_rs_lib.R
-```
-:blue_book: Note: If the library install fails, try installing a Fortran compiler: **sudo apt-get install gfortran** then re-run: **sudo Rscript install_rs_lib.R**
-
 <br>
-
-:arrow_right: After installation please edit **~/printer_data/config/reshelper.cfg** and change your **user path** as instructed in the file comments if it differs from '**home/pi**`
-
-<br>
-
 
 ## Resonance Holder
 
@@ -202,6 +166,7 @@ systemctl restart klipper
 Uncomment **[resonance_holder]** in **printer.cfg** and use the [VIBRATION TEST](https://github.com/lhndo/LH-Stinger/wiki/Macros#vibration-test) macro for testing.
 
 
+<br>
 <br>
 
 # Configuration
