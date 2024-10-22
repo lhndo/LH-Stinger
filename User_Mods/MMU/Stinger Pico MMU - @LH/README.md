@@ -12,7 +12,9 @@
 
 ## Print
 
-* 3 perimeters, 95% infill - It is highly recommended to use the print settings included in the Orca file 
+![](Assets/2.png)
+
+* 3 perimeters, 95% infill - It is highly recommended to use the print settings included in the Orca files 
 * Make sure your extrusion multiplier is spot on. The tolerances are very small so print some parts and check for fitting. 
 * Some slight post processing might be needed.
 * The Idler arms have to be printed top face down on a smooth sheet (not textured PEI) 
@@ -67,7 +69,7 @@ Screw Countersunk M3 8mm  | 1
 7. Roll the first pulley while bringing it closer to the servo shaft.
 8. With the string tensioned, insert the pulley into the geared shaft
 9. Repeat the procedure with the second pulley
-10. Finish by tightening the screw that holds the pulley stack onto the stepper shaft  
+10. Finish by tightening the screw that holds the pulley stack onto the servo shaft  
 
 *Video available on Discord (for now)*
 
