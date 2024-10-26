@@ -47,31 +47,16 @@ Screw Countersunk M3 16mm  | 3
 Screw Countersunk M3 8mm  | 1
 
 
+**Notes:**  
+*You will also need a free stepper driver on your mainboard, or an ERCF EASY BRD or EBB42 board*  
+*A filament hub and a toolhead filament sensor is also required*
+
 <br>
 
-## Assembly
+## Documentation
 
-**Notes**   
-
-* The entire assembly can be done off the stepper motor, and mounting that in the end.
-* Lube the printed herringbone gears with Super Lube
-
-**Winch Assembly**
-
-*The pulley stack is more tricky to set up. Look at the CAD and try to understand its functioning mechanism.*
-
-1. Tie two threads of wire to the CAM pulley 
-2. Tie the other ends to the two smaller stepper pulleys
-3. Loop the wires over the CAM pulley as shown in the CAD assembly
-4. Close both sides of the assembly which holds the bearings in place
-5. Install the printed CAM alignment guide that sets the 0 position
-6. Power on the stepper and set the angle to 0 (it is usually 0 when it receives power)
-7. Roll the first pulley while bringing it closer to the servo shaft.
-8. With the string tensioned, insert the pulley into the geared shaft
-9. Repeat the procedure with the second pulley
-10. Finish by tightening the screw that holds the pulley stack onto the servo shaft  
-
-*Video available on Discord (for now)*
+**Wiki:**
+https://github.com/lhndo/LH-Stinger/wiki/Pico-MMU
 
 
 For support please join the [LH Stinger Discord](https://discord.gg/EzssCfnEDS)
