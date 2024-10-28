@@ -39,11 +39,10 @@ Kevlar or Low Stretch Braided Fishing Line ~0.3mm | 1
 Heat Insert M3 4x5mm  | 17
 Screw Cap Head M3 10mm  | 2
 Screw Cap Head M3 22mm  | 2
+Screw Cap Head M3 30mm  | 2
 Screw Cap Head M3 8mm  | 2
-Screw Countersunk M3 30mm  | 2
-Screw Countersunk M3 22mm  | 2
 Screw Countersunk M3 10mm  | 9
-Screw Countersunk M3 16mm  | 3
+Screw Countersunk M3 16mm  | 2
 Screw Countersunk M3 8mm  | 1
 
 
