@@ -28,7 +28,7 @@ Rubber or silicone patches might also work instead.
 Item | Quantity
 -|- 
 [EMAX ES3004 Servo](https://emaxmodel.com/products/emax-es3004-17g-3-5kg-0-13sec-23t-metal-gear-analog-servo-for-rc-airplane-es3104-upgrade)  | 1
-Nema 17 (LDO-1684AC 40cm) | 1
+Nema 17 (max 40mm length) | 1
 Steel D-Shaft 5mm x 72mm  | 2
 Bearing MR115  | 4
 Bearing MR83  | 3
