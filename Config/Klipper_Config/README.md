@@ -11,19 +11,28 @@ Using the parts listed in the [BOM]( https://docs.google.com/spreadsheets/u/2/d/
 
 - [Prerequisites](#prerequisites)
   - [Host](#host)
+    - [BTT PI 1.2](#btt-pi-12)
+    - [Raspberry PI](#raspberry-pi)
+  - [SSH](#ssh)
   - [KIAUH](#kiauh)
   - [Firmware](#firmware)
-  - [XZ Dockable Probe](#xz-dockable-probe)
-  - [ResHelper](#reshelper)
+    - [Octopus PRO](#octopus-pro)
+    - [FYSETC Spider 3 H7](#fysetc-spider-3-h7)
 - [Configuration](#configuration)
   - [Klipper](#klipper)
-  - [Themes](#themes)
-  - [Moonraker Power Relay (Optional)](#moonraker-power-relay-optional)
+- [Klipper Modules](#klipper-modules)
+  - [XZ Dockable Probe](#xz-dockable-probe)
+  - [ResHelper](#reshelper)
+  - [Resonance Holder](#resonance-holder)
+- [Themes](#themes)
+- [Moonraker](#moonraker)
+    - [Power Relay (Optional)](#power-relay-optional)
 - [Slicers](#slicers)
   - [Bed Origin](#bed-origin)
   - [Slicer Start Gcode](#slicer-start-gcode)
     - [Orca Slicer](#orca-slicer)
     - [Prusa Slicer](#prusa-slicer)
+- [Support](#support)
 <!--te-->
 <br>
 
@@ -111,13 +120,45 @@ https://github.com/lhndo/LH-Stinger/wiki/FYSETC-S3-H7-Firmware-Guide
 
 
 <br>
+<br>
 
+
+# Configuration
+
+<br>
+
+## Klipper
+
+* Copy the files from this folder to: **~/printer_data/config**
+  * This can be done directly thought the **Mainsail** web interface or though a SFTP client such as [MobaXterm](https://mobaxterm.mobatek.net) or [WinSCP](https://winscp.net/eng/index.php) 
+
+<br>
+
+:children_crossing: If you are building a **FYSETC LH Stinger** kit with a **Spider H7** board, then please use these configuration files instead: 
+**https://github.com/lhndo/LH-Stinger/tree/main/KITS/FYSETC/Klipper_Config_FYSETC**
+
+<br>
+
+For more information please consult:  
+[Klipper Configuration Reference](https://www.klipper3d.org/Config_Reference.html)  
+[Ebox Guide](https://github.com/lhndo/LH-Stinger/wiki/Ebox)  
+[Breakout Guide](https://github.com/lhndo/LH-Stinger/wiki/Breakout-Box)  
+[FYSETC Kit Guide](https://github.com/lhndo/LH-Stinger/wiki/FYSETC-Kit)  
+
+<br>
+<br>
+
+
+# Klipper Modules
+:children_crossing: *The following modules are required for the LH Stinger setup*
+
+<br>
 
 ## XZ Dockable Probe
 
 The XZ Dockable Probe module incorporates some unique homing features and is required for the QuickDraw probe.
 
-The following commands will install the module:
+The following commands in the SSH console will install the module:
 
 <pre><code>cd ~/klipper/klippy/extras/
 wget https://raw.githubusercontent.com/lhndo/klipper/red/klippy/extras/xz_dockable_probe.py
@@ -169,34 +210,9 @@ Uncomment **[resonance_holder]** in **printer.cfg** and use the [VIBRATION TEST]
 <br>
 <br>
 
-# Configuration
 
-<br>
 
-## Klipper
-
-* Copy the files from this folder to: **~/printer_data/config**
-  * This can be done directly thought the **Mainsail** web interface or though a SFTP client such as [MobaXterm](https://mobaxterm.mobatek.net) or [WinSCP](https://winscp.net/eng/index.php) 
-
-* Open **printer.cfg** and comment/uncomment the lines in the header according to the instructions if needed. 
-<br>
-
-:children_crossing: If you are building a **FYSETC LH Stinger** kit with a **Spider H7** board, then please use these configuration files instead: 
-**https://github.com/lhndo/LH-Stinger/tree/main/KITS/FYSETC/Klipper_Config_FYSETC**
-
-For more information please consult:  
-[Klipper Configuration Reference](https://www.klipper3d.org/Config_Reference.html)  
-[Ebox Guide](https://github.com/lhndo/LH-Stinger/wiki/Ebox)  
-[Breakout Guide](https://github.com/lhndo/LH-Stinger/wiki/Breakout-Box)  
-[FYSETC Kit Guide](https://github.com/lhndo/LH-Stinger/wiki/FYSETC-Kit)  
-
-<br>
-
-For support please join the [LH Stinger Discord](https://discord.gg/EzssCfnEDS), or the [Klipper Discord](https://discord.klipper3d.org/)  
-
-<br>
-
-## Themes
+# Themes
 
 
 
@@ -208,7 +224,9 @@ For support please join the [LH Stinger Discord](https://discord.gg/EzssCfnEDS),
 
 <br>
 
-## Moonraker Power Relay (Optional)
+# Moonraker 
+
+### Power Relay (Optional)
 If using a Power Relay to control the AC supply to the Ebox, then add the following section to your **moonraker.conf** .  
 Note: The PI should be on its own independent power supply. 
 
@@ -224,7 +242,11 @@ restart_klipper_when_powered: True
 
 For more information on the **BTT Pi GPIO** pinout please consult this table: https://github.com/bigtreetech/CB1#40-pin-gpio
 
+
+<br>
+
 # Slicers
+
 
 
 ## Bed Origin
@@ -275,3 +297,12 @@ End G-Code:
 <br>
 
 :arrow_forward: For more information please visit: [Wiki>Macros>Slicers](https://github.com/lhndo/LH-Stinger/wiki/Macros#slicers)
+
+
+<br>
+
+# Support
+
+For support please join the [LH Stinger Discord](https://discord.gg/EzssCfnEDS), or the [Klipper Discord](https://discord.klipper3d.org/)  
+
+<br>
