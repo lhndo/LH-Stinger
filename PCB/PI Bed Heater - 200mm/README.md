@@ -1,6 +1,5 @@
 
-# Table of Contents
-- [Table of Contents](#table-of-contents)
+**Contents: **
 - [Specifications](#specifications)
 - [Performance](#performance)
 - [Installation](#installation)
@@ -18,8 +17,6 @@ The creator assumes no liability for damages or injuries resulting from its use,
 <br>
 
 
-**NOTE: this design is currently in testing**  
-
 
 ![](Images/lh_stinger_heater_pcb.jpg)  
 
@@ -33,10 +30,11 @@ _This model is also available for purchase from [Provok3d](https://provok3d.com/
 
 **PCB**
 
-- Flex Polyimide Base - as lightweight as possible
+- Flex Polyimide Base
 - Copper Thickness: 1oz (35 µm)
 - Backside Adhesive (Cold Pressed): 3M468MP (Stronger) / 3M90777 (High Temp and easier to apply/remove)
 - Silkscreen: White
+- Weight: 19g
 
  
 
@@ -101,6 +99,32 @@ Please follow this guide: https://github.com/lhndo/LH-Stinger/wiki/Bed-Heater
 
 <br>
 
+
+
+# Ordering
+
+_**[JLCPCB](https://jlcpcb.com) - [OSHWLab](https://oshwlab.com/andrei6/lhs-pi-bed-heater-200x200mm)**_
+
+<br>
+
+1.  Open project from OSHWLab: https://oshwlab.com/andrei6/lhs-pi-bed-heater-200x200mm
+
+![](Images/o1.png)
+
+2. Follow the steps below in the online EasyEDA editor:
+
+![](Images/o2.png)
+
+
+3. Set exactly the following order specifications:
+*Note: The minimum order quantity is 5pcs, and the price is for the total order*
+*Share the rest with your friends :wink:*
+
+![](Images/jlcpcb.png)
+
+
+<br>
+
 # Media
 
 
@@ -109,15 +133,4 @@ Please follow this guide: https://github.com/lhndo/LH-Stinger/wiki/Bed-Heater
 ![](Images/Heater_Fusion.png)
 ![](Images/PI%20SilkScreen.png)
 
-# Ordering
-
-**[JLCPCB](https://jlcpcb.com)**
-
-❗ **Note:** Add the following instructions to the remark section on the ordering page:  
-"ATTENTION: Cold pressing is required for 3M 468MP adhesive application! 
-Please consult HeatedBedFoil-B_Stiffener layers for the stiffener locations and specifications."  
-
 <br>
-- Upload HeatedBedFoil_FS_GBR.zip and set the following specifications
-
-![](Images/jlcpcb.png)

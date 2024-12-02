@@ -88,7 +88,7 @@
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 3e22572c-ccb4-4f42-a95a-10cea0deb38a)
     )
-    (fp_text value "Screw_Terminal_01x01" (at 1 10 90) (layer "F.Fab") hide
+    (fp_text value "Pad" (at 1 10 90) (layer "F.Fab") hide
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp d51e8163-2e28-4cd2-a041-2520a2d78398)
     )
@@ -118,11 +118,11 @@
     (descr "SMD rectangular pad as test Point, square 4.0mm side length")
     (tags "test point SMD pad rectangle square")
     (attr exclude_from_pos_files exclude_from_bom)
-    (fp_text reference "J1" (at 0 -2.898 90) (layer "F.SilkS") hide
+    (fp_text reference "J2" (at 0 -2.898 90) (layer "F.SilkS") hide
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 4327175a-8e95-46f0-9de9-76ee636777ee)
     )
-    (fp_text value "Screw_Terminal_01x01" (at 1 10 90) (layer "F.Fab") hide
+    (fp_text value "Pad" (at 1 10 90) (layer "F.Fab") hide
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 91984922-05af-425e-ad6e-52117e78c740)
     )
