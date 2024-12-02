@@ -1,5 +1,5 @@
 
-**Contents: **
+**Contents:**
 - [Specifications](#specifications)
 - [Performance](#performance)
 - [Installation](#installation)
