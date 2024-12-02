@@ -11,6 +11,15 @@
     "fan_min_speed": [
         "60"
     ],
+    "filament_cooling_final_speed": [
+        "0"
+    ],
+    "filament_cooling_initial_speed": [
+        "0"
+    ],
+    "filament_cooling_moves": [
+        "0"
+    ],
     "filament_density": [
         "1.22"
     ],
@@ -20,23 +29,38 @@
     "filament_flow_ratio": [
         "0.965"
     ],
+    "filament_loading_speed": [
+        "0"
+    ],
+    "filament_loading_speed_start": [
+        "0"
+    ],
     "filament_max_volumetric_speed": [
-        "24"
+        "20"
+    ],
+    "filament_minimal_purge_on_wipe_tower": [
+        "0"
     ],
     "filament_retract_lift_enforce": [
         "Bottom Only"
     ],
     "filament_retraction_length": [
-        "0.6"
+        "0.9"
     ],
     "filament_retraction_speed": [
         "35"
     ],
     "filament_settings_id": [
-        "LHS - TPU"
+        "LHS - TPU 95A"
     ],
     "filament_start_gcode": [
-        "; filament start gcode\nSET_PRESSURE_ADVANCE EXTRUDER=extruder SMOOTH_TIME=0.03\n; MPC_SET HEATER=extruder FILAMENT_DENSITY=1.22 FILAMENT_HEAT_CAPACITY=2"
+        "; filament start gcode\nSET_PRESSURE_ADVANCE EXTRUDER=extruder SMOOTH_TIME=0.04\n; MPC_SET HEATER=extruder FILAMENT_DENSITY=1.22 FILAMENT_HEAT_CAPACITY=2"
+    ],
+    "filament_unloading_speed": [
+        "0"
+    ],
+    "filament_unloading_speed_start": [
+        "0"
     ],
     "filament_wipe": [
         "0"
@@ -50,7 +74,10 @@
     ],
     "inherits": "My Generic TPU",
     "is_custom_defined": "0",
-    "name": "LHS - TPU",
+    "name": "LHS - TPU 95A",
+    "nozzle_temperature": [
+        "245"
+    ],
     "nozzle_temperature_initial_layer": [
         "230"
     ],
@@ -61,7 +88,7 @@
         "50%"
     ],
     "pressure_advance": [
-        "0.09"
+        "0.08"
     ],
     "slow_down_layer_time": [
         "12"

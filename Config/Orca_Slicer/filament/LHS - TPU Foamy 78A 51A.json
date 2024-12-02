@@ -2,17 +2,20 @@
     "additional_cooling_fan_speed": [
         "0"
     ],
+    "close_fan_the_first_x_layers": [
+        "0"
+    ],
     "enable_pressure_advance": [
         "1"
     ],
     "fan_cooling_layer_time": [
-        "15"
+        "30"
     ],
     "fan_max_speed": [
-        "65"
+        "60"
     ],
     "fan_min_speed": [
-        "35"
+        "60"
     ],
     "filament_cooling_final_speed": [
         "0"
@@ -23,8 +26,14 @@
     "filament_cooling_moves": [
         "0"
     ],
+    "filament_density": [
+        "1.02"
+    ],
+    "filament_deretraction_speed": [
+        "20"
+    ],
     "filament_flow_ratio": [
-        "0.923"
+        "0.85"
     ],
     "filament_loading_speed": [
         "0"
@@ -33,22 +42,25 @@
         "0"
     ],
     "filament_max_volumetric_speed": [
-        "27"
+        "4"
     ],
     "filament_minimal_purge_on_wipe_tower": [
         "0"
     ],
     "filament_retraction_length": [
-        "0.6"
+        "1.2"
+    ],
+    "filament_retraction_minimum_travel": [
+        "1"
+    ],
+    "filament_retraction_speed": [
+        "30"
     ],
     "filament_settings_id": [
-        "LHS - PETG"
+        "LHS - TPU Foamy 78A 51A"
     ],
     "filament_start_gcode": [
-        "; filament start gcode\nMAX_FAN LINK_AUX=0\n; MPC_SET HEATER=extruder FILAMENT_DENSITY=1.27 FILAMENT_HEAT_CAPACITY=5.5"
-    ],
-    "filament_type": [
-        "PETG"
+        "; filament start gcode\nMAX_FAN LINK_AUX=0\nSET_PRESSURE_ADVANCE EXTRUDER=extruder SMOOTH_TIME=0.04\n; MPC_SET HEATER=extruder FILAMENT_DENSITY=1.02 FILAMENT_HEAT_CAPACITY=2"
     ],
     "filament_unloading_speed": [
         "0"
@@ -56,45 +68,51 @@
     "filament_unloading_speed_start": [
         "0"
     ],
-    "from": "User",
-    "full_fan_speed_layer": [
-        "3"
+    "filament_vendor": [
+        "Recreus FilaFlex "
     ],
+    "filament_wipe": [
+        "0"
+    ],
+    "filament_z_hop": [
+        "0"
+    ],
+    "from": "User",
     "hot_plate_temp": [
-        "80"
+        "25"
     ],
     "hot_plate_temp_initial_layer": [
-        "80"
+        "25"
     ],
-    "inherits": "My Generic PLA",
+    "inherits": "My Generic TPU",
     "is_custom_defined": "0",
-    "name": "LHS - PETG",
+    "name": "LHS - TPU Foamy 78A 51A",
     "nozzle_temperature": [
-        "260"
+        "265"
     ],
     "nozzle_temperature_initial_layer": [
         "260"
     ],
     "nozzle_temperature_range_high": [
-        "300"
+        "280"
     ],
     "nozzle_temperature_range_low": [
-        "230"
+        "240"
+    ],
+    "overhang_fan_speed": [
+        "70"
+    ],
+    "overhang_fan_threshold": [
+        "25%"
     ],
     "pressure_advance": [
-        "0.047"
+        "0.06"
     ],
     "slow_down_layer_time": [
-        "14"
+        "5"
     ],
     "slow_down_min_speed": [
-        "15"
+        "20"
     ],
-    "support_material_interface_fan_speed": [
-        "100"
-    ],
-    "temperature_vitrification": [
-        "80"
-    ],
-    "version": "1.9.0.2"
+    "version": "2.1.1.0"
 }

@@ -14,14 +14,38 @@
     "fan_min_speed": [
         "25"
     ],
+    "filament_cooling_final_speed": [
+        "0"
+    ],
+    "filament_cooling_initial_speed": [
+        "0"
+    ],
+    "filament_cooling_moves": [
+        "0"
+    ],
+    "filament_loading_speed": [
+        "0"
+    ],
+    "filament_loading_speed_start": [
+        "0"
+    ],
     "filament_max_volumetric_speed": [
         "30"
     ],
+    "filament_minimal_purge_on_wipe_tower": [
+        "0"
+    ],
     "filament_settings_id": [
-        "LHS ASA"
+        "LHS - ASA"
     ],
     "filament_start_gcode": [
         "; filament start gcode\nMAX_FAN LINK_AUX=0\n; MPC_SET HEATER=extruder FILAMENT_DENSITY=1.07 FILAMENT_HEAT_CAPACITY=2.1"
+    ],
+    "filament_unloading_speed": [
+        "0"
+    ],
+    "filament_unloading_speed_start": [
+        "0"
     ],
     "from": "User",
     "full_fan_speed_layer": [
@@ -32,7 +56,7 @@
     ],
     "inherits": "My Generic ASA",
     "is_custom_defined": "0",
-    "name": "LHS ASA",
+    "name": "LHS - ASA",
     "nozzle_temperature_range_high": [
         "300"
     ],

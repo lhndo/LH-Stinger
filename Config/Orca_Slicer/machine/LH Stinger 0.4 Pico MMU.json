@@ -2,13 +2,18 @@
     "auxiliary_fan": "1",
     "bed_custom_model": "C:\\\\3DPrint\\\\Bambu\\\\LH Stinger 200 Bed Model.stl",
     "bed_custom_texture": "C:\\\\3DPrint\\\\Bambu\\\\LH Stinger Buildplate.png",
+    "cooling_tube_length": "0",
+    "cooling_tube_retraction": "0",
     "deretraction_speed": [
         "40"
     ],
+    "enable_filament_ramming": "0",
+    "extra_loading_move": "0",
     "from": "User",
     "inherits": "MyKlipper 0.4 nozzle",
     "is_custom_defined": "0",
     "layer_change_gcode": ";AFTER_LAYER_CHANGES\n;[layer_z]",
+    "machine_end_gcode": "PRINT_END\n\n_SP_PRINT_END",
     "machine_max_acceleration_extruding": [
         "200000",
         "20000"
@@ -61,10 +66,11 @@
         "100",
         "12"
     ],
-    "machine_start_gcode": "PRINT_START_LHS BED=[bed_temperature_initial_layer_single] HOTEND=[nozzle_temperature_initial_layer] AUTOMESH=1 AUTOPURGE=1 QUIETMODE=0\n\n",
-    "manual_filament_change": "1",
-    "name": "LH Stinger 0.4",
+    "machine_start_gcode": " _SP_PRINT_START LANE=[initial_tool] TEMP=[nozzle_temperature_initial_layer]\n\nPRINT_START_LHS BED=[bed_temperature_initial_layer_single] HOTEND=[nozzle_temperature_initial_layer] AUTOMESH=1 AUTOPURGE=1 QUIETMODE=0\n\n",
+    "machine_tool_change_time": "20",
+    "name": "LH Stinger 0.4 Pico MMU",
     "nozzle_type": "brass",
+    "parking_pos_retraction": "0",
     "print_host": "http://192.168.50.186/",
     "printable_area": [
         "18x38",
@@ -73,7 +79,10 @@
         "18x238"
     ],
     "printable_height": "180",
-    "printer_settings_id": "LH Stinger 0.4",
+    "printer_settings_id": "LH Stinger 0.4 Pico MMU",
+    "retract_length_toolchange": [
+        "0"
+    ],
     "retract_lift_enforce": [
         "Top and Bottom"
     ],
