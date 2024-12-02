@@ -6,9 +6,13 @@
  ## Installation 
 
 * Latest version of **Orca Slicer** can be found here: (https://github.com/SoftFever/OrcaSlicer)  
-* Copy the profile folders to:   
+* Copy the profile folders to the user folder found at the location below:   
 
-  ```  \%appdata%\OrcaSlicer\user\default\```
+  * Windows: ```  \%appdata%\OrcaSlicer\user\default```  
+
+  * Linux: ```  ~/.config/OrcaSlicer```  
+  
+  * macOS: ```  ~/Library/Application Support/OrcaSlicer```  
 
 
 ### Orca Slicer:
@@ -50,4 +54,4 @@ PRINT_START_LHS BED=[bed_temperature_initial_layer_single] HOTEND=[nozzle_temper
 
 <br>
 
-*Please consult the mymacros.cfg comments for more information.*
+*Please consult the [LH Stinger Wiki / Macros](https://github.com/lhndo/LH-Stinger/wiki/Macros) for more information.*
