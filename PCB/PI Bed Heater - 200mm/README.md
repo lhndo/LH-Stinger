@@ -117,7 +117,7 @@ _**[JLCPCB](https://jlcpcb.com) - [OSHWLab](https://oshwlab.com/andrei6/lhs-pi-b
 
 
 3. Set exactly the following order specifications:
-*Note: The minimum order quantity is 5pcs, and the price is for the total order*
+*Note: The minimum order quantity is 5pcs, and the price is for the total order*  
 *Share the rest with your friends :wink:*
 
 ![](Images/jlcpcb.png)
