@@ -152,6 +152,9 @@ For more information please consult:
 # Klipper Modules
 :children_crossing: *The following modules are required for the LH Stinger setup*
 
+Before installing the modules below, make sure that your klipper installation is up to date.
+
+
 <br>
 
 ## XZ Dockable Probe
