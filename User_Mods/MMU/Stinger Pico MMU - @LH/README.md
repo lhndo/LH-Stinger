@@ -1,6 +1,7 @@
+[:arrow_double_down: Download Folder](https://download-directory.github.io/?url=https%3A%2F%2Fgithub.com%2Flhndo%2FLH-Stinger%2Ftree%2Fmain%2FUser_Mods%2FMMU%2FStinger%2520Pico%2520MMU%2520-%2520%2540LH)
+
 # Stinger Pico MMU
 *Experimental*
-
 
 ![](Assets/1.png)
 
@@ -49,7 +50,7 @@ Screw Countersunk M3 8mm  | 1
 
 **Notes:**  
 *You will also need a free stepper driver on your mainboard, or an ERCF EASY BRD or EBB42 board*  
-*A filament hub and a toolhead filament sensor is also required*
+*[A filament hub and a toolhead filament sensor is also required](https://github.com/lhndo/LH-Stinger/tree/main/User_Mods/MMU/Filament%20Hub%20-%20%40LH)*
 
 <br>
 
