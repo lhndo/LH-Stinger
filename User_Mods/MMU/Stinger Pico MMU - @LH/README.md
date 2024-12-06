@@ -15,13 +15,16 @@
 
 ![](Assets/2.png)
 
+Filament: PLA, PETG ,ASA etc.
+
 * 3 perimeters, 95% infill - It is highly recommended to use the print settings included in the Orca files 
 * Make sure your extrusion multiplier is spot on. The tolerances are very small so print some parts and check for fitting. 
 * Some slight post processing might be needed.
 * The Idler arms have to be printed top face down on a smooth sheet (not textured PEI) 
+    - You can improvise by taping a temporary piece of glass, fr4, etc over your printbed 
 
-The assembly uses two small **TPU** 2mm tabs for pushing force. 
-Rubber or silicone patches might also work instead.  
+The assembly uses two small 2mm **TPU** tabs for pushing force. 
+If you don't have access to TPU then you can substitute them with some rubber or silicone patches.  
 
 
 ## BOM
@@ -49,7 +52,7 @@ Screw Countersunk M3 8mm  | 1
 
 
 **Notes:**  
-*You will also need a free stepper driver on your mainboard, or an ERCF EASY BRD or EBB42 board*  
+*You will also need a free stepper driver on your mainboard, or an [ERCF EASY BRD](https://s.click.aliexpress.com/e/_DB2wsgZ) or [EBB 42](https://s.click.aliexpress.com/e/_DlhszCV) board (connected though USB)*  
 *[A filament hub and a toolhead filament sensor is also required](https://github.com/lhndo/LH-Stinger/tree/main/User_Mods/MMU/Filament%20Hub%20-%20%40LH)*
 
 <br>
