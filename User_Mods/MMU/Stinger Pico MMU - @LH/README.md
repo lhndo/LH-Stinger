@@ -37,7 +37,7 @@ Item | Quantity
 [PTFE Tube 4mm OD, 3mm ID](https://s.click.aliexpress.com/e/_DCqpjY5)  | 1
 [ECAS 4 Collet](https://s.click.aliexpress.com/e/_DBXcy4h)  | 6
 [Kevlar or Low Stretch Braided Fishing Line](https://s.click.aliexpress.com/e/_DdfdWYt) ~0.4mm | 1
-[Heat Insert M3 4x5mm](https://s.click.aliexpress.com/e/_Dci6SvT)  | 17
+[Heat Insert M3 5mm (D) x 4mm (L)](https://s.click.aliexpress.com/e/_Dci6SvT)  | 17
 Screw Cap Head M3 10mm  | 2
 Screw Cap Head M3 22mm  | 2
 Screw Cap Head M3 30mm  | 2
