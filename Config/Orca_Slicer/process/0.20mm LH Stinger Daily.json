@@ -57,7 +57,7 @@
     "sparse_infill_acceleration": "20000",
     "sparse_infill_density": "20%",
     "sparse_infill_line_width": "0.4",
-    "sparse_infill_pattern": "grid",
+    "sparse_infill_pattern": "3dhoneycomb",
     "sparse_infill_speed": "400",
     "support_interface_speed": "400",
     "support_line_width": "0.4",
