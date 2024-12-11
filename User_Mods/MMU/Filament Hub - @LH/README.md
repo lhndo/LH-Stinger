@@ -5,13 +5,10 @@
 
 4 Lane version made by ***Amber White***
 
+![](Assets/3.png)
 
 
 ![](Assets/1.png)
-
-![](Assets/3.png)
-
-![](Assets/2.png)
 
 
 ## BOM
