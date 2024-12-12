@@ -60,7 +60,7 @@ Screw Countersunk M3 8mm  | 1
 ## 4 Lane Version
 
 An *untested* four lane version is now available.
-Requires two 90mm+ D-Shafts, an extra BMG extruder gear, and two ECAS Collets.
+Requires two [90mm+ D-Shafts](https://s.click.aliexpress.com/e/_onQyB9d), an extra BMG extruder gear, and two ECAS Collets.
 
 Printed parts available in the 3mf above.
 
