@@ -1,7 +1,7 @@
 # Toolhead Filament Hub
 
 
-#### *3-4 Lane* *Toolhead Hub and Filament Sensor for the Orbiter V2 and V2.5 Extruders*
+#### *3-4 Lane* *Toolhead Hub and Filament Sensor for the [Orbiter V2 and V2.5 Extruders](https://s.click.aliexpress.com/e/_oop9Ovv)*
 
 4 Lane version made by ***Amber White***
 
@@ -22,6 +22,7 @@ Heat Insert M3 4x5mm  | 2
 Screw Cap Head M2 8mm  | 1
 Screw Countersunk M3 8mm  | 2
 
+* The Stand-alone Filament Sensor uses an [ECAS 4 Collet](https://s.click.aliexpress.com/e/_DBXcy4h) with the rubber grommet removed.
 
 ## Print
 
