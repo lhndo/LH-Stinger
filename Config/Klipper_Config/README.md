@@ -274,7 +274,7 @@ If not using the provided [**LH Stinger- Orca Profiles**](https://github.com/lhn
 Machine Start G-Code:  
 
 `
-PRINT_START_LHS BED=[bed_temperature_initial_layer_single] HOTEND=[nozzle_temperature_initial_layer] AUTOMESH=1 AUTOPURGE=1 QUIETMODE=0
+PRINT_START_LHS BED=[bed_temperature_initial_layer_single] HOTEND=[nozzle_temperature_initial_layer] AUTOMESH=1 AUTOPURGE=1 QUIETMODE={if print_preset =~ /.*Quiet.*/ }1{else}0{endif}
 `
 
 Machine End G-Code: 

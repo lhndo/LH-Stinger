@@ -39,7 +39,7 @@
 The profiles contain the following Machine Start G-Code:  
 
 `
-PRINT_START_LHS BED=[bed_temperature_initial_layer_single] HOTEND=[nozzle_temperature_initial_layer] AUTOMESH=1 AUTOPURGE=1 QUIETMODE=0
+PRINT_START_LHS BED=[bed_temperature_initial_layer_single] HOTEND=[nozzle_temperature_initial_layer] AUTOMESH=1 AUTOPURGE=1 QUIETMODE={if print_preset =~ /.*Quiet.*/ }1{else}0{endif}
 `
 
 <br>
@@ -50,7 +50,7 @@ PRINT_START_LHS BED=[bed_temperature_initial_layer_single] HOTEND=[nozzle_temper
 
 * **AUTOPURGE** - uses a line purge feature set by default at the right front corner of the bed. Configurable settings available in the mymacros.cfg header.
 
-* **QUIETMODE** - automatically enables the Qmode macro for quiet printing. Best used with the Quiet profile.   
+* **QUIETMODE** - automatically enables the Qmode macro for quiet printing. Automatically detects if the "Quiet" profile is used.   
 
 <br>
 

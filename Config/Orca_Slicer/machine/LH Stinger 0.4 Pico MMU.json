@@ -66,7 +66,7 @@
         "100",
         "12"
     ],
-    "machine_start_gcode": " _SP_PRINT_START LANE=[initial_tool] TEMP=[nozzle_temperature_initial_layer]\n\nPRINT_START_LHS BED=[bed_temperature_initial_layer_single] HOTEND=[nozzle_temperature_initial_layer] AUTOMESH=1 AUTOPURGE=1 QUIETMODE=0\n\n",
+    "machine_start_gcode": " _SP_PRINT_START LANE=[initial_tool] TEMP=[nozzle_temperature_initial_layer]\n\nPRINT_START_LHS BED=[bed_temperature_initial_layer_single] HOTEND=[nozzle_temperature_initial_layer] AUTOMESH=1 AUTOPURGE=1 QUIETMODE={if print_preset =~ /.*Quiet.*/ }1{else}0{endif}\n\n",
     "machine_tool_change_time": "20",
     "name": "LH Stinger 0.4 Pico MMU",
     "nozzle_type": "brass",

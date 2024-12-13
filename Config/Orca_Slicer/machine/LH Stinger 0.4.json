@@ -61,7 +61,7 @@
         "100",
         "12"
     ],
-    "machine_start_gcode": "PRINT_START_LHS BED=[bed_temperature_initial_layer_single] HOTEND=[nozzle_temperature_initial_layer] AUTOMESH=1 AUTOPURGE=1 QUIETMODE=0\n\n",
+    "machine_start_gcode": "PRINT_START_LHS BED=[bed_temperature_initial_layer_single] HOTEND=[nozzle_temperature_initial_layer] AUTOMESH=1 AUTOPURGE=1 QUIETMODE={if print_preset =~ /.*Quiet.*/ }1{else}0{endif}\n",
     "manual_filament_change": "1",
     "name": "LH Stinger 0.4",
     "nozzle_type": "brass",
