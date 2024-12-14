@@ -1,5 +1,12 @@
+
 # Toolhead Filament Hub
 
+**Contents:**
+  - [BOM](#bom)
+  - [Print](#print)
+  - [Assembly](#assembly)
+
+<br>
 
 #### *3-4 Lane* *Toolhead Hub and Filament Sensor for the [Orbiter V2 and V2.5 Extruders](https://s.click.aliexpress.com/e/_oop9Ovv)*
 
@@ -15,10 +22,10 @@
 
 Item | Quantity
 -|- 
-Kailh Red GM 4.0 Microswitch or equivalent | 1
+[Kailh Red GM 4.0](https://s.click.aliexpress.com/e/_omCrXgr) Microswitch or equivalent | 1
 4mm Ball Bearing (unpack a 608zz) | 1
-PTFE tube 4mm OD  | 1
-Heat Insert M3 4x5mm  | 2
+[ECAS 4 Collet](https://s.click.aliexpress.com/e/_DBXcy4h)  (for sensor only version)| 1
+[Heat Insert M3 5mm (D) x 4mm (L)](https://s.click.aliexpress.com/e/_Dci6SvT)  | 2
 Screw Cap Head M2 8mm  | 1
 Screw Countersunk M3 8mm  | 2
 
@@ -35,4 +42,9 @@ Screw Countersunk M3 8mm  | 2
 * Make sure your extrusion multiplier is spot on. The tolerances are very small
 * Some slight post processing might be needed. 
 
+<br>
 
+## Assembly
+
+Assembly instructions are available on the LH Stinger Wiki: 
+https://github.com/lhndo/LH-Stinger/wiki/Pico-MMU#filament-sensor
