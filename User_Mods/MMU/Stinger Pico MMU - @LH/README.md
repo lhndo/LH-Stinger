@@ -52,7 +52,7 @@ Screw Countersunk M3 8mm  | 1
 
 
 **Notes:**  
-*You will also need a free stepper driver on your mainboard, or an [ERCF EASY BRD](https://s.click.aliexpress.com/e/_DB2wsgZ) or [EBB 42](https://s.click.aliexpress.com/e/_DlhszCV) board (connected though USB)*  
+*You will also need a free stepper driver on your mainboard, or an [ERCF EASY BRD](https://s.click.aliexpress.com/e/_DB2wsgZ) or [EBB 42](https://s.click.aliexpress.com/e/_DlhszCV) board (connected though USB, Max31865 not required)*  
 *[A filament hub and a toolhead filament sensor is also required](https://github.com/lhndo/LH-Stinger/tree/main/User_Mods/MMU/Filament%20Hub%20-%20%40LH)*
 
 <br>
@@ -60,7 +60,7 @@ Screw Countersunk M3 8mm  | 1
 ## 4 Lane Version
 
 An *untested* four lane version is now available.
-Requires two [90mm+ D-Shafts](https://s.click.aliexpress.com/e/_onQyB9d), an extra BMG extruder gear, and two ECAS Collets.
+Requires two [5mmx90mm+ D-Shafts](https://s.click.aliexpress.com/e/_onQyB9d) (source a single 180mm and cut it in half), an extra BMG extruder gear, and two extra ECAS 4 Collets.
 
 Printed parts available in the 3mf above.
 
