@@ -31,7 +31,7 @@ If you don't have access to TPU then you can substitute them with some rubber or
 
 Item | Quantity
 -|- 
-[EMAX ES3004 Servo](https://s.click.aliexpress.com/e/_Dev5Qlb) [(EMAX)](https://emaxmodel.com/products/emax-es3004-17g-3-5kg-0-13sec-23t-metal-gear-analog-servo-for-rc-airplane-es3104-upgrade)  | 1
+[EMAX ES3004 Servo](https://s.click.aliexpress.com/e/_oksH8bZ) [(EMAX)](https://emaxmodel.com/products/emax-es3004-17g-3-5kg-0-13sec-23t-metal-gear-analog-servo-for-rc-airplane-es3104-upgrade)  | 1
 [Nema 17](https://s.click.aliexpress.com/e/_DDhtjPj) (max 40mm length) | 1
 [Steel D-Shaft 5mm x 72mm](https://s.click.aliexpress.com/e/_DEqV7oV)  | 2
 [Bearing MR115](https://s.click.aliexpress.com/e/_DeqGPvP)  | 4
