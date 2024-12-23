@@ -32,7 +32,8 @@ Filament: PLA, PETG ,ASA etc.
     - You can improvise by taping a temporary piece of glass, fr4, etc. over your printbed 
 
 The assembly uses two small 2mm **TPU** tabs for pushing force.   
-If you don't have access to TPU then you can substitute them with some rubber or silicone patches.  
+If you don't have access to TPU then you can substitute them with some 2mm thick rubber or silicone patches.  
+ 
 
 
 <br>
