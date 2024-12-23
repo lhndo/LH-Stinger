@@ -37,7 +37,7 @@ Screw Countersunk M3 8mm  | 2
 
 :exclamation: It is highly recommended to use the print settings included in the Orca Slicer project file. There are many custom settings set per object.   
 
-* 0.12 line height, 0.4mm line width
+* 0.12 layer height, 0.4mm line width
 * 3 perimeters, 95% infill
 * Make sure your extrusion multiplier is spot on. The tolerances are very small
 * Some slight post processing might be needed. 
