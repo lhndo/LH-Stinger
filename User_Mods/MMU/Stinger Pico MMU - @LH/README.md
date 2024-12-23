@@ -69,9 +69,6 @@ Screw Grub M3 6mm (optional)  | 2
 
 <br>
 
-## 4 Lane Version
-
-
 
 ## Documentation
 
