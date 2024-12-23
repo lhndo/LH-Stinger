@@ -19,6 +19,8 @@
   </p>
 </p>
 
+<br>
+
 ![Image of LH Stinger 3D Printer Front View](Images/New_Frame_v1024.png)  
 
 <br>
@@ -27,9 +29,9 @@
 Status: **V1.0**  
 
 <br>
-<br>
 
-[![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa] [![DISCORD][s2]][l2] [![YOUTUBE][s5]][l5]  [![KOFI][s1]][l1]  
+
+[![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa] [![DISCORD][s2]][l2] [![YOUTUBE][s5]][l5] [![KOFI][s1]][l1]  
 
 [s1]: https://img.shields.io/badge/Buy%20Me%20a%20Coffeee-d3dsds?logo=ko-fi&logoColor=white&labelColor=red&color=red
 [l1]: https://ko-fi.com/lh_eng
@@ -38,14 +40,14 @@ Status: **V1.0**
 [s5]: https://img.shields.io/badge/Youtube-8A2323443?logo=youtube&logoColor=red&color=white
 [l5]: https://www.youtube.com/@LemurHaze
 
+
+
 [cc-by-nc-sa]: http://creativecommons.org/licenses/by-nc-sa/4.0/
 [cc-by-nc-sa-image]: https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png
 [cc-by-nc-sa-shield]: https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg
   
 ## Contents
-<!--ts-->
 
-- [Contents](#contents)
 - [Features](#features)
 - [Resources](#resources)
 - [Assembly Instructions](#assembly-instructions)
@@ -136,17 +138,23 @@ Status: **V1.0**
 <br>
 
 *For additional support please join us on the [LH Stinger Discord](https://discord.gg/EzssCfnEDS)*
-<br>
 
+
+<br>
 
 
 ## Upcoming Projects
-- Enclosure (In progress)
-- Polycarbonate EBox design
+
+- [LHS Pico MMU](https://github.com/lhndo/LH-Stinger/wiki/Pico-MMU) *(In progress)*  
+
+![LH Stinger - LHS - Pico MMU](https://github.com/lhndo/LH-Stinger/blob/main/User_Mods/MMU/Stinger%20Pico%20MMU%20-%20@LH/Assets/lhs_pico_mmu.png?raw=true)
+
+
+- Enclosure *(In progress)*
 
 <br>
 
-![LH Stinger Enclosure](Images/lh_stinger_enclosure.png)
+![LH Stinger Enclosure](Images/lh_stinger_enclosure.png)  
 
 <br>
 
@@ -178,7 +186,7 @@ _Inspired by the [Annex Engineering](https://github.com/Annex-Engineering) team 
 
 ## Support
 
-<a href='https://ko-fi.com/lh_eng' target='_blank'><img height='46' style='border:0px;height:36px;' src='https://az743702.vo.msecnd.net/cdn/kofi3.png?v=0' border='0' alt='Buy Me a Coffee at ko-fi.com' /> <br> 
+<a href='https://ko-fi.com/P5P7PF0ED' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://storage.ko-fi.com/cdn/kofi6.png?v=6' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
 
 
 ## License
