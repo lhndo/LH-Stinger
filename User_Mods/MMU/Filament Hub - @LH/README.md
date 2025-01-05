@@ -23,7 +23,7 @@
 Item | Quantity
 -|- 
 [Kailh Red GM 4.0](https://s.click.aliexpress.com/e/_omCrXgr) Microswitch or equivalent | 1
-4mm Ball Bearing (unpack a 608zz) | 1
+[4mm Ball Bearing](https://s.click.aliexpress.com/e/_oEx2nzd) (or unpack a 608zz bearing) | 1
 [ECAS 4 Collet](https://s.click.aliexpress.com/e/_DBXcy4h)  (for sensor only version)| 1
 [Heat Insert M3 5mm (D) x 4mm (L)](https://s.click.aliexpress.com/e/_Dci6SvT)  | 2
 Screw Cap Head M2 8mm  | 1
