@@ -64,7 +64,7 @@ Screw Countersunk M3 16mm  | 4
 Screw Countersunk M3 8mm  | 1
 Screw Grub M3 6mm (optional)  | 2
 
-*Four lane version quantities
+*Four lane version quantities  
 **The belt width used is ~4mm, but that can be easily cut with scissors from a 6mm one
 
 **Notes:**  
