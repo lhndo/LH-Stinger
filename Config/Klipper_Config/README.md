@@ -243,6 +243,19 @@ initial_state: off
 restart_klipper_when_powered: True
 </code></pre>
 
+<br>
+
+* **BTT Pi 1.2** connect though SSH, run the following commands and restart the Pi:
+
+```
+sudo sh -c 'echo "# udev rules for gpio port access through libgpiod
+SUBSYSTEM==\"gpio\", KERNEL==\"gpiochip[0-4]\", GROUP=\"biqu\", MODE=\"0660\"" > /etc/udev/rules.d/60-gpiod.rules'
+```
+```
+sudo udevadm control --reload-rules
+sudo udevadm trigger
+```
+
 For more information on the **BTT Pi GPIO** pinout please consult this table: https://github.com/bigtreetech/CB1#40-pin-gpio
 
 
