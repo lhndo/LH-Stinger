@@ -2,6 +2,7 @@
     "auxiliary_fan": "1",
     "bed_custom_model": "C:\\\\3DPrint\\\\Bambu\\\\LH Stinger 200 Bed Model.stl",
     "bed_custom_texture": "C:\\\\3DPrint\\\\Bambu\\\\LH Stinger Buildplate.png",
+    "change_filament_gcode": " _SP_SET_PURGE PURGE=[first_flush_volume] ",
     "cooling_tube_length": "0",
     "cooling_tube_retraction": "0",
     "deretraction_speed": [

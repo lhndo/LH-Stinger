@@ -39,13 +39,17 @@
     "max_travel_detour_distance": "50",
     "min_bead_width": "75%",
     "min_feature_size": "20%",
+    "min_width_top_surface": "200%",
     "name": "0.14mm LH Stinger Detail",
+    "only_one_wall_top": "1",
     "outer_wall_acceleration": "10000",
     "outer_wall_jerk": "10",
     "outer_wall_line_width": "0.4",
     "outer_wall_speed": "400",
     "overhang_1_4_speed": "70%",
     "overhang_4_4_speed": "15",
+    "prime_tower_brim_width": "2",
+    "prime_tower_width": "80",
     "prime_volume": "75",
     "print_settings_id": "0.14mm LH Stinger Detail",
     "reduce_crossing_wall": "1",
@@ -89,5 +93,7 @@
     "version": "1.9.0.2",
     "wall_sequence": "outer wall/inner wall",
     "wipe_before_external_loop": "1",
-    "wipe_tower_max_purge_speed": "140"
+    "wipe_tower_bridging": "15",
+    "wipe_tower_extra_flow": "120%",
+    "wipe_tower_max_purge_speed": "200"
 }

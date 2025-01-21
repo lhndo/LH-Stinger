@@ -12,7 +12,6 @@
     "elefant_foot_compensation": "0.05",
     "enable_prime_tower": "1",
     "filter_out_gap_fill": "1",
-    "flush_into_infill": "1",
     "from": "User",
     "gap_fill_target": "everywhere",
     "gap_infill_speed": "200",
@@ -38,6 +37,7 @@
     "min_length_factor": "1.5",
     "min_width_top_surface": "200%",
     "name": "0.20mm LH Stinger Strength",
+    "only_one_wall_top": "1",
     "outer_wall_acceleration": "10000",
     "outer_wall_jerk": "10",
     "outer_wall_line_width": "0.46",
@@ -45,6 +45,8 @@
     "overhang_1_4_speed": "60%",
     "overhang_2_4_speed": "40",
     "overhang_3_4_speed": "20",
+    "prime_tower_brim_width": "2",
+    "prime_tower_width": "80",
     "prime_volume": "75",
     "print_settings_id": "0.20mm LH Stinger Strength",
     "reduce_infill_retraction": "0",
@@ -78,5 +80,7 @@
     "wall_generator": "classic",
     "wall_loops": "4",
     "wipe_before_external_loop": "1",
-    "wipe_tower_max_purge_speed": "140"
+    "wipe_tower_bridging": "15",
+    "wipe_tower_extra_flow": "120%",
+    "wipe_tower_max_purge_speed": "200"
 }

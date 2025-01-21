@@ -16,7 +16,6 @@
     "elefant_foot_compensation": "0.15",
     "enable_prime_tower": "1",
     "filter_out_gap_fill": "40",
-    "flush_into_infill": "1",
     "from": "User",
     "gap_infill_speed": "200",
     "independent_support_layer_height": "0",
@@ -52,6 +51,8 @@
     "overhang_1_4_speed": "60%",
     "overhang_2_4_speed": "40",
     "overhang_3_4_speed": "20",
+    "prime_tower_brim_width": "2",
+    "prime_tower_width": "80",
     "prime_volume": "75",
     "print_settings_id": "0.20mm LH Stinger TPU",
     "reduce_crossing_wall": "1",
@@ -92,5 +93,5 @@
     "version": "1.9.0.2",
     "wall_generator": "classic",
     "wipe_before_external_loop": "1",
-    "wipe_tower_max_purge_speed": "140"
+    "wipe_tower_max_purge_speed": "80"
 }
