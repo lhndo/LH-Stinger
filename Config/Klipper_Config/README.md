@@ -161,7 +161,7 @@ git sparse-checkout add Config/Klipper_Config/
 git sparse-checkout add KITS/FYSETC/Klipper_Config_FYSETC/
 cp -r ~/printer_data/config/ ~/printer_data/config/backup/
 mkdir -p ~/printer_data/config/.theme
-cp -r ~/lhs/Config/Mainsail_Theme/* ~~/printer_data/config/.theme/
+cp -r ~/lhs/Config/Mainsail_Theme/* ~/printer_data/config/.theme/
 ```
 
 <br>
