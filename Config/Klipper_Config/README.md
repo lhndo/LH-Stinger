@@ -48,11 +48,14 @@ Using the parts listed in the [BOM]( https://docs.google.com/spreadsheets/u/2/d/
 
 ### BTT PI 1.2
 Download the OS image: https://github.com/bigtreetech/CB1/releases (Choose **CB1_Debian11_minimal** )  
-Use [Balena Etcher](https://etcher.balena.io/) to burn the image onto the PI SD Card.  
+Use [Balena Etcher](https://etcher.balena.io/) to burn the image onto the PI SD Card.
+
+**Video:** [BTT Pi Overview & Installation Guide](https://www.youtube.com/watch?v=xBpkeKKwu48)
 
 **WIFI configuration:**
->Re-insert the SD card into your computer, open the **BOOT** drive and edit **system.cfg**
+1. Re-insert the SD card into your computer, open the **BOOT** drive and add your Wi-Fi credentials to **system.cfg**
 
+<br>
 
 ### Raspberry PI
 
@@ -61,10 +64,11 @@ https://docs-os.mainsail.xyz/getting-started/raspberry-pi-os-based
 
 
 **WIFI configuration:**
->A. Set up your WIFI connection in the **Raspberry Pi Imager** before burning the image.  
->B. Re-insert the SD card into your computer, open the **BOOT** drive and edit **mainsailos-wpa-supplicant.txt**
+1. Set up your WIFI connection in the **Raspberry Pi Imager** before burning the image.  
+2. Re-insert the SD card into your computer, open the **BOOT** drive and add your Wi-Fi credentials to **mainsailos-wpa-supplicant.txt**
 
 <br>
+
 
 
 ## SSH
@@ -78,11 +82,11 @@ The easiest way is to install [**MobaXterm**](https://mobaxterm.mobatek.net/feat
 
 
 
-  If you pre-configured your PI SSID and WIFI Password correctly, or if you connect though a ethernet cable, you can try the following ways to find your Host IP address: 
+  If you pre-configured your SSID and WIFI Password correctly, or if you connect though a ethernet cable, you can try the following ways to find your Klipper IP address: 
      
-  >A. Open command prompt and run : `ping mainsailos.local -4`  
-  >B. Look at the device list inside your router dashboard  
-  >C. Install and run [Angry IP Scanner](https://angryip.org)   
+  A. Open your  your ROUTER dashboard and look at the device list
+  B. Open command prompt and run : `ping mainsailos.local -4` (Rraspberry Pi)
+  C. Install and run [Angry IP Scanner](https://angryip.org)   
 
 <br>
 
@@ -92,9 +96,26 @@ The easiest way is to install [**MobaXterm**](https://mobaxterm.mobatek.net/feat
 
 https://github.com/dw-0/kiauh/tree/master  
 
-From **Kiauh** install:
-- **Klipper**
+KIAUH installation:
+
+
+1. Install KIAUH
+```
+sudo apt-get install git -y
+cd ~ 
+git clone https://github.com/dw-0/kiauh.git
+```
+2. Run KIAUH 
+   
+   `~/kiauh/kiauh.sh`
+
+<br>
+
+From **KIAUH** install:
+- **Klipper** (Python 3.x)
 - **Moonraker**
+- **Mainsail**
+
 
 <br>
 
@@ -129,15 +150,43 @@ https://github.com/lhndo/LH-Stinger/wiki/FYSETC-S3-H7-Firmware-Guide
 
 ## Klipper
 
-* Copy the files from this folder to: **~/printer_data/config**
-  * This can be done directly thought the **Mainsail** web interface or though a SFTP client such as [MobaXterm](https://mobaxterm.mobatek.net) or [WinSCP](https://winscp.net/eng/index.php) 
+To set up the required Klipper LH Stinger configuration files please follow these steps:
+
+* Download the configuration files onto the Raspberry/BTT Pi by running the following commands though **SSH**
+
+```
+rm -rf ~/lhs && git clone --filter=blob:none --sparse https://github.com/lhndo/LH-Stinger.git ~/lhs && cd ~/lhs
+git sparse-checkout init --cone
+git sparse-checkout set Config/Mainsail_Theme/
+git sparse-checkout add Config/Klipper_Config/
+git sparse-checkout add KITS/FYSETC/Klipper_Config_FYSETC/
+cp -r ~/printer_data/config/ ~/printer_data/config/backup/
+mkdir -p ~/printer_data/config/.theme
+cp -r ~/lhs/Config/Mainsail_Theme/* ~~/printer_data/config/.theme/
+```
 
 <br>
 
-:children_crossing: If you are building a **FYSETC LH Stinger** kit with a **Spider H7** board, then please use these configuration files instead: 
-**https://github.com/lhndo/LH-Stinger/tree/main/KITS/FYSETC/Klipper_Config_FYSETC**
+* Copy the configuration files to their correct location with the following commands:
 
 <br>
+
+:large_blue_diamond: Option **A** : **LH Stinger BOM Build - BTT Octopus Pro v1.2** 
+
+```
+cp -r ~/lhs/Config/Klipper_Config/* ~/printer_data/config/
+```
+<br>
+
+:large_orange_diamond: Option **B** : **FYSETC - LH Stinger - Spider H7** 
+
+```
+cp -r ~/lhs/KITS/FYSETC/Klipper_Config_FYSETC/* ~/printer_data/config/
+```
+
+<br>
+
+
 
 For more information please consult:  
 [Klipper Configuration Reference](https://www.klipper3d.org/Config_Reference.html)  
@@ -151,6 +200,7 @@ For more information please consult:
 
 # Klipper Modules
 :children_crossing: *The following modules are required for the LH Stinger setup*
+
 
 Before installing the modules below, make sure that your klipper installation is up to date.
 
