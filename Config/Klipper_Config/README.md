@@ -1,8 +1,8 @@
 [:arrow_double_down: Download Folder](https://download-directory.github.io/?url=https%3A%2F%2Fgithub.com%2Flhndo%2FLH-Stinger%2Ftree%2Fmain%2FConfig%2FKlipper_Config)
 
+<br>
 
-### *This Klipper configuration is set up for the following wiring setup*
-Using the parts listed in the [BOM]( https://docs.google.com/spreadsheets/u/2/d/1s8ulLfThmbuy1G_40MvkXXL2oVx9PZhvpAY9hMxqYbg/edit?usp=drive_link)  <br>
+### LH Stinger - Software Installation Guide
 
 ![Ebox Wiring](/Images/ebox_wiring.png)  
 
