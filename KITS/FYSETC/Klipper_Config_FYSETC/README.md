@@ -2,7 +2,10 @@
 
 <br>
 
-:children_crossing: Please follow the main configuration instructions: https://github.com/lhndo/LH-Stinger/tree/main/Config/Klipper_Config
+:children_crossing: For the complete software installation guide please follow the main configuration instructions: https://github.com/lhndo/LH-Stinger/tree/main/Config/Klipper_Config
+
+
+<br>
 
 :exclamation: **This configuration is set up to include any changes mentioned in the wiki, including the issues fixes mentioned there**.  
 **Double check to ensure your wiring matches (e.g. Y STOP changed to Y-MAX port)**
