@@ -102,10 +102,9 @@ KIAUH installation:
 1. Install KIAUH
 ```
 sudo apt-get install git -y
-cd ~ 
-git clone https://github.com/dw-0/kiauh.git
+cd ~ && git clone https://github.com/dw-0/kiauh.git
 ```
-2. Run KIAUH 
+2. Run KIAUH and select mode **4** (No)
    
    `~/kiauh/kiauh.sh`
 
@@ -236,8 +235,7 @@ https://github.com/lhndo/ResHelper
 
 **Installation:**
 ```
-cd ~
-git clone https://github.com/lhndo/ResHelper.git
+cd ~ && git clone https://github.com/lhndo/ResHelper.git
 cd ResHelper
 ./install.sh
 ```
