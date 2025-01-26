@@ -1,20 +1,25 @@
 [:arrow_double_down: Download Folder](https://download-directory.github.io/?url=https%3A%2F%2Fgithub.com%2Flhndo%2FLH-Stinger%2Ftree%2Fmain%2FUser_Mods%2FMMU%2FStinger%2520Pico%2520MMU%2520-%2520%2540LH)
 
 # LH Stinger - Pico MMU
-*Experimental*
+
 
 ![](Assets/lhs_pico_mmu.png)
 
 
-*Note: The four lane version is untested at the moment. Printed parts are available in the provided 3mf.*  
 
 <br>
 
+## Guide
+
+**Wiki:** https://github.com/lhndo/LH-Stinger/wiki/Pico-MMU
+
+<br>
 
 ## CAD
 
 [**Online CAD Viewer**](http://tiny.cc/lhs-pico-mu)
 
+<br>
 
 ## Print
 
@@ -52,8 +57,7 @@ Item | Quantity
 [BMG Drive Gear](https://s.click.aliexpress.com/e/_DErKaQz) (with grub screw) | 3 (4)*
 [PTFE Tube 4mm OD, 3mm ID](https://s.click.aliexpress.com/e/_DCqpjY5)  | 1
 [ECAS 4 Collet](https://s.click.aliexpress.com/e/_DBXcy4h)  | 6 (8)*
-[Kevlar or Low Stretch Braided Fishing Line](https://s.click.aliexpress.com/e/_DdfdWYt) ~0.4mm | 1 (Winch Drive)
-[Belt GT2  ](https://s.click.aliexpress.com/e/_okGVowl) ~20cm | 1 (Belt Drive)**
+[Belt GT2  ](https://s.click.aliexpress.com/e/_okGVowl) ~25cm | 1 **
 [Heat Insert M3 5mm (D) x 4mm (L)](https://s.click.aliexpress.com/e/_Dci6SvT)  | 22
 Screw Cap Head M3 10mm  | 3
 Screw Cap Head M3 22mm  | 2
@@ -75,10 +79,9 @@ Screw Grub M3 6mm (optional)  | 2
 
 ![](Assets/4.png)
 
-## Documentation
+<br>
 
-**Wiki:**
-https://github.com/lhndo/LH-Stinger/wiki/Pico-MMU
+## Support
 
 
 For support please join the [LH Stinger Discord](https://discord.gg/EzssCfnEDS)
