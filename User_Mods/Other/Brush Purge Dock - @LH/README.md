@@ -2,7 +2,7 @@
 ## Brush Purge Dock
 
 ![](Images/1.png)
-![](Images/3.jpeg)
+![](Images/3.JPEG)
 ![](Images/2.png)
 
 
