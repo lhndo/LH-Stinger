@@ -2,6 +2,7 @@
 ## Brush Purge Dock
 
 ![](Images/1.png)
+![](Images/3.jpeg)
 ![](Images/2.png)
 
 
@@ -12,6 +13,7 @@ Item | Quantity
 Button Head M3 10mm  | 3
 Button Head M3 12mm  | 1
 Button Head M3 30mm  | 2
+2020 M3 T-Nut Insert   | 2
 [A1 Mini Silicone Brush](https://s.click.aliexpress.com/e/_oCtyVVf) | Cut in half = 14mm
 PTFE OD:4mm ID:3mm  | 20mm x 2
 Elastic Band  | 1
