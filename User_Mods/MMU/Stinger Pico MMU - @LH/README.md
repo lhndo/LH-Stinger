@@ -37,9 +37,6 @@ Filament: PLA, PETG ,ASA etc.
 * The Idler arms have to be printed top face down on a smooth sheet (not textured PEI) 
     - You can improvise by taping a temporary piece of glass, fr4, etc. over your printbed 
 
-The assembly uses two small 2mm **TPU** tabs for pushing force.   
-If you don't have access to TPU then you can substitute them with some 2mm thick rubber or silicone patches.  
- 
 
 
 <br>
