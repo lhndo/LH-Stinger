@@ -41,6 +41,12 @@
     "filament_minimal_purge_on_wipe_tower": [
         "0"
     ],
+    "filament_multitool_ramming_flow": [
+        "0"
+    ],
+    "filament_multitool_ramming_volume": [
+        "0"
+    ],
     "filament_retract_lift_enforce": [
         "Bottom Only"
     ],

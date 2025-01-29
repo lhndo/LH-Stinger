@@ -11,17 +11,47 @@
     "fan_min_speed": [
         "65"
     ],
+    "filament_cooling_final_speed": [
+        "0"
+    ],
+    "filament_cooling_initial_speed": [
+        "0"
+    ],
+    "filament_cooling_moves": [
+        "0"
+    ],
     "filament_flow_ratio": [
         "0.95"
     ],
+    "filament_loading_speed": [
+        "0"
+    ],
+    "filament_loading_speed_start": [
+        "0"
+    ],
     "filament_max_volumetric_speed": [
         "50"
+    ],
+    "filament_minimal_purge_on_wipe_tower": [
+        "0"
+    ],
+    "filament_multitool_ramming_flow": [
+        "0"
+    ],
+    "filament_multitool_ramming_volume": [
+        "0"
     ],
     "filament_settings_id": [
         "LHS - PLA"
     ],
     "filament_start_gcode": [
         "; filament start gcode\n; MPC_SET HEATER=extruder FILAMENT_DENSITY=1.24 FILAMENT_HEAT_CAPACITY=2.2"
+    ],
+    "filament_unloading_speed": [
+        "0"
+    ],
+    "filament_unloading_speed_start": [
+        "0"
     ],
     "from": "User",
     "inherits": "My Generic PLA",

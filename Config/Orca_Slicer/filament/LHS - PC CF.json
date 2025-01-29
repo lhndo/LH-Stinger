@@ -17,14 +17,38 @@
     "fan_min_speed": [
         "5"
     ],
+    "filament_cooling_final_speed": [
+        "0"
+    ],
+    "filament_cooling_initial_speed": [
+        "0"
+    ],
+    "filament_cooling_moves": [
+        "0"
+    ],
     "filament_density": [
         "1.18"
     ],
     "filament_flow_ratio": [
         "0.945"
     ],
+    "filament_loading_speed": [
+        "0"
+    ],
+    "filament_loading_speed_start": [
+        "0"
+    ],
     "filament_max_volumetric_speed": [
         "35"
+    ],
+    "filament_minimal_purge_on_wipe_tower": [
+        "0"
+    ],
+    "filament_multitool_ramming_flow": [
+        "0"
+    ],
+    "filament_multitool_ramming_volume": [
+        "0"
     ],
     "filament_notes": [
         "Extrusion Override set to a higher value\nAux disabled\nZ-Offset increased to 0.025 due to nozzle expansion at 300C"
@@ -43,6 +67,12 @@
     ],
     "filament_type": [
         "PC"
+    ],
+    "filament_unloading_speed": [
+        "0"
+    ],
+    "filament_unloading_speed_start": [
+        "0"
     ],
     "from": "User",
     "hot_plate_temp": [
