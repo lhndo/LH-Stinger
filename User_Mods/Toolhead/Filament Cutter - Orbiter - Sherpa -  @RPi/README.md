@@ -45,7 +45,7 @@ Screw Button Head M3 12mm  | 1
 
 * Prepare a 2mm Pin measuring 5.3mm in length 
 
-* Glue the hell out of cutter arm assembly with your choice of goo
+* Glue the hell out of the cutter arm assembly with your choice of goo
 
 ![](Assets/3.png)
 
