@@ -48,7 +48,7 @@ Item | Quantity
 -|- 
 [EMAX ES3004 Servo](https://s.click.aliexpress.com/e/_oksH8bZ) [(EMAX)](https://emaxmodel.com/products/emax-es3004-17g-3-5kg-0-13sec-23t-metal-gear-analog-servo-for-rc-airplane-es3104-upgrade)  | 1
 [Nema 17](https://s.click.aliexpress.com/e/_DDhtjPj) (max 40mm length) | 1
-[Steel D-Shaft 5mm x 72mm](https://s.click.aliexpress.com/e/_DEqV7oV) or [90m for 4 lanes](https://s.click.aliexpress.com/e/_ooVBpL1) | 2
+[Steel D-Shaft 5mm x 72mm](https://s.click.aliexpress.com/e/_DEqV7oV) or [90mm for 4 lanes](https://s.click.aliexpress.com/e/_ooVBpL1) | 2
 [Bearing MR115](https://s.click.aliexpress.com/e/_DeqGPvP)  | 4
 [Bearing MR83](https://s.click.aliexpress.com/e/_DDpZxF7)  | 3 (4)* 
 [BMG Drive Gear](https://s.click.aliexpress.com/e/_DErKaQz) (with grub screw) | 3 (4)* sets
