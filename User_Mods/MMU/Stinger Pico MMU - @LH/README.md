@@ -27,7 +27,7 @@
 
 
 Filament: PLA, PETG ,ASA etc.
-
+*The 4 lane version uses 113g of filament in total*
 
 * 0.4mm nozzle, 0.4mm line width, 0.2mm layer height (idler arms at 0.12mm if you can print well)
 * 3 perimeters, 95% infill   
