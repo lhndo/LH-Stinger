@@ -70,7 +70,10 @@ Screw Grub M3 6mm (optional)  | 2
 
 **Notes:**  
 *You will also need a free stepper driver on your mainboard, or an [ERCF EASY BRD](https://s.click.aliexpress.com/e/_DB2wsgZ) or [EBB 42](https://s.click.aliexpress.com/e/_DlhszCV) board (connected though USB, Max31865 not required)*  
-*[A filament hub and a toolhead filament sensor is also required](https://github.com/lhndo/LH-Stinger/tree/main/User_Mods/MMU/Filament%20Hub%20-%20%40LH)*
+*Any board that can be flashed with klipper should also work, such as a spare Ender 3 board.*
+
+*[A filament hub and a toolhead filament sensor is also required](https://github.com/lhndo/LH-Stinger/tree/main/User_Mods/MMU/Filament%20Hub%20-%20%40LH)*  
+*Please ask in the community if there's an existing hub solution for your extruder of choice.*
 
 <br>
 
