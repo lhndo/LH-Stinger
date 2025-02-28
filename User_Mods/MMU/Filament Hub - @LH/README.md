@@ -8,14 +8,16 @@
 
 <br>
 
-#### *3-4 Lane* *Toolhead Hub and Filament Sensor for the [Orbiter V2 and V2.5 Extruders](https://s.click.aliexpress.com/e/_oop9Ovv)*
+- #### *3-4 Lane* *Toolhead Hub and Filament Sensor for the [Orbiter V2 and V2.5 Extruders](https://s.click.aliexpress.com/e/_oop9Ovv)*
 
-4 Lane version made by ***Amber White***
+- #### Floating Hub Variants with ECAS connector
+
+4 Lane version by ***Amber White***
+
+![](Assets/1.png)
 
 ![](Assets/3.png)
 
-
-![](Assets/1.png)
 
 
 ## BOM
