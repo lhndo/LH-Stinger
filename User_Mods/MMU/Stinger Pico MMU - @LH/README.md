@@ -51,7 +51,7 @@ Item | Quantity
 [Steel D-Shaft 5mm x 72mm](https://s.click.aliexpress.com/e/_DEqV7oV) or [90mm for 4 lanes](https://s.click.aliexpress.com/e/_ooVBpL1) | 2
 [Bearing MR115](https://s.click.aliexpress.com/e/_DeqGPvP)  | 4
 [Bearing MR83](https://s.click.aliexpress.com/e/_DDpZxF7)  | 3 (4)* 
-[BMG Drive Gear](https://s.click.aliexpress.com/e/_DErKaQz) (with grub screw) | 3 (4)* pairs!
+[BMG Hardened Drive Gears](https://s.click.aliexpress.com/e/_DErKaQz) (with grub screw) | 3 (4)* pairs!
 [PTFE Tube 4mm OD, 3mm ID](https://s.click.aliexpress.com/e/_DCqpjY5)  | 1
 [ECAS 4 Collet](https://s.click.aliexpress.com/e/_DBXcy4h)  | 6 (8)*
 [Belt GT2 ** ](https://s.click.aliexpress.com/e/_okGVowl)  | 25cm 
