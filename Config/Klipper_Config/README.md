@@ -170,14 +170,15 @@ cp -r ~/lhs/Config/Mainsail_Theme/* ~/printer_data/config/.theme/
 
 <br>
 
-:large_blue_diamond: Option **A** : **LH Stinger BOM Build - BTT Octopus Pro v1.2** 
+
+### :large_blue_diamond: Option **A** : **LH Stinger BOM Build - BTT Octopus Pro v1.2** 
 
 ```
 cp -r ~/lhs/Config/Klipper_Config/* ~/printer_data/config/
 ```
 <br>
 
-:large_orange_diamond: Option **B** : **FYSETC - LH Stinger - Spider H7** 
+### :large_orange_diamond: Option **B** : **FYSETC - LH Stinger - Spider H7** 
 
 ```
 cp -r ~/lhs/KITS/FYSETC/Klipper_Config_FYSETC/* ~/printer_data/config/
