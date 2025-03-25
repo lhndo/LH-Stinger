@@ -315,6 +315,8 @@ For more information on the **BTT Pi GPIO** pinout please consult this table: ht
 
 ## Bed Origin
 
+***Note: The following settings are included in the provided [LH Stinger - Orca Slicer Profiles ](https://github.com/lhndo/LH-Stinger/tree/main/Config/Orca_Slicer)***
+
 The printer supports multiple bed sizes. For ease of use, the bed position is defined in the slicer by changing the Origin Offsets, and **not in Klipper's printer.cfg** by changing position_endstop and position_min for X/Y axis.  
 
 Move the nozzle manually to the front left corner of the bed, and note the position, eg. X18 Y38.  
@@ -330,7 +332,7 @@ Add those values in the Origin section as negative values.
 
 ### Orca Slicer
 
-If not using the provided [**LH Stinger- Orca Profiles**](https://github.com/lhndo/LH-Stinger/tree/main/Config/Orca_Slicer), then set the following G-code in Printer section:  
+***Note: The following settings are included in the provided [LH Stinger - Orca Slicer Profiles ](https://github.com/lhndo/LH-Stinger/tree/main/Config/Orca_Slicer)***
 
 Machine Start G-Code:  
 
