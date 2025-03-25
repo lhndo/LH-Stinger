@@ -50,12 +50,12 @@ Item | Quantity
 [Nema 17](https://s.click.aliexpress.com/e/_DDhtjPj) (max 40mm length) | 1
 [Steel D-Shaft 5mm x 72mm](https://s.click.aliexpress.com/e/_DEqV7oV) or [90mm for 4 lanes](https://s.click.aliexpress.com/e/_ooVBpL1) | 2
 [Bearing MR115](https://s.click.aliexpress.com/e/_DeqGPvP)  | 4
-[Bearing MR83](https://s.click.aliexpress.com/e/_DDpZxF7)  | 3 (4)* 
-[BMG Hardened Drive Gears](https://s.click.aliexpress.com/e/_DErKaQz) (with grub screw) | 3 (4)* pairs!
+[Bearing MR83](https://s.click.aliexpress.com/e/_DDpZxF7)  | 4 
+[BMG Hardened Drive Gears](https://s.click.aliexpress.com/e/_DErKaQz) (with grub screw) | 4 pairs!
 [PTFE Tube 4mm OD, 3mm ID](https://s.click.aliexpress.com/e/_DCqpjY5)  | 1
-[ECAS 4 Collet](https://s.click.aliexpress.com/e/_DBXcy4h)  | 6 (8)*
-[Belt GT2 ** ](https://s.click.aliexpress.com/e/_okGVowl)  | 25cm 
-[Heat Insert M3 5mm (D) x 4mm (L)](https://s.click.aliexpress.com/e/_Dci6SvT)  | 20 (23)*
+[ECAS 4 Collet](https://s.click.aliexpress.com/e/_DBXcy4h)  | 8
+[Belt GT2 * ](https://s.click.aliexpress.com/e/_okGVowl)  | 25cm 
+[Heat Insert M3 5mm (D) x 4mm (L)](https://s.click.aliexpress.com/e/_Dci6SvT)  | 23
 Screw Cap Head M3 10mm  | 3
 Screw Cap Head M3 22mm  | 2
 Screw Cap Head M3 30mm  | 2
@@ -65,8 +65,9 @@ Screw Countersunk M3 16mm  | 4
 Screw Countersunk M3 8mm  | 1
 Screw Grub M3 6mm (optional)  | 2
 
-*Four lane version quantities  
-**The belt width used is non-standard ~4mm, which can be easily cut with scissors from a 6mm one
+*The belt width used is non-standard ~4mm, which can be easily cut with scissors from a 6mm one
+
+<br>
 
 **Notes:**  
 *You will also need a free stepper driver on your mainboard, or an [ERCF EASY BRD](https://s.click.aliexpress.com/e/_DB2wsgZ) or [EBB 42](https://s.click.aliexpress.com/e/_DlhszCV) board (connected though USB, Max31865 not required)*  
