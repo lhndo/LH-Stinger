@@ -175,6 +175,7 @@ cp -r ~/lhs/Config/Mainsail_Theme/* ~/printer_data/config/.theme/
 
 ```
 cp -r ~/lhs/Config/Klipper_Config/* ~/printer_data/config/
+systemctl restart klipper
 ```
 <br>
 
@@ -182,6 +183,7 @@ cp -r ~/lhs/Config/Klipper_Config/* ~/printer_data/config/
 
 ```
 cp -r ~/lhs/KITS/FYSETC/Klipper_Config_FYSETC/* ~/printer_data/config/
+systemctl restart klipper
 ```
 
 <br>
