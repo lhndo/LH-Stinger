@@ -48,13 +48,13 @@ Item | Quantity
 -|- 
 [EMAX ES3004 Servo](https://s.click.aliexpress.com/e/_oDr5to3) [(EMAX)](https://emaxmodel.com/products/emax-es3004-17g-3-5kg-0-13sec-23t-metal-gear-analog-servo-for-rc-airplane-es3104-upgrade)  | 1
 [Nema 17](https://s.click.aliexpress.com/e/_DDhtjPj) (max 40mm length) | 1
-[Steel D-Shaft 5mm x 72mm](https://s.click.aliexpress.com/e/_DEqV7oV) or [90mm for 4 lanes](https://s.click.aliexpress.com/e/_ooVBpL1) | 2
+[Steel D-Shaft 5mm x 90mm](https://s.click.aliexpress.com/e/_ooVBpL1) | 2
 [Bearing MR115](https://s.click.aliexpress.com/e/_DeqGPvP)  | 4
 [Bearing MR83](https://s.click.aliexpress.com/e/_DDpZxF7)  | 4 
 [BMG Hardened Drive Gears](https://s.click.aliexpress.com/e/_DErKaQz) (with grub screw) | 4 pairs!
 [PTFE Tube 4mm OD, 3mm ID](https://s.click.aliexpress.com/e/_DCqpjY5)  | 1
 [ECAS 4 Collet](https://s.click.aliexpress.com/e/_DBXcy4h)  | 8
-[Belt GT2 * ](https://s.click.aliexpress.com/e/_okGVowl)  | 25cm 
+[Belt GT2 * ](https://s.click.aliexpress.com/e/_okGVowl)  | ~25cm 
 [Heat Insert M3 5mm (D) x 4mm (L)](https://s.click.aliexpress.com/e/_Dci6SvT)  | 23
 Screw Cap Head M3 10mm  | 3
 Screw Cap Head M3 22mm  | 2
