@@ -54,7 +54,7 @@ Item | Quantity
 [BMG Hardened Drive Gears](https://s.click.aliexpress.com/e/_DErKaQz) (with grub screw) | 4 pairs!
 [PTFE Tube 4mm OD, 3mm ID](https://s.click.aliexpress.com/e/_DCqpjY5)  | 1
 [ECAS 4 Collet](https://s.click.aliexpress.com/e/_DBXcy4h)  | 8
-[Belt GT2 * ](https://s.click.aliexpress.com/e/_okGVowl)  | ~25cm 
+[Belt GT2 * ](https://s.click.aliexpress.com/e/_okGVowl)  | 25cm 
 [Heat Insert M3 5mm (D) x 4mm (L)](https://s.click.aliexpress.com/e/_Dci6SvT)  | 23
 Screw Cap Head M3 10mm  | 3
 Screw Cap Head M3 22mm  | 2
@@ -69,14 +69,21 @@ Screw Grub M3 6mm (optional)  | 2
 
 <br>
 
-**Notes:**  
-*You will also need a free stepper driver on your mainboard, or an [ERCF EASY BRD](https://s.click.aliexpress.com/e/_DB2wsgZ) or [EBB 42](https://s.click.aliexpress.com/e/_DlhszCV) board (connected though USB, Max31865 not required)*  
-*Any board that can be flashed with klipper should also work, such as a spare Ender 3 board.*
 
-*[A filament hub and a toolhead filament sensor is also required](https://github.com/lhndo/LH-Stinger/tree/main/User_Mods/MMU/Filament%20Hub%20-%20%40LH)*  
-*Please ask in the community if there's an existing hub solution for your extruder of choice.*
+**Note:**  
+ * You will need a free stepper driver on your mainboard, or an [ERCF EASY BRD](https://s.click.aliexpress.com/e/_DB2wsgZ) or [EBB 42](https://s.click.aliexpress.com/e/_DlhszCV) board (connected though USB, Max31865 not required)    
+  *Any board that can be flashed with klipper should also work, such as a spare Ender 3 board.*
 
-<br>
+
+* [A filament hub and a toolhead filament sensor are also required](https://github.com/lhndo/LH-Stinger/tree/main/User_Mods/MMU/Filament%20Hub%20-%20%40LH)   
+  *If you can't find a [built-in solution](https://www.printables.com/search/models?ctx=models&q=pico+mmu+hub), then you can use the [Floating Hub Variant with ECAS connector](https://github.com/lhndo/LH-Stinger/tree/main/User_Mods/MMU/Filament%20Hub%20-%20%40LH) which is universal*
+
+
+* A toolhead filament cutter (below the extruder) is ***highly recommended*** for reliability.  
+  You can find an example [here](https://github.com/lhndo/LH-Stinger/wiki/Pico-MMU#filament-cutters), or other variations on [Printables](https://www.printables.com/search/models?ctx=models&q=filament+cutter+for).
+
+*Feel free to ask in the* [LH Stinger Discord | multi-material](https://discord.gg/EzssCfnEDS) *if there's an existing solution or mod for your extruder or toolhead of choice.*  
+
 
 ![](Assets/4.png)
 
