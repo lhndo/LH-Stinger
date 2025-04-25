@@ -48,7 +48,7 @@ Item | Quantity
 -|- 
 [EMAX ES3004 Servo](https://s.click.aliexpress.com/e/_oDr5to3) [(EMAX)](https://emaxmodel.com/products/emax-es3004-17g-3-5kg-0-13sec-23t-metal-gear-analog-servo-for-rc-airplane-es3104-upgrade)  | 1
 [Nema 17](https://s.click.aliexpress.com/e/_DDhtjPj) (max 40mm length) | 1
-[Steel D-Shaft 5mm x 90mm](https://s.click.aliexpress.com/e/_ooVBpL1) | 2
+[Steel D-Shaft 5mm x 90mm](https://s.click.aliexpress.com/e/_ooVBpL1) ** | 2
 [Bearing MR115](https://s.click.aliexpress.com/e/_DeqGPvP)  | 4
 [Bearing MR83](https://s.click.aliexpress.com/e/_DDpZxF7)  | 4 
 [BMG Hardened Drive Gears](https://s.click.aliexpress.com/e/_DErKaQz) (with grub screw) | 4 pairs!
@@ -65,8 +65,8 @@ Screw Countersunk M3 16mm  | 4
 Screw Countersunk M3 8mm  | 1
 Screw Grub M3 6mm (optional)  | 2
 
-*The belt width used is non-standard ~4mm, which can be easily cut with scissors from a 6mm one
-
+*The belt width used is non-standard ~4mm, which can be easily cut with scissors from a 6mm one  
+** Alternatively, you can use round shafts with the following [MOD](https://github.com/lhndo/LH-Stinger/tree/main/User_Mods/MMU/PICO%20MMU%20MODS/Cam%20Shafts%20-%20Round%20ID%20-%20%40LH)
 <br>
 
 
