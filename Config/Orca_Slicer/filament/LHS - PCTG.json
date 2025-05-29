@@ -18,7 +18,7 @@
         "0"
     ],
     "additional_cooling_fan_speed": [
-        "100"
+        "0"
     ],
     "chamber_temperature": [
         "0"
@@ -34,10 +34,10 @@
         "70"
     ],
     "cool_plate_temp": [
-        "30"
+        "35"
     ],
     "cool_plate_temp_initial_layer": [
-        "30"
+        "35"
     ],
     "default_filament_colour": [
         ""
@@ -52,22 +52,22 @@
         "1"
     ],
     "enable_pressure_advance": [
-        "1"
+        "0"
     ],
     "eng_plate_temp": [
-        "30"
+        "0"
     ],
     "eng_plate_temp_initial_layer": [
-        "30"
+        "0"
     ],
     "fan_cooling_layer_time": [
-        "20"
+        "16"
     ],
     "fan_max_speed": [
-        "100"
+        "60"
     ],
     "fan_min_speed": [
-        "60"
+        "30"
     ],
     "filament_cooling_final_speed": [
         "0"
@@ -82,10 +82,10 @@
         "20"
     ],
     "filament_density": [
-        "1.22"
+        "1.24"
     ],
     "filament_deretraction_speed": [
-        "20"
+        "25"
     ],
     "filament_diameter": [
         "1.75"
@@ -94,7 +94,7 @@
         "; filament end gcode\n"
     ],
     "filament_flow_ratio": [
-        "0.965"
+        "0.953"
     ],
     "filament_is_support": [
         "0"
@@ -109,19 +109,19 @@
         "nil"
     ],
     "filament_max_volumetric_speed": [
-        "20"
+        "25"
     ],
     "filament_minimal_purge_on_wipe_tower": [
-        "0"
+        "400"
     ],
     "filament_multitool_ramming": [
         "0"
     ],
     "filament_multitool_ramming_flow": [
-        "0"
+        "10"
     ],
     "filament_multitool_ramming_volume": [
-        "0"
+        "10"
     ],
     "filament_notes": [
         ""
@@ -139,7 +139,7 @@
         "nil"
     ],
     "filament_retract_lift_enforce": [
-        "Bottom Only"
+        "nil"
     ],
     "filament_retract_restart_extra": [
         "nil"
@@ -151,16 +151,16 @@
         "nil"
     ],
     "filament_retraction_length": [
-        "0.9"
+        "0.6"
     ],
     "filament_retraction_minimum_travel": [
         "nil"
     ],
     "filament_retraction_speed": [
-        "35"
+        "30"
     ],
     "filament_settings_id": [
-        "LHS - TPU 95A"
+        "LHS - PCTG"
     ],
     "filament_shrink": [
         "100%"
@@ -178,13 +178,13 @@
         "0"
     ],
     "filament_start_gcode": [
-        "; filament start gcode\n; MPC_SET HEATER=extruder FILAMENT_DENSITY=1.22 FILAMENT_HEAT_CAPACITY=2\n; SET_PRESSURE_ADVANCE MODEL=linear\nSET_PRESSURE_ADVANCE EXTRUDER=extruder SMOOTH_TIME=0.04"
+        "; filament start gcode\nMAX_FAN MANUAL_AUX=0 LINK_AUX=0\n; MPC_SET HEATER=extruder FILAMENT_DENSITY=1.25 FILAMENT_HEAT_CAPACITY=5.5\n; SET_PRESSURE_ADVANCE ADVANCE=0.028 OFFSET=0.15 VELOCITY=2 SMOOTH_TIME=0.02"
     ],
     "filament_toolchange_delay": [
         "0"
     ],
     "filament_type": [
-        "TPU"
+        "PCTG"
     ],
     "filament_unloading_speed": [
         "0"
@@ -193,7 +193,7 @@
         "0"
     ],
     "filament_vendor": [
-        "Generic"
+        "Extrudr"
     ],
     "filament_wipe": [
         "0"
@@ -209,37 +209,37 @@
     ],
     "from": "User",
     "full_fan_speed_layer": [
-        "0"
+        "3"
     ],
     "hot_plate_temp": [
-        "30"
+        "90"
     ],
     "hot_plate_temp_initial_layer": [
-        "30"
+        "85"
     ],
     "idle_temperature": [
         "0"
     ],
-    "inherits": "My Generic TPU",
+    "inherits": "My Generic PLA",
     "internal_bridge_fan_speed": [
-        "-1"
+        "40"
     ],
     "is_custom_defined": "0",
-    "name": "LHS - TPU 95A",
+    "name": "LHS - PCTG",
     "nozzle_temperature": [
-        "245"
+        "280"
     ],
     "nozzle_temperature_initial_layer": [
-        "230"
+        "270"
     ],
     "nozzle_temperature_range_high": [
         "300"
     ],
     "nozzle_temperature_range_low": [
-        "200"
+        "230"
     ],
     "overhang_fan_speed": [
-        "100"
+        "60"
     ],
     "overhang_fan_threshold": [
         "50%"
@@ -248,7 +248,7 @@
         "0.4157"
     ],
     "pressure_advance": [
-        "0.08"
+        "0.038"
     ],
     "reduce_fan_stop_start_freq": [
         "1"
@@ -260,22 +260,22 @@
         "1"
     ],
     "slow_down_layer_time": [
-        "12"
+        "14"
     ],
     "slow_down_min_speed": [
-        "12"
+        "15"
     ],
     "supertack_plate_temp": [
-        "0"
+        "45"
     ],
     "supertack_plate_temp_initial_layer": [
-        "0"
+        "45"
     ],
     "support_material_interface_fan_speed": [
-        "-1"
+        "80"
     ],
     "temperature_vitrification": [
-        "30"
+        "80"
     ],
     "textured_cool_plate_temp": [
         "40"
@@ -284,10 +284,10 @@
         "40"
     ],
     "textured_plate_temp": [
-        "35"
+        "55"
     ],
     "textured_plate_temp_initial_layer": [
-        "35"
+        "55"
     ],
-    "version": "2.1.1.0"
+    "version": "2.3.0.1-dev"
 }
