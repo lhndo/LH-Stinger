@@ -72,17 +72,16 @@ gcode:
   G0 {clear_move} F{60*approach_speed}                      ## Approach clear position
   
   SET_SERVO SERVO=flipstop_servo ANGLE=90                   ## Servo In
-  G4 P1000
+  G4 P1200
   
   G0 E-{fil_cut_position} F{60*filament_retract_speed}      ## Retract filament close to the cutter blade
   G0 {cut_move} F{60*cut_speed}                             ## Move to cut
   G0 {clear_move} F{60*cut_speed}                           ## Move back to clear position
-
-  SET_SERVO SERVO=flipstop_servo ANGLE=0                    ## Servo Out
-  SET_SERVO SERVO=flipstop_servo WIDTH=0
-  G4 P1500
-  G0 X220 F{60*cut_speed}                                   ## Adjust final park location to stop oozing over the wipe tower
   
   M400
+  SET_SERVO SERVO=flipstop_servo ANGLE=0                    ## Servo Out
+  G4 P1200
+  SET_SERVO SERVO=flipstop_servo WIDTH=0
+
 
 ```
