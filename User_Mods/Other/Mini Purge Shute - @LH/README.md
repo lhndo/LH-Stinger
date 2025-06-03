@@ -34,8 +34,9 @@ Position it so that it sits 2mm to the right of the bed, and that the nozzle sli
 
 
 ## Gcode
-- In **sp_mmu.cfg** enable **variable_use_park** and **variable_park_purge**
-- Set **variable_purge_speed** to 18 (or test other values), and **variable_park_x** slightly to the right of the center of the PTFE tube
+- In **sp_mmu.cfg** set  **variable_use_park: 1** and **variable_park_purge: 1**
+- Set **variable_purge_speed: 18** (or test other values), and **variable_park_x** slightly to the right of the center of the PTFE tube
+- Under advanced settings set **variable_skip_first_park: 1** if using a filament cutter
 - Disable the wipe tower in Orca Slicer
 
 - Replace `_SP_PURGE` in `sp_mmu.cfg` and adjust the values if needed  
@@ -43,9 +44,18 @@ Position it so that it sits 2mm to the right of the bed, and that the nozzle sli
 
 ```
 [gcode_macro _SP_PURGE]   ## Called whenever a purging action is performed
+variable_brush_left_pos = 215  ## X nozzle position to the left of the brush
+variable_brush_speed = 150
+variable_brush_cycles = 4
+variable_pause = 1000          ## ms - pause between brush cycles 
+variable_min_purge = 30        ## minimum amount of purge
+variable_max_blob_size = 80    ## max mm of filament in each blob, set to 999 to disable multiple blob sequences
+variable_fan_speed = 0         ## fan speed during purge 0 - 255
+
 gcode:  
   {% set sp = printer['gcode_macro _SP_VARS'] %}
   {% set purge = params.PURGE|default(0) | int %}
+  {% set purge = [purge, min_purge] | max | int %}
   G90
 
   ## Park with Conditional Homing if enabled
@@ -59,23 +69,34 @@ gcode:
 
   ## Fan
   {% set saved_fan_speed = printer['fan'].speed if printer['fan'] is defined else 0 %}
-  M106 S0   ## Set fan speed during purge
-  
-  ## Purge  
-  M400
-  RESPOND MSG="SP: Purging {purge}mm of filament"
-  G1 E{purge} F{60*(sp.purge_speed/2.4)}  ## Conversion from mm3/s to mm/s 
-  G0 E-0.4 F{35*60}   ## Retract
+  M106 S{fan_speed}   ## Set fan speed during purge
 
-  ## Brush
-  G4 P1000 # Wait 1 second 
-  {% for i in range(4) %}
-      G0 X215 F{60*100}  ## Left side of the brush position
-      G0 X{sp.park_x} F{60*100}
+  ## Purge cycles
+  {% set purge_cycles = [1, (purge + max_blob_size - 1) // max_blob_size] | max %}
+  RESPOND MSG="SP: Purging {purge}mm of filament broken in {purge_cycles} cycles"
+  M400
+
+  {% set ns = namespace(purge_total=purge) %}
+  {% for i in range(purge_cycles) %} 
+    
+    ## Purge  
+    {% set purge_now = [ns.purge_total, max_blob_size] | min %}
+    G1 E{purge_now} F{60*(sp.purge_speed/2.4)}  ## Conversion from mm3/s to mm/s 
+    G0 E-0.4 F{35*60}   ## Retract
+    {% set ns.purge_total = [0, (ns.purge_total - purge_now)] | max %}
+      
+    ## Brush
+    G4 P{pause} # Wait 
+    {% for i in range(brush_cycles) %}
+        G0 X{brush_left_pos-10} F{60*brush_speed}  ## Left side of the brush position
+        G0 X{sp.park_x} F{60*brush_speed}
+    {% endfor %}
+
   {% endfor %}
-  G0 X{sp.park_x+1} F{60*100}
   
   ## Restore Fan
   M106 S{saved_fan_speed}
+  G0 X{brush_left_pos-5} F{60*brush_speed}  ## Final end position
+  G0 E-0.4 F{35*60}   ## Retract
 
 ```
