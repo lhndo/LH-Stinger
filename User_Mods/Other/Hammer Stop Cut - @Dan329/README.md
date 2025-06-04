@@ -26,6 +26,13 @@ Solid
 
 ![](Images/2.png)
 
+## Mini Purge Shute - AWD X
+
+In that configuration the servo is mounted on top of the Shute mount.  
+You also need to use the longer "Hammer" arm.
+
+![](Images/3.png)
+
 
 ## Gcode
 - Flip Servo is defined as **flipstop_servo** in the config  
