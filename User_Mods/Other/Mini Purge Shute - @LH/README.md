@@ -62,7 +62,7 @@ gcode:
   {% if sp.use_park == 1 %}
     _SP_CONDITIONAL_HOME AXIS=XY
     _SP_PAUSE_PARK SKIP_Z=1   ## Select your park moves depending on your requirements
-    G0 X{sp.park_x} F{60*brush_speed}  ### Move to purge park position
+    G0 X{sp.park_x} F{60*sp.park_speed}  ### Move to purge park position
   {% endif %} 
 
   ## Verify heating
