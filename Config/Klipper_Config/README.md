@@ -59,7 +59,7 @@ Use [Balena Etcher](https://etcher.balena.io/) to burn the image onto the PI SD 
 
 ### Raspberry PI
 
-Read the following guide to install the **MainsailOS**
+Read the following guide to install the **MainsailOS**  
 https://docs-os.mainsail.xyz/getting-started/raspberry-pi-os-based
 
 
@@ -82,10 +82,10 @@ The easiest way is to install [**MobaXterm**](https://mobaxterm.mobatek.net/feat
 
 
 
-  If you pre-configured your SSID and WIFI Password correctly, or if you connect though a ethernet cable, you can try the following ways to find your Klipper IP address: 
+  If you pre-configured your SSID and WIFI Password correctly, or if you connect though a ethernet cable, you can try the following ways to find your Klipper IP address:  
      
-  A. Open your  your ROUTER dashboard and look at the device list
-  B. Open command prompt and run : `ping mainsailos.local -4` (Rraspberry Pi)
+  A. Open your  your ROUTER dashboard and look at the device list  
+  B. Open command prompt and run : `ping mainsailos.local -4` (Rraspberry Pi)  
   C. Install and run [Angry IP Scanner](https://angryip.org)   
 
 <br>
@@ -104,7 +104,7 @@ KIAUH installation:
 sudo apt-get install git -y
 cd ~ && git clone https://github.com/dw-0/kiauh.git
 ```
-2. Run KIAUH and select mode **4** (No)
+2. Run KIAUH and select mode **4** (No to using the Alpha version)
    
    `~/kiauh/kiauh.sh`
 
