@@ -178,7 +178,7 @@
         "0"
     ],
     "filament_start_gcode": [
-        "; filament start gcode\n; MPC_SET HEATER=extruder FILAMENT_DENSITY=1.22 FILAMENT_HEAT_CAPACITY=2\n; SET_PRESSURE_ADVANCE MODEL=linear\nSET_PRESSURE_ADVANCE EXTRUDER=extruder SMOOTH_TIME=0.04"
+        "; filament start gcode\n; MPC_SET HEATER=extruder FILAMENT_DENSITY=1.22 FILAMENT_HEAT_CAPACITY=2\nSET_PRESSURE_ADVANCE EXTRUDER=extruder SMOOTH_TIME=0.04"
     ],
     "filament_toolchange_delay": [
         "0"

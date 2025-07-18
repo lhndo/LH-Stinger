@@ -178,7 +178,7 @@
         "0"
     ],
     "filament_start_gcode": [
-        "; filament start gcode\nMAX_FAN MANUAL_AUX=0 LINK_AUX=0\n; MPC_SET HEATER=extruder FILAMENT_DENSITY=1.25 FILAMENT_HEAT_CAPACITY=5.5\n; SET_PRESSURE_ADVANCE ADVANCE=0.028 OFFSET=0.15 VELOCITY=2 SMOOTH_TIME=0.02"
+        "; filament start gcode\nMAX_FAN MANUAL_AUX=0 LINK_AUX=0\n; MPC_SET HEATER=extruder FILAMENT_DENSITY=1.25 FILAMENT_HEAT_CAPACITY=5.5"
     ],
     "filament_toolchange_delay": [
         "0"
