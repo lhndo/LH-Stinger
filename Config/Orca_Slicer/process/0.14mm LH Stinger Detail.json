@@ -65,6 +65,7 @@
     "skirt_start_angle": "-25",
     "slice_closing_radius": "0.04",
     "slow_down_layers": "2",
+    "slowdown_for_curled_perimeters": "0",
     "small_perimeter_speed": "75%",
     "small_perimeter_threshold": "3",
     "sparse_infill_acceleration": "20000",

@@ -62,6 +62,7 @@
     "skirt_speed": "100",
     "skirt_start_angle": "-25",
     "slice_closing_radius": "0.04",
+    "slowdown_for_curled_perimeters": "0",
     "small_perimeter_threshold": "7",
     "sparse_infill_acceleration": "15000",
     "sparse_infill_density": "98%",
