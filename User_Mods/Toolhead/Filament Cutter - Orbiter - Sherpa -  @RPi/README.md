@@ -37,13 +37,13 @@ Screw Button Head M3 12mm  | 1
 ## Assembly
 
 * Cut the following segments of PTFE tube:
-  * Bushing - 3mm
+  * PTFE Bushing - 3mm
   * Bottom Tube ( LH Stinger w Dragon hotend) - ~8.5mm - chamfer at the top
   * Top Tube:
     * CNC Sherpa Mini: ~7mm - chamfer at the top
     * Orbiter 2: ~7.5mm - chamfer at the top
 
-* Prepare a 2mm Pin measuring 5.3mm in length 
+* Prepare a 2mm Pin measuring 5.3mm in length (can use a cut nail, screw, or a filament strand)  
 
 * Glue the hell out of the cutter arm assembly with your choice of goo. This part is disposable when replacing.  
 
