@@ -59,7 +59,14 @@ Screw Button Head M3 12mm  | 1
 
 <br>
 
-* Mount the Stopper on top of your X extrusion
+### Cutting Stopper Placement
+
+
+1. Move the toolhead to the end of the travel -1mm (1)
+2. With a filament strand inside the cutter pull on the cutter lever and feel the end of the cutting point (2). 
+3. Place the stopper there and mark the position (3)
+
+![](Assets/6.png)
 
 <br>
 
