@@ -66,6 +66,8 @@ Screw Button Head M3 12mm  | 1
 2. With a filament strand inside the cutter pull on the cutter lever and feel the end of the cutting point (2). 
 3. Place the stopper there and mark the position (3)
 
+*Note: Try using the **Short action stopper** (Orange) for setups that require more space for installing a [purge shute/brush](https://github.com/lhndo/LH-Stinger/tree/main/User_Mods/Other/Mini%20Purge%20Shute%20-%20%40LH)*
+
 ![](Assets/6.png)
 
 <br>
