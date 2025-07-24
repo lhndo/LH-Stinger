@@ -45,7 +45,7 @@ Screw Button Head M3 12mm  | 1
 
 * Prepare a 2mm Pin measuring 5.3mm in length 
 
-* Glue the hell out of the cutter arm assembly with your choice of goo
+* Glue the hell out of the cutter arm assembly with your choice of goo. This part is disposable when replacing.  
 
 ![](Assets/3.png)
 
@@ -63,10 +63,10 @@ Screw Button Head M3 12mm  | 1
 
 
 1. Move the toolhead to the end of the travel -1mm (1)
-2. With a filament strand inside the cutter pull on the cutter lever and feel the end of the cutting point (2). 
+2. With a filament strand inside the cutter pull on the cutter lever and feel the end of the cutting point (with a small overshoot) (2). 
 3. Place the stopper there and mark the position (3)
 
-*Note: Try using the **Short action stopper** (Orange) for setups that require more space for installing a [purge shute/brush](https://github.com/lhndo/LH-Stinger/tree/main/User_Mods/Other/Mini%20Purge%20Shute%20-%20%40LH)*
+*Note: Try using the **Short action stopper** (Orange) for setups that require more space for installing a [purge shute/brush](https://github.com/lhndo/LH-Stinger/tree/main/User_Mods/Other/Mini%20Purge%20Shute%20-%20%40LH)*  
 
 ![](Assets/6.png)
 
