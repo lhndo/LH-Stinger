@@ -20,8 +20,8 @@
     - [FYSETC Spider 3 H7](#fysetc-spider-3-h7)
 - [Configuration](#configuration)
   - [Klipper](#klipper)
-- [Klipper Modules](#klipper-modules)
   - [XZ Dockable Probe](#xz-dockable-probe)
+  - [Gcode Shell Command](#gcode-shell-command)
   - [ResHelper](#reshelper)
   - [Resonance Holder](#resonance-holder)
 - [Themes](#themes)
@@ -220,12 +220,26 @@ wget https://raw.githubusercontent.com/lhndo/klipper/red/klippy/extras/xz_dockab
 cd ../..
 echo "klippy/extras/xz_dockable_probe.py" >> .git/info/exclude
 git update-index --assume-unchanged klippy/extras/xz_dockable_probe.py > /dev/null 2>&1
-systemctl restart klipper
 </code></pre>
 
 by [Dalegaard](https://github.com/dalegaard) and [Churls](https://github.com/churls5495/Annex-Engineering_User_Mods/tree/main/Extruders/Sherpa_Mini/Toolheads/Churls-Stiffy_E3)
 
 <br>
+
+
+## Gcode Shell Command
+
+
+**Installation:**
+```
+cd ~/klipper/klippy/extras/
+rm gcode_shell_command.py
+wget https://raw.githubusercontent.com/KalicoCrew/kalico/refs/heads/main/klippy/extras/gcode_shell_command.py
+cd ../..
+echo "klippy/extras/gcode_shell_command.py" >> .git/info/exclude
+git update-index --assume-unchanged klippy/extras/gcode_shell_command.py > /dev/null 2>&1
+```
+
 
 ## ResHelper
 
@@ -242,6 +256,8 @@ cd ~ && git clone https://github.com/lhndo/ResHelper.git
 cd ResHelper
 ./install.sh
 ```
+
+
 
 <br>
 
