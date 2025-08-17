@@ -2,7 +2,7 @@
 ## Hammer Stop Cut
 *by Dan329*
 
-Servo controlled filament cutter stopper for printers with restricted X travel
+Servo controlled filament cutter stopper for printers with restricted X travel (AWD X configurations)
 
 ![](Images/1.png)
 
@@ -35,9 +35,28 @@ You also need to use the longer "Hammer" arm.
 
 
 ## Gcode
-- Flip Servo is defined as **flipstop_servo** in the config  
 
-- Replaces `_SP_TIP_FORM` in `sp_mmu.cfg`  
+- Add to `sp_mmu.cfg`
+
+```
+[servo flipstop_servo]
+pin: PD1                          ## Define your hammer servo pin here
+initial_angle: 0
+maximum_servo_angle: 180
+minimum_pulse_width: 0.000500
+maximum_pulse_width: 0.002500
+
+[delayed_gcode _FLIP_OFF]
+initial_duration: 2
+gcode:
+  SET_SERVO SERVO=flipstop_servo ANGLE=0
+  G4 P1200
+  SET_SERVO SERVO=flipstop_servo WIDTH=0
+```
+
+<br>
+
+- Replace `_SP_TIP_FORM` in `sp_mmu.cfg`  
 
 ```
 [gcode_macro _SP_TIP_FORM]   ## Filament Cut Macro
@@ -78,7 +97,7 @@ gcode:
 
   G0 {clear_move} F{60*approach_speed}                      ## Approach clear position
   
-  SET_SERVO SERVO=flipstop_servo ANGLE=90                   ## Servo In
+  SET_SERVO SERVO=flipstop_servo ANGLE=92                   ## Servo In
   G4 P1200
   
   G0 E-{fil_cut_position} F{60*filament_retract_speed}      ## Retract filament close to the cutter blade
@@ -90,5 +109,8 @@ gcode:
   G4 P1200
   SET_SERVO SERVO=flipstop_servo WIDTH=0
 
+  G0 {sp.park_x} F{60*park_speed}                           ## Parking on X
+
 
 ```
+
