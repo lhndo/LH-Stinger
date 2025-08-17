@@ -49,8 +49,6 @@ maximum_pulse_width: 0.002500
 [delayed_gcode _FLIP_OFF]
 initial_duration: 2
 gcode:
-  SET_SERVO SERVO=flipstop_servo ANGLE=0
-  G4 P1200
   SET_SERVO SERVO=flipstop_servo WIDTH=0
 ```
 
