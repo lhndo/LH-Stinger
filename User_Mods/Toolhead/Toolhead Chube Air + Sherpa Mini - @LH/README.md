@@ -4,7 +4,7 @@
 
 ![](cbo2.png)
 
-* Support cage needs to be rotated 180 degrees from the heatsink/heater to match the fan intake.
+* Hotend needs to be rotated 180 to match the fan intake.
 
 
 ![](cbo3.png)
