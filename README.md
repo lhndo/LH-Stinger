@@ -143,14 +143,15 @@ Status: **V1.0**
 <br>
 
 
-## Upcoming Projects
+## Stinger Addons
 
-- [LHS Pico MMU](https://github.com/lhndo/LH-Stinger/wiki/Pico-MMU) *(In progress)*  
+- [**LHS Pico MMU**](https://github.com/lhndo/LH-Stinger/wiki/Pico-MMU)  
 
 ![LH Stinger - LHS - Pico MMU](https://github.com/lhndo/LH-Stinger/blob/main/User_Mods/MMU/Stinger%20Pico%20MMU%20-%20@LH/Assets/lhs_pico_mmu.png?raw=true)
 
 
-- Enclosure *(In progress)*
+- **Enclosure** *(In progress)* 
+  *by zwirbel*
 
 <br>
 
