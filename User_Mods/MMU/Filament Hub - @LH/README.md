@@ -53,4 +53,4 @@ Screw Countersunk M3 8mm  | 2
 ## Assembly
 
 Assembly instructions are available on the LH Stinger Wiki: 
-https://github.com/lhndo/LH-Stinger/wiki/Pico-MMU#filament-sensor
+https://github.com/lhndo/LH-Stinger/wiki/Pico-MMU#filament-sensor-and-hub
