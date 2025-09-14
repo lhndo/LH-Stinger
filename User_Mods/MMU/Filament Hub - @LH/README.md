@@ -10,7 +10,7 @@
 
 - #### *3-4 Lane* *Toolhead Hub and Filament Sensor for the [Orbiter V2 and V2.5 Extruders](https://s.click.aliexpress.com/e/_oop9Ovv)*
 
-- #### Floating Hub Variants with ECAS connector
+- #### Floating Hub Variants with Sensor and ECAS connector (for universal usage)
 
 4 Lane version by ***Amber White***
 
@@ -52,5 +52,14 @@ Screw Countersunk M3 8mm  | 2
 
 ## Assembly
 
-Assembly instructions are available on the LH Stinger Wiki: 
+* Sensor assembly instructions are available on the LH Stinger Wiki: 
 https://github.com/lhndo/LH-Stinger/wiki/Pico-MMU#filament-sensor-and-hub
+
+### Two part Hub
+
+The **Two Parts Hub** is the a **V2** variant which contains an improved conical shape funnel, part access for post processing, and an optimized post sensor filament path.  
+
+![](Assets/6.png)
+
+1. Post process the part to ensure smooth filament travel with no snagging points. File, Sand, polish, glue, smooth, etc.
+2. Once done, glue the cap permanently with CA glue. Insert a filament strand though the back hole, trim flush and glue it. 
