@@ -17,6 +17,8 @@
 
 ## Installation
 
+*Note: There might be a small grub screw in the back holding the collet.*   
+
 ![](Assets/4.png)
 
 
