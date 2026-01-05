@@ -2,7 +2,7 @@
 
 Requires:
 * 2x M3 8mm Countersunk Screws
-* 2x M2.5 8mm Cap Head Screw (optional - can use thin double tape instead)
+* 1x M2.5 8mm Cap Head Screw (optional - can use thin double tape instead)
 
 ![](1.png)
 
