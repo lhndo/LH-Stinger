@@ -39,6 +39,9 @@ Wiring | Stepper Motor Cable | 1
 
 **AWD X Gantry**
 
+*Note:*  
+* *Most use the existing X extrusion/rail and custom cut it to the dimensions listed below.*  
+
 | Type | Item  |  Quantity |
 |---|---|---|	
 Extrusion | 2020 - 304 mm| 1
@@ -70,6 +73,10 @@ Screw Socket Head | M5 12mm | 1
 <br>
 
 **AWD Z Right Mount**
+
+*Note:*  
+* *This includes the complete list of parts for a new Z drive assembly*  
+* *Realistically you would probably only need an extra bearing, a longer shaft (can be longer than stated size) and a couple of fasteners.*  
 
 | Type | Item  |  Quantity |
 |---|---|---|	
