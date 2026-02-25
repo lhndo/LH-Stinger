@@ -16,6 +16,10 @@
 
 ![](Assets/5.png)
 
+***Note: It is recommended to use the two part hub variants (red cap) which are the latest ones released and feature a couple of improvements.***
+
+<br>
+
 ![](Assets/3.png)
 
 ![](Assets/1.png)
