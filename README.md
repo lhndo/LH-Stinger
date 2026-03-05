@@ -7,10 +7,9 @@
 		A no-compromise cartesian 3D Printer designed for speed and precision, created as a long-lasting platform for those who like to push quality or speed to the extreme.  </strong>
     <br />
     <br />
-    <i>~ This project intends to become a community-driven project, not a brand. ~
+    <i>~ This is a community-driven project, not a brand. ~
     <br /> 
     <br />
-    Join us: 
     <br />
     </i>
       <a href="https://discord.gg/EzssCfnEDS"> <img  src="Images/disc.png" />  </a>
@@ -61,6 +60,7 @@ Status: **V1.0**
 
 
 ## Features
+*(BOM Spec)*
 <br>
 
 - Cross Frame design focused on stiffness and stability with a low center of gravity
@@ -89,13 +89,13 @@ Status: **V1.0**
 - High torque LDO-42STH48-2504AC stepper motors supplied with 36V for the X and Y-axis
 - Dual power supply supporting 24V and 36V power standards (easily configurable for 48V)
 - Driven by the Octopus Pro 1.1 board with TMC2240 drivers
-- Running [Klipper](https://github.com/Klipper3d/klipper) firmware
+- Running [Klipper](https://github.com/Klipper3d/klipper)/[Kalico](https://github.com/KalicoCrew/kalico) firmware
 - Fully featured Klipper [Configuration](/Config/Klipper_Config) and [Slicer Profiles](/Config/Orca_Slicer) available
 - Easily serviceable [External electronic box](https://github.com/lhndo/LH-Stinger/wiki/Build-Log#electronic-box-design) with good airflow, and support for multiple power supplies, SSRs, RPi and large controller boards.
 - Good cable management with a quick disconnect [Breakout Board](/PCB/LHS%20Breakbeat) between the printer and ebox
 - Toolhead based on the Dragon HF hotend and HF extender
   - Alternate hotends supported: Dragon UHF, Ace, Mellow NF-Crazy-Volcano HF, Rapido, Goliath ([User Mods](/User_Mods/Toolhead/))
-- LDO Orbiter 2.0 direct drive extruder
+- LDO Orbiter 2.5 direct drive extruder
   - Sherpa Mini supported ([User Mods](/User_Mods/Printer))
 - Dual 5015 fan setup for part cooling
 - Dual [AUX cooling modules](/CAD/Aux%20Fan) based on 9733 blower fans providing 64 CFM of auxiliary cooling
