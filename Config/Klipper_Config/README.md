@@ -201,10 +201,10 @@ For more information please consult:
 
 
 # Klipper Modules
-:children_crossing: *The following modules are required for the LH Stinger setup*
+:children_crossing: **The klipper modules below are required for the LH Stinger setup**
 
 
-Before installing the modules below, make sure that your klipper installation is up to date.
+
 
 
 <br>
@@ -213,7 +213,17 @@ Before installing the modules below, make sure that your klipper installation is
 
 The XZ Dockable Probe module incorporates some unique homing features and is required for the QuickDraw probe.
 
-The following commands in the SSH console will install the module:
+
+:children_crossing: If running the latest Klipper version, you will need to temporarily drop back a few changes due to recent API changes.  
+To do so, run the following in the SSH console:
+
+```
+cd ~/klipper
+git checkout 4cc47cf
+sudo systemctl restart klipper
+```
+
+To install the probe module, run:
 
 <pre><code>cd ~/klipper/klippy/extras/
 wget https://raw.githubusercontent.com/lhndo/klipper/red/klippy/extras/xz_dockable_probe.py
@@ -330,11 +340,13 @@ For more information on the **BTT Pi GPIO** pinout please consult this table: ht
 
 # Slicers
 
+### [Orca Slicer 2.4.0](https://github.com/OrcaSlicer/OrcaSlicer/releases) or newer includes the LH Stinger printer and filament profiles.
 
+![Relay](/Images/orca.png)
 
 ## Bed Origin
 
-***Note: The following settings are included in the provided [LH Stinger - Orca Slicer Profiles ](https://github.com/lhndo/LH-Stinger/tree/main/Config/Orca_Slicer)***
+***Note: The following settings are included in the provided LH Stinger - Orca Slicer Profiles***  
 
 The printer supports multiple bed sizes. For ease of use, the bed position is defined in the slicer by changing the Origin Offsets, and **not in Klipper's printer.cfg** by changing position_endstop and position_min for X/Y axis.  
 
@@ -351,7 +363,7 @@ Add those values in the Origin section as negative values.
 
 ### Orca Slicer
 
-***Note: The following settings are included in the provided [LH Stinger - Orca Slicer Profiles ](https://github.com/lhndo/LH-Stinger/tree/main/Config/Orca_Slicer)***
+***Note: The following settings are included in the provided LH Stinger - Orca Slicer Profiles***
 
 Machine Start G-Code:  
 
