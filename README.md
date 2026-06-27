@@ -85,7 +85,7 @@ _**(at BOM Spec)**_
 - Dual power supply supporting 24V and 36V power standards (easily configurable for 48V)
 - Driven by the Octopus Pro 1.1 board with TMC2240 drivers
 - Running [Klipper](https://github.com/Klipper3d/klipper)/[Kalico](https://github.com/KalicoCrew/kalico) firmware
-- Fully featured Klipper [Configuration](/Config/Klipper_Config) and [Slicer Profiles](/Config/Orca_Slicer) available
+- Fully featured Klipper [Configuration](/Config/Klipper_Config) and [Slicer Profiles](/Config/Klipper_Config#slicers) available
 - Easily serviceable [External electronic box](https://github.com/lhndo/LH-Stinger/wiki/Build-Log#electronic-box-design) with good airflow, and support for multiple power supplies, SSRs, RPi and large controller boards.
 - Good cable management with a quick disconnect [Breakout Board](/PCB/LHS%20Breakbeat) between the printer and ebox
 - Toolhead based on the Dragon HF hotend and HF extender
